@@ -20,7 +20,6 @@ noUiSlider.create(slider, {
 
 // function - insert cards
 function insert_card(title, file) {
-	$('#result').empty();
     var data = "<div class='col s12 m6'>\
                     <div class='card grey darken-1'>\
                         <div class='card-content white-text'>\
@@ -79,6 +78,7 @@ $('#b_search').on('click', function() {
         contentType: false,
         processData: false,
         success: function(res) {
+        	$('#result').empty();
         	var len = res['title'].length;
         	for(var i = 0; i < len; i++)
         		insert_card(res['title'][i], res['file'][i]);
