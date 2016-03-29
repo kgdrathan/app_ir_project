@@ -9,20 +9,15 @@
         <!-- CSS  -->
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link href="{% static 'css/materialize.min.css' %}" type="text/css" rel="stylesheet" media="screen,projection"/>
-        <link href="{% static 'css/nouislider.css' %}" type="text/css" rel="stylesheet" media="screen,projection"/>
+        <link href="http://materializecss.com/extras/noUiSlider/nouislider.css" type="text/css" rel="stylesheet" media="screen,projection"/>
         <link href="{% static 'css/style.css' %}" type="text/css" rel="stylesheet" media="screen,projection"/>
 
         <!--  Scripts-->
         <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <script src="https://code.highcharts.com/highcharts.js"></script>
         <script src="{% static 'js/materialize.min.js' %}"></script>
-        <script src="{% static 'js/nouislider.js' %}"></script>
-        <script src="{% static 'js/nouislider.min.js' %}"></script>
+        <script src="http://materializecss.com/extras/noUiSlider/nouislider.js"></script>
         <script src="{% static 'js/script.js' %}"></script>
-        <script type="text/javascript">
-            function print_to() {
-    console.log(document.getElementById('f_upload').files);
-}
-        </script>
     </head>
     <body style="overflow:hidden">
         <nav class="red lighten-2" role="navigation">
@@ -37,27 +32,38 @@
                 <div class="file-field input-field center" style="padding:20px">
                     <div class="btn">
                         <span>File</span>
-                        <input id="f_upload" type="file" onchange="print_to();">
+                        <input id="f_upload" type="file">
                     </div>
                     <div class="file-path-wrapper">
-                        <input class="file-path-validate" type="text">
+                        <input class="file-path validate" type="text">
                     </div>
                 </div>
                 <button id="b_search" class="btn waves-effect waves-light center" style="margin:20px; float:right">Search
                     <i class="material-icons left">search</i>
                 </button>
+                <button id="b_graph" class="btn waves-effect waves-light center" style="margin:20px; float:right">Graph
+                    <i class="material-icons left">equalizer</i>
+                </button>
             </div>
 
-            <div id="result" class="container row col s12 m8 l9 teal lighten-2" style="height:630px; overflow-y:scroll">
+            <div id="result" class="container row col s12 m8 l9" style="height:630px; overflow-y:scroll">  <!-- teal lighten-2 -->
             </div>
         </div>
 
         <div id="modal" class="modal modal-fixed-footer">
             <div class="modal-content">
-                <p>Doc Content</p>
+                <p style="white-space: pre-line">Doc Content</p>
             </div>
             <div class="modal-footer">
-                <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat ">Agree</a>
+                <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+            </div>
+        </div>
+
+        <div id="graph-modal" class="modal modal-fixed-footer">
+            <div class="modal-content" id="graph-content">
+            </div>
+            <div class="modal-footer">
+                <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
             </div>
         </div>
 

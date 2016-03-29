@@ -1,6 +1,11 @@
 $(document).ready(function() {
 // everything starts
 
+var years = new Array(25)
+			    .join().split(',')
+			    .map(function(item, index){ return ++index + 1990;});
+var count = new Array(25);
+
 // set year-range
 var slider = document.getElementById('year-range');
 noUiSlider.create(slider, {
@@ -15,8 +20,9 @@ noUiSlider.create(slider, {
 
 // function - insert cards
 function insert_card(title, file) {
+	$('#result').empty();
     var data = "<div class='col s12 m6'>\
-                    <div class='card blue-grey darken-1'>\
+                    <div class='card grey darken-1'>\
                         <div class='card-content white-text'>\
                             <span>"+title+"</span>\
                         </div>\
@@ -31,6 +37,31 @@ function insert_card(title, file) {
 		$('.modal-content p').load(file_url);
 		$('#modal').openModal();
 	});
+}
+
+function create_graph(){
+    var chart = new Highcharts.Chart({
+    	chart: {
+            renderTo: 'graph-content'
+        },
+        title: {
+            text: 'Papers in a Year'
+        },
+        xAxis: {
+            categories: years
+        },
+        yAxis: {
+            plotLines: [{
+                value: 0,
+                width: 1,
+                color: '#808080'
+            }]
+        },
+        series: [{
+            name: 'documents',
+            data: count
+        }]
+    });
 }
 
 $('#b_search').on('click', function() {
@@ -51,14 +82,32 @@ $('#b_search').on('click', function() {
         	var len = res['title'].length;
         	for(var i = 0; i < len; i++)
         		insert_card(res['title'][i], res['file'][i]);
+        	count = new Array(25);
+        	for(var i = 0; i < len; i++)
+        		count[res['year'][i]-1991]++;
         }
     });
+});
+
+$('#b_graph').on('click', function() {
+	console.log(years);
+	console.log(count);
+	create_graph();
+	count = new Array(25);
+    $('#graph-modal').openModal();
 });
 
 $('.modal-footer a').on('click', function() {
 	$('#modal').closeModal();
 	$('.lean-overlay').hide();
 });
+
+$('#f_upload').on('change', function() {
+    var u_file = document.getElementById('f_upload').files[0];
+    $('#result').html(u_file);
+});
+
+$('#b_graph').hide();
 
 // everything ends
 });
