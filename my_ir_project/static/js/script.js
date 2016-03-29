@@ -104,7 +104,10 @@ $('.modal-footer a').on('click', function() {
 
 $('#f_upload').on('change', function() {
     var u_file = document.getElementById('f_upload').files[0];
-    $('#result').html(u_file);
+    var filereader = new FileReader();
+    filereader.readAsText(u_file);
+    var filetext = filereader.result.toString();
+    $('#result').html(filetext);
 });
 
 $('#b_graph').hide();
