@@ -20,7 +20,7 @@ def getTitle(filename):
 def getDocID(filename):
 
 	# filepath for relavant_papers.npy
-	filepath = './LDA/relavant_papers.npy'
+	filepath = './relavant_papers.npy'
 
 	x = np.load(filepath)
 	i = 0
@@ -32,9 +32,25 @@ def getDocID(filename):
 def getFilename(docID):
 
 	# filepath for relavant_papers.npy
-	filepath = './LDA/relavant_papers.npy'
+	filepath = './relavant_papers.npy'
 	x = np.load(filepath)
 	return x[docID][-12:]
+
+def getTopNID(docID, N = 30):
+
+	#filepath for random walk row
+	filepath = "RANDOM_WALK_ROW_" + str(docID) + ".npy"
+	x = np.load(filepath)
+	x = x.reshape((9916))
+	return x.argsort()[-N:][::-1]
+
+def getYear(filename):
+
+	y = filename[1:3]
+	if int(y) > 16:
+		return int("19" + y)
+	return int("20" + y)
+
 
 def main():
 
