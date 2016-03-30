@@ -1,7 +1,7 @@
 # pam.py
 # PAM implemenation for pyCluster
 # Aug 17, 2013
-# Added timing
+# Added timing 
 # May 27, 2013
 # daveti@cs.uoregon.edu
 # http://daveti.blog.com
