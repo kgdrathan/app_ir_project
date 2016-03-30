@@ -23,10 +23,10 @@ slider.noUiSlider.on('slide', function() {
 });
 
 $('#start_year').on('change', function() {
-	slider.noUiSlider.get()[0];
+	slider.noUiSlider.set([$(this).val(), slider.noUiSlider.get()[1]]);
 })
 $('#end_year').on('change', function() {
-	slider.noUiSlider.get()[0];
+	slider.noUiSlider.set([slider.noUiSlider.get()[0], $(this).val()]);
 })
 
 $('select').material_select();
@@ -51,33 +51,14 @@ function insert_card(title, file) {
 	});
 }
 
-function create_graph(){
-    var chart = new Highcharts.Chart({
-    	chart: {
-            renderTo: 'graph-content'
-        },
-        title: {
-            text: 'Papers in a Year'
-        },
-        xAxis: {
-            categories: years
-        },
-        yAxis: {
-            plotLines: [{
-                value: 0,
-                width: 1,
-                color: '#808080'
-            }]
-        },
-        series: [{
-            name: 'documents',
-            data: count
-        }]
-    });
-}
-
 $('#b_search').on('click', function() {
 	$('#result').empty();
+	$('#start_year_second').val($('#start_year').val());
+	$('#end_year_second').val($('#end_year').val());
+	$('#type_second').val($('#type').val());
+	$('#algo_second').val($('#algo').val());
+	$('#first').hide();
+	$('#second').show();
 
 	var formdata = new FormData();
 	formdata.append('file', document.getElementById('f_upload').files[0]);
@@ -102,14 +83,6 @@ $('#b_search').on('click', function() {
     });
 });
 
-$('#b_graph').on('click', function() {
-	console.log(years);
-	console.log(count);
-	create_graph();
-	count = new Array(25);
-    $('#graph_modal').openModal();
-});
-
 $('.modal-footer a').on('click', function() {
 	$('#modal').closeModal();
 	$('.lean-overlay').hide();
@@ -120,11 +93,11 @@ $('#f_upload').on('change', function() {
     var filereader = new FileReader();
     filereader.readAsText(u_file);
     var filetext = filereader.result.toString();
-    console.log(filetext);
+    $('#f_upload_second').val(filetext);
     $('#result').html(filetext);
 });
 
-$('#b_graph').hide();
+$('#second').hide();
 
 // everything ends
 });
