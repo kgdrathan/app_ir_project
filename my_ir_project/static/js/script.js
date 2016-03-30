@@ -17,6 +17,19 @@ noUiSlider.create(slider, {
         decimals: 0
     })
 });
+slider.noUiSlider.on('change', function() {
+	$('#start_year').val(slider.noUiSlider.get()[0]);
+	$('#end_year').val(slider.noUiSlider.get()[1]);
+});
+
+$('#start_year').on('change', function() {
+	slider.noUiSlider.get()[0];
+})
+$('#end_year').on('change', function() {
+	slider.noUiSlider.get()[0];
+})
+
+$('select').material_select();
 
 // function - insert cards
 function insert_card(title, file) {
