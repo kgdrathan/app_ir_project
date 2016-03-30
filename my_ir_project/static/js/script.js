@@ -93,7 +93,8 @@ $('#f_upload').on('change', function() {
     var filereader = new FileReader();
     filereader.readAsText(u_file);
     var filetext = filereader.result.toString();
-    $('#f_upload_second').val(filetext);
+    console.log(u_file.name);
+    $('#f_upload_second').val(u_file);
     $('#result').html(filetext);
 });
 
