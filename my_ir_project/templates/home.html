@@ -25,8 +25,7 @@
             </div>
         </nav>
 
-        <!-- this is: dhruv -->
-        <div class="container row">
+        <div id="first" class="container row">
             <div class="col s12 left-align">
                 <div class="file-field input-field center" style="padding:20px">
                     <div class="btn">
@@ -41,29 +40,31 @@
                 <!-- <p class="flow-text">Select the Year Range:</p> -->
                 <div id="year_range" class="slider col s12"></div><br><br>
 
-                <div class="row"><div class="input-field col s4 offset-s2">
-                    <i class="material-icons purple-text text-lighten-2 prefix">today</i>
-                    <input placeholder="2004" id="start_year" type="text" class="validate">
-                    <label for="start_year">Start Year</label>
+                <div class="row">
+                    <div class="input-field col s4 offset-s2">
+                        <i class="material-icons purple-text text-lighten-2 prefix">today</i>
+                        <input placeholder="2004" id="start_year" type="text" class="validate">
+                        <label for="start_year">Start Year</label>
+                    </div>
+                    <div class="input-field col s4 ">
+                        <i class="material-icons purple-text text-lighten-2 prefix">today</i>
+                        <input placeholder="2010" id="end_year" type="text" class="validate">
+                        <label for="end_year">End Year</label>
+                    </div>
                 </div>
-                <div class="input-field col s4 ">
-                    <i class="material-icons purple-text text-lighten-2 prefix">today</i>
-                    <input placeholder="2010" id="end_year" type="text" class="validate">
-                    <label for="end_year">End Year</label>
-                </div></div>
 
                 <div class="row">
                     <div class="input-field col s4 offset-s2">
-                        <select>
-                            <option value="1">Basic</option>
-                            <option value="2">Cluster</option>
+                        <select id="type">
+                            <option value="basic">Basic</option>
+                            <option value="cluster">Cluster</option>
                         </select>
                         <label>Result Type</label>
                     </div>
                     <div class="input-field col s4">
-                        <select>
-                            <option value="1">Random Walk</option>
-                            <option value="2">Div Rank</option>
+                        <select id="algo">
+                            <option value="random">Random Walk</option>
+                            <option value="div">Div Rank</option>
                         </select>
                         <label>Search Algo</label>
                     </div>
@@ -74,7 +75,53 @@
                 <i class="material-icons left">search</i>
             </button></div>
         </div>
-        <!-- unitl here: dhruv -->
+
+        <div id="second">
+            <br>
+            <div id="search_options" class="container">
+                <div class="row">
+                    <div class="input-field col s4">
+                        <input disabled value="" id="f_upload_second" type="text" class="validate">
+                        <label for="f_upload_second">File Uploaded</label>
+                    </div>
+                    <div class="input-field col s4">
+                        <i class="material-icons purple-text text-lighten-2 prefix">today</i>
+                        <input placeholder="2004" id="start_year_second" type="text" class="validate">
+                        <label for="start_year">Start Year</label>
+                    </div>
+                    <div class="input-field col s4">
+                        <i class="material-icons purple-text text-lighten-2 prefix">today</i>
+                        <input placeholder="2010" id="end_year_second" type="text" class="validate">
+                        <label for="end_year">End Year</label>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="input-field col s4">
+                        <select id="type_second">
+                            <option value="basic">Basic</option>
+                            <option value="cluster">Cluster</option>
+                        </select>
+                        <label>Result Type</label>
+                    </div>
+                    <div class="input-field col s4">
+                        <select id="algo_second">
+                            <option value="random">Random Walk</option>
+                            <option value="div">Div Rank</option>
+                        </select>
+                        <label>Search Algo</label>
+                    </div>
+                    <div class="input-field col s4">
+                        <button id="b_search_second" class="btn waves-effect waves-light center" style="margin:20px">Search
+                            <i class="material-icons left">search</i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div id="result" class="container row">
+                
+            </div>
+        </div>
 
         <div id="modal" class="modal modal-fixed-footer">
             <div class="modal-content">
