@@ -14,21 +14,21 @@
 
         <!--  Scripts-->
         <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-        <script src="https://code.highcharts.com/highcharts.js"></script>
         <script src="{% static 'js/materialize.min.js' %}"></script>
         <script src="http://materializecss.com/extras/noUiSlider/nouislider.js"></script>
         <script src="{% static 'js/script.js' %}"></script>
     </head>
     <body style="overflow:hidden">
-        <nav class="red lighten-2" role="navigation">
+        <nav class="purple lighten-2" role="navigation">
             <div class="nav-wrapper container">
                 <span id="logo-container" class="brand-logo">ACL Timeline Retrieval</span>
             </div>
         </nav>
 
-        <div id="all" class="row">
-            <div id="search" class="container col s12 m4 l3 grey lighten-1" style="height:630px" action="#">
-                <div id="year-range" class="container center" style="padding:50px 0px"></div>
+        <!-- this is from rathan -->
+        <!--<div id="all" class="row">
+            <div id="search" class="container center s6" style="height:630px">
+                <div id="year_range" class="slider white" style="padding:50px"></div>
                 <div class="file-field input-field center" style="padding:20px">
                     <div class="btn">
                         <span>File</span>
@@ -46,9 +46,54 @@
                 </button>
             </div>
 
-            <div id="result" class="container row col s12 m8 l9" style="height:630px; overflow-y:scroll">  <!-- teal lighten-2 -->
+            <div id="result" class="container row" style="height:630px; overflow-y:scroll">
             </div>
+        </div>-->
+        <!-- until here: rathan -->
+
+        <!-- this is: dhruv -->
+        <div class="container row">
+            <div class="col s12 left-align">
+                <div class="file-field input-field center" style="padding:20px">
+                    <div class="btn">
+                        <span>File</span>
+                        <input id="f_upload" type="file">
+                    </div>
+                    <div class="file-path-wrapper">
+                        <input class="file-path validate" type="text">
+                    </div>
+                </div><br>
+
+                <!-- <p class="flow-text">Select the Year Range:</p> -->
+                <div id="year_range" class="slider col s12"></div><br><br>
+
+                <div class="row"><div class="input-field col s4 offset-s2">
+                    <i class="material-icons purple-text text-lighten-2 prefix">today</i>
+                    <input placeholder="2004" id="start_year" type="text" class="validate">
+                    <label for="start_year">Start Year</label>
+                </div>
+                <div class="input-field col s4 ">
+                    <i class="material-icons purple-text text-lighten-2 prefix">today</i>
+                    <input placeholder="2010" id="end_year" type="text" class="validate">
+                    <label for="end_year">End Year</label>
+                </div></div>
+
+                <div class="row">
+                    <div class="input-field col s4 offset-s2">
+                        <select>
+                            <option value="1">Basic</option>
+                            <option value="2">Cluster</option>
+                        </select>
+                        <label>Result Type</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="center"><button id="b_search" class="btn waves-effect waves-light center" style="margin:20px">Search
+                <i class="material-icons left">search</i>
+            </button></div>
         </div>
+        <!-- unitl here: dhruv -->
 
         <div id="modal" class="modal modal-fixed-footer">
             <div class="modal-content">
@@ -59,7 +104,7 @@
             </div>
         </div>
 
-        <div id="graph-modal" class="modal modal-fixed-footer">
+        <div id="graph_modal" class="modal modal-fixed-footer">
             <div class="modal-content" id="graph-content">
             </div>
             <div class="modal-footer">

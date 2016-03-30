@@ -7,7 +7,7 @@ var years = new Array(25)
 var count = new Array(25);
 
 // set year-range
-var slider = document.getElementById('year-range');
+var slider = document.getElementById('year_range');
 noUiSlider.create(slider, {
     start: [1998, 2010],
     connect: true,
@@ -94,7 +94,7 @@ $('#b_graph').on('click', function() {
 	console.log(count);
 	create_graph();
 	count = new Array(25);
-    $('#graph-modal').openModal();
+    $('#graph_modal').openModal();
 });
 
 $('.modal-footer a').on('click', function() {
@@ -107,6 +107,7 @@ $('#f_upload').on('change', function() {
     var filereader = new FileReader();
     filereader.readAsText(u_file);
     var filetext = filereader.result.toString();
+    console.log(filetext);
     $('#result').html(filetext);
 });
 
