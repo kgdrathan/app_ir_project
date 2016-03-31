@@ -20,7 +20,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;8</pages>
+        <pages>1 #8211;8</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0101</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>hearst:2005:TNLP</bibkey>
@@ -34,13 +34,13 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>9&#8211;14</pages>
+        <pages>9 #8211;14</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0102</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>cassell-stone:2005:TNLP</bibkey>
    </paper>
    <paper id="0103">
-        <title>&#8220;Language and Computers&#8221;: Creating an Introduction for a General Undergraduate Audience</title>
+        <title> #8220;Language and Computers #8221;: Creating an Introduction for a General Undergraduate Audience</title>
         <author><first>Chris</first><last>Brew</last></author>
         <author><first>Markus</first><last>Dickinson</last></author>
         <author><first>W. Detmar</first><last>Meurers</last></author>
@@ -49,7 +49,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>15&#8211;22</pages>
+        <pages>15 #8211;22</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0103</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>brew-dickinson-meurers:2005:TNLP</bibkey>
@@ -62,7 +62,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>23&#8211;27</pages>
+        <pages>23 #8211;27</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0104</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>klein:2005:TNLP</bibkey>
@@ -77,7 +77,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>28&#8211;31</pages>
+        <pages>28 #8211;31</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0105</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>light-arens-lu:2005:TNLP</bibkey>
@@ -91,7 +91,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>32&#8211;36</pages>
+        <pages>32 #8211;36</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0106</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>lincoln-light:2005:TNLP</bibkey>
@@ -104,7 +104,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>37&#8211;42</pages>
+        <pages>37 #8211;42</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0107</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>freedman:2005:TNLP</bibkey>
@@ -121,14 +121,14 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>43&#8211;48</pages>
+        <pages>43 #8211;48</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0108</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>uszkoreit-EtAl:2005:TNLP</bibkey>
    </paper>
    <paper id="0109">
         <title>Natural Language Processing at the School of Information Studies for Africa</title>
-        <author><first>Bj&#246;rn</first><last>Gamb&#228;ck</last></author>
+        <author><first>Bj #246;rn</first><last>Gamb #228;ck</last></author>
         <author><first>Gunnar</first><last>Eriksson</last></author>
         <author><first>Athanassia</first><last>Fourla</last></author>
         <booktitle>Proceedings of the Second ACL Workshop on Effective Tools and Methodologies for Teaching NLP and CL</booktitle>
@@ -136,14 +136,14 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>49&#8211;56</pages>
+        <pages>49 #8211;56</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0109</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>gamback-eriksson-fourla:2005:TNLP</bibkey>
    </paper>
    <paper id="0110">
         <title>Teaching Language Technology at the North-West University</title>
-        <author><first>Sul&#233;ne</first><last>Pilon</last></author>
+        <author><first>Sul #233;ne</first><last>Pilon</last></author>
         <author><first>Gerhard B</first><last>Van Huyssteen</last></author>
         <author><first>Bertus</first><last>Van Rooy</last></author>
         <booktitle>Proceedings of the Second ACL Workshop on Effective Tools and Methodologies for Teaching NLP and CL</booktitle>
@@ -151,7 +151,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>57&#8211;61</pages>
+        <pages>57 #8211;61</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0110</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>pilon-vanhuyssteen-vanrooy:2005:TNLP</bibkey>
@@ -165,7 +165,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>62&#8211;68</pages>
+        <pages>62 #8211;68</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0111</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>liddy-mccracken:2005:TNLP</bibkey>
@@ -193,7 +193,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;8</pages>
+        <pages>1 #8211;8</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0201</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>liu-EtAl:2005:EduApp</bibkey>
@@ -207,7 +207,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>9&#8211;16</pages>
+        <pages>9 #8211;16</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0202</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>pulman-sukkarieh:2005:EduApp</bibkey>
@@ -221,7 +221,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>17&#8211;20</pages>
+        <pages>17 #8211;20</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0203</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>hoshino-hiroshi:2005:EduApp</bibkey>
@@ -235,7 +235,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>21&#8211;24</pages>
+        <pages>21 #8211;24</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0204</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>ward-litman:2005:EduApp</bibkey>
@@ -249,7 +249,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>25&#8211;28</pages>
+        <pages>25 #8211;28</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0205</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>xuan-zhang:2005:EduApp</bibkey>
@@ -265,7 +265,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>29&#8211;36</pages>
+        <pages>29 #8211;36</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0206</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>kakkonen-EtAl:2005:EduApp</bibkey>
@@ -280,7 +280,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>37&#8211;44</pages>
+        <pages>37 #8211;44</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0207</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>uzuner-katz-nahnsen:2005:EduApp</bibkey>
@@ -292,13 +292,13 @@
         <author><first>Carol</first><last>Pai</last></author>
         <author><first>Regan</first><last>Carey</last></author>
         <author><first>Zachary</first><last>Zaiss</last></author>
-        <author><first>Carolyn</first><last>Ros&#233;</last></author>
+        <author><first>Carolyn</first><last>Ros #233;</last></author>
         <booktitle>Proceedings of the Second Workshop on Building Educational Applications Using NLP</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>45&#8211;52</pages>
+        <pages>45 #8211;52</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0208</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>gweon-EtAl:2005:EduApp</bibkey>
@@ -310,14 +310,14 @@
         <author><first>Emil</first><last>Persson</last></author>
         <author><first>Lisa</first><last>Persson</last></author>
         <author><first>Fabian</first><last>Kostadinov</last></author>
-        <author><first>Malin</first><last>&#197;gren</last></author>
+        <author><first>Malin</first><last> #197;gren</last></author>
         <author><first>Suzanne</first><last>Schlyter</last></author>
         <booktitle>Proceedings of the Second Workshop on Building Educational Applications Using NLP</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>53&#8211;60</pages>
+        <pages>53 #8211;60</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0209</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>granfeldt-EtAl:2005:EduApp</bibkey>
@@ -332,7 +332,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>61&#8211;68</pages>
+        <pages>61 #8211;68</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0210</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>sumita-sugaya-yamamoto:2005:EduApp</bibkey>
@@ -348,7 +348,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>69&#8211;76</pages>
+        <pages>69 #8211;76</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0211</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>hempelmann-EtAl:2005:EduApp</bibkey>
@@ -362,14 +362,14 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>77&#8211;84</pages>
+        <pages>77 #8211;84</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0212</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>macchi-kahn:2005:EduApp</bibkey>
    </paper>
    <paper id="0213">
         <title>Situational Language Training for Hotel Receptionists</title>
-        <author><first>Fr&#233;d&#233;rique</first><last>Segond</last></author>
+        <author><first>Fr #233;d #233;rique</first><last>Segond</last></author>
         <author><first>Thibault</first><last>Parmentier</last></author>
         <author><first>Roberta</first><last>Stock</last></author>
         <author><first>Ran</first><last>Rosner</last></author>
@@ -379,7 +379,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>85&#8211;92</pages>
+        <pages>85 #8211;92</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0213</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>segond-EtAl:2005:EduApp</bibkey>
@@ -403,7 +403,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;4</pages>
+        <pages>1 #8211;4</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0301</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>meyers:2005:CorpAnn</bibkey>
@@ -419,7 +419,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>5&#8211;12</pages>
+        <pages>5 #8211;12</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0302</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>pustejovsky-EtAl:2005:CorpAnn</bibkey>
@@ -427,14 +427,14 @@
    <paper id="0303">
         <title>A Unified Representation for Morphological, Syntactic, Semantic, and Referential Annotations</title>
         <author><first>Erhard W.</first><last>Hinrichs</last></author>
-        <author><first>Sandra</first><last>K&#252;bler</last></author>
+        <author><first>Sandra</first><last>K #252;bler</last></author>
         <author><first>Karin</first><last>Naumann</last></author>
         <booktitle>Proceedings of the Workshop on Frontiers in Corpus Annotations II: Pie in the Sky</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>13&#8211;20</pages>
+        <pages>13 #8211;20</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0303</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>hinrichs-kubler-naumann:2005:CorpAnn</bibkey>
@@ -449,7 +449,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>21&#8211;28</pages>
+        <pages>21 #8211;28</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0304</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>bies-kulick-mandel:2005:CorpAnn</bibkey>
@@ -467,7 +467,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>29&#8211;36</pages>
+        <pages>29 #8211;36</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0305</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>dinesh-EtAl:2005:CorpAnn</bibkey>
@@ -481,7 +481,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>37&#8211;44</pages>
+        <pages>37 #8211;44</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0306</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>inui-okumura:2005:CorpAnn</bibkey>
@@ -497,7 +497,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>45&#8211;52</pages>
+        <pages>45 #8211;52</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0307</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>calhoun-EtAl:2005:CorpAnn</bibkey>
@@ -511,7 +511,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>53&#8211;60</pages>
+        <pages>53 #8211;60</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0308</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>wilson-wiebe:2005:CorpAnn</bibkey>
@@ -528,7 +528,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>61&#8211;67</pages>
+        <pages>61 #8211;67</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0309</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>palmer-EtAl:2005:CorpAnn</bibkey>
@@ -544,7 +544,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>68&#8211;75</pages>
+        <pages>68 #8211;75</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0310</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>mcshane-EtAl:2005:CorpAnn</bibkey>
@@ -558,7 +558,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>76&#8211;83</pages>
+        <pages>76 #8211;83</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0311</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>poesio-artstein:2005:CorpAnn</bibkey>
@@ -571,7 +571,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>84&#8211;91</pages>
+        <pages>84 #8211;91</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0312</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>xue:2005:CorpAnn</bibkey>
@@ -596,7 +596,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;8</pages>
+        <pages>1 #8211;8</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0401</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>yao-uszkoreit:2005:FeatEng</bibkey>
@@ -610,7 +610,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>9&#8211;16</pages>
+        <pages>9 #8211;16</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0402</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>fissahaadafre-derijke:2005:FeatEng</bibkey>
@@ -624,14 +624,14 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>17&#8211;23</pages>
+        <pages>17 #8211;23</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0403</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>liebscher-belew:2005:FeatEng</bibkey>
    </paper>
    <paper id="0404">
         <title>Using Semantic and Syntactic Graphs for Call Classification</title>
-        <author><first>Dilek</first><last>Hakkani-T&#252;r</last></author>
+        <author><first>Dilek</first><last>Hakkani-T #252;r</last></author>
         <author><first>Gokhan</first><last>Tur</last></author>
         <author><first>Ananlada</first><last>Chotimongkol</last></author>
         <booktitle>Proceedings of the ACL Workshop on Feature Engineering for Machine Learning in Natural Language Processing</booktitle>
@@ -639,7 +639,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>24&#8211;31</pages>
+        <pages>24 #8211;31</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0404</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>hakkanitur-tur-chotimongkol:2005:FeatEng</bibkey>
@@ -653,7 +653,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>32&#8211;39</pages>
+        <pages>32 #8211;39</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0405</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>kauchak-chen:2005:FeatEng</bibkey>
@@ -668,7 +668,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>40&#8211;47</pages>
+        <pages>40 #8211;47</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0406</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>boyd-geggharrison-byron:2005:FeatEng</bibkey>
@@ -684,7 +684,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>48&#8211;56</pages>
+        <pages>48 #8211;56</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0407</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>moschitti-EtAl:2005:FeatEng</bibkey>
@@ -698,7 +698,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>57&#8211;64</pages>
+        <pages>57 #8211;64</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0408</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>gamon-aue:2005:FeatEng</bibkey>
@@ -713,7 +713,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>65&#8211;72</pages>
+        <pages>65 #8211;72</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0409</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>shen-kruijff-klakow:2005:FeatEng</bibkey>
@@ -741,7 +741,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;9</pages>
+        <pages>1 #8211;9</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0501</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>pearl:2005:Psychocomp</bibkey>
@@ -754,7 +754,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>10&#8211;19</pages>
+        <pages>10 #8211;19</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0502</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>mitchener:2005:Psychocomp</bibkey>
@@ -770,7 +770,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>20&#8211;27</pages>
+        <pages>20 #8211;27</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0503</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>hu-EtAl:2005:Psychocomp1</bibkey>
@@ -786,7 +786,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>28&#8211;35</pages>
+        <pages>28 #8211;35</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0504</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>hu-EtAl:2005:Psychocomp2</bibkey>
@@ -801,7 +801,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>36&#8211;44</pages>
+        <pages>36 #8211;44</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0505</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>mayberry-crocker-knoeferle:2005:Psychocomp</bibkey>
@@ -815,7 +815,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>45&#8211;52</pages>
+        <pages>45 #8211;52</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0506</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>rappoport-sheinman:2005:Psychocomp</bibkey>
@@ -828,14 +828,14 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>53&#8211;68</pages>
+        <pages>53 #8211;68</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0507</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>macwhinney:2005:Psychocomp</bibkey>
    </paper>
    <paper id="0508">
         <title>Statistics vs. UG in Language Acquisition: Does a Bigram Analysis Predict Auxiliary Inversion?</title>
-        <author><first>Xu&#226;n-Nga Cao</first><last>Kam</last></author>
+        <author><first>Xu #226;n-Nga Cao</first><last>Kam</last></author>
         <author><first>Iglika</first><last>Stoyneshka</last></author>
         <author><first>Lidiya</first><last>Tornyova</last></author>
         <author><first>William Gregory</first><last>Sakas</last></author>
@@ -845,7 +845,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>69&#8211;71</pages>
+        <pages>69 #8211;71</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0508</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>kam-EtAl:2005:Psychocomp</bibkey>
@@ -861,7 +861,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>72&#8211;81</pages>
+        <pages>72 #8211;81</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0509</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>dellorletta-EtAl:2005:Psychocomp</bibkey>
@@ -875,7 +875,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>82&#8211;90</pages>
+        <pages>82 #8211;90</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0510</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>alishahi-stevenson:2005:Psychocomp</bibkey>
@@ -888,7 +888,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>91&#8211;99</pages>
+        <pages>91 #8211;99</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0511</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>niyogi:2005:Psychocomp</bibkey>
@@ -915,7 +915,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;8</pages>
+        <pages>1 #8211;8</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0601</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>basili-cammisa-moschitti:2005:CoNLL</bibkey>
@@ -929,7 +929,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>9&#8211;16</pages>
+        <pages>9 #8211;16</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0602</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>ge-mooney:2005:CoNLL</bibkey>
@@ -943,7 +943,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>17&#8211;24</pages>
+        <pages>17 #8211;24</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0603</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>nakov-hearst:2005:CoNLL</bibkey>
@@ -962,7 +962,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>25&#8211;32</pages>
+        <pages>25 #8211;32</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0604</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>freitag-EtAl:2005:CoNLL</bibkey>
@@ -978,7 +978,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>33&#8211;39</pages>
+        <pages>33 #8211;39</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0605</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>niu-EtAl:2005:CoNLL</bibkey>
@@ -992,7 +992,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>40&#8211;47</pages>
+        <pages>40 #8211;47</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0606</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>mackay-kondrak:2005:CoNLL</bibkey>
@@ -1007,7 +1007,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>48&#8211;55</pages>
+        <pages>48 #8211;55</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0607</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>sarkar-garthwaite-deroeck:2005:CoNLL</bibkey>
@@ -1021,7 +1021,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>56&#8211;63</pages>
+        <pages>56 #8211;63</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0608</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>gliozzo-strapparava:2005:CoNLL</bibkey>
@@ -1035,7 +1035,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>64&#8211;71</pages>
+        <pages>64 #8211;71</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0609</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>li-roth:2005:CoNLL</bibkey>
@@ -1050,7 +1050,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>72&#8211;79</pages>
+        <pages>72 #8211;79</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0610</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>li-bontcheva-cunningham:2005:CoNLL</bibkey>
@@ -1064,7 +1064,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>80&#8211;87</pages>
+        <pages>80 #8211;87</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0611</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>vandenbosch-daelemans:2005:CoNLL</bibkey>
@@ -1078,7 +1078,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>88&#8211;95</pages>
+        <pages>88 #8211;95</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0612</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>cherry-bergsma:2005:CoNLL</bibkey>
@@ -1092,7 +1092,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>96&#8211;103</pages>
+        <pages>96 #8211;103</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0613</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>baldridge-lascarides:2005:CoNLL</bibkey>
@@ -1106,7 +1106,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>104&#8211;111</pages>
+        <pages>104 #8211;111</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0614</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>fleischman-roy:2005:CoNLL</bibkey>
@@ -1120,7 +1120,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>112&#8211;119</pages>
+        <pages>112 #8211;119</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0615</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>goldwater-johnson:2005:CoNLL</bibkey>
@@ -1128,13 +1128,13 @@
    <paper id="0616">
         <title>An Analogical Learner for Morphological Analysis</title>
         <author><first>Nicolas</first><last>Stroppa</last></author>
-        <author><first>Fran&#231;ois</first><last>Yvon</last></author>
+        <author><first>Fran #231;ois</first><last>Yvon</last></author>
         <booktitle>Proceedings of the Ninth Conference on Computational Natural Language Learning (CoNLL-2005)</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>120&#8211;127</pages>
+        <pages>120 #8211;127</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0616</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>stroppa-yvon:2005:CoNLL</bibkey>
@@ -1147,7 +1147,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>128&#8211;135</pages>
+        <pages>128 #8211;135</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0617</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>freitag:2005:CoNLL</bibkey>
@@ -1161,7 +1161,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>136&#8211;143</pages>
+        <pages>136 #8211;143</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0618</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>marciniak-strube:2005:CoNLL</bibkey>
@@ -1176,7 +1176,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>144&#8211;151</pages>
+        <pages>144 #8211;151</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0619</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>hachey-alex-becker:2005:CoNLL</bibkey>
@@ -1184,13 +1184,13 @@
    <paper id="0620">
         <title>Introduction to the CoNLL-2005 Shared Task: Semantic Role Labeling</title>
         <author><first>Xavier</first><last>Carreras</last></author>
-        <author><first>Llu&#237;s</first><last>M&#224;rquez</last></author>
+        <author><first>Llu #237;s</first><last>M #224;rquez</last></author>
         <booktitle>Proceedings of the Ninth Conference on Computational Natural Language Learning (CoNLL-2005)</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>152&#8211;164</pages>
+        <pages>152 #8211;164</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0620</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>carreras-marquez:2005:CoNLL</bibkey>
@@ -1205,7 +1205,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>165&#8211;168</pages>
+        <pages>165 #8211;168</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0621</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>bharati-venkatapathy-reddy:2005:CoNLL</bibkey>
@@ -1219,7 +1219,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>169&#8211;172</pages>
+        <pages>169 #8211;172</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0622</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>cohn-blunsom:2005:CoNLL</bibkey>
@@ -1234,7 +1234,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>173&#8211;176</pages>
+        <pages>173 #8211;176</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0623</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>haghighi-toutanova-manning:2005:CoNLL</bibkey>
@@ -1248,7 +1248,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>177&#8211;180</pages>
+        <pages>177 #8211;180</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0624</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>johansson-nugues:2005:CoNLL</bibkey>
@@ -1264,7 +1264,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>181&#8211;184</pages>
+        <pages>181 #8211;184</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0625</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>koomen-EtAl:2005:CoNLL</bibkey>
@@ -1278,7 +1278,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>185&#8211;188</pages>
+        <pages>185 #8211;188</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0626</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>lin-smith:2005:CoNLL</bibkey>
@@ -1295,23 +1295,23 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>189&#8211;192</pages>
+        <pages>189 #8211;192</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0627</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>liu-EtAl:2005:CoNLL</bibkey>
    </paper>
    <paper id="0628">
         <title>Semantic Role Labeling as Sequential Tagging</title>
-        <author><first>Llu&#237;s</first><last>M&#224;rquez</last></author>
+        <author><first>Llu #237;s</first><last>M #224;rquez</last></author>
         <author><first>Pere</first><last>Comas</last></author>
-        <author><first>Jes&#250;s</first><last>Gim&#233;nez</last></author>
-        <author><first>Neus</first><last>Catal&#224;</last></author>
+        <author><first>Jes #250;s</first><last>Gim #233;nez</last></author>
+        <author><first>Neus</first><last>Catal #224;</last></author>
         <booktitle>Proceedings of the Ninth Conference on Computational Natural Language Learning (CoNLL-2005)</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>193&#8211;196</pages>
+        <pages>193 #8211;196</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0628</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>marquez-EtAl:2005:CoNLL</bibkey>
@@ -1328,7 +1328,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>197&#8211;200</pages>
+        <pages>197 #8211;200</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0629</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>mitsumori-EtAl:2005:CoNLL</bibkey>
@@ -1344,7 +1344,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>201&#8211;204</pages>
+        <pages>201 #8211;204</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0630</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>moschitti-EtAl:2005:CoNLL</bibkey>
@@ -1358,7 +1358,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>205&#8211;208</pages>
+        <pages>205 #8211;208</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0631</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>ozgencil-mccracken:2005:CoNLL</bibkey>
@@ -1372,7 +1372,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>209&#8211;212</pages>
+        <pages>209 #8211;212</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0632</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>park-rim:2005:CoNLL</bibkey>
@@ -1386,7 +1386,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>213&#8211;216</pages>
+        <pages>213 #8211;216</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0633</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>ponzetto-strube:2005:CoNLL</bibkey>
@@ -1403,7 +1403,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>217&#8211;220</pages>
+        <pages>217 #8211;220</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0634</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>pradhan-EtAl:2005:CoNLL</bibkey>
@@ -1417,7 +1417,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>221&#8211;224</pages>
+        <pages>221 #8211;224</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0635</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>surdeanu-turmo:2005:CoNLL</bibkey>
@@ -1431,7 +1431,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>225&#8211;228</pages>
+        <pages>225 #8211;228</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0636</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>sutton-mccallum:2005:CoNLL</bibkey>
@@ -1447,7 +1447,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>229&#8211;232</pages>
+        <pages>229 #8211;232</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0637</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>tjongkimsang-EtAl:2005:CoNLL</bibkey>
@@ -1463,7 +1463,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>233&#8211;236</pages>
+        <pages>233 #8211;236</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0638</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>tsai-EtAl:2005:CoNLL</bibkey>
@@ -1477,7 +1477,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>237&#8211;240</pages>
+        <pages>237 #8211;240</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0639</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>yi-palmer:2005:CoNLL</bibkey>
@@ -1505,7 +1505,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;8</pages>
+        <pages>1 #8211;8</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0701</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>marsi-vandenbosch-soudi:2005:Semitic</bibkey>
@@ -1519,7 +1519,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>9&#8211;16</pages>
+        <pages>9 #8211;16</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0702</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>yona-wintner:2005:Semitic</bibkey>
@@ -1534,7 +1534,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>17&#8211;24</pages>
+        <pages>17 #8211;24</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0703</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>habash-rambow-kiraz:2005:Semitic</bibkey>
@@ -1549,7 +1549,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>25&#8211;30</pages>
+        <pages>25 #8211;30</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0704</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>darwish-hassan-emam:2005:Semitic</bibkey>
@@ -1564,7 +1564,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>31&#8211;38</pages>
+        <pages>31 #8211;38</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0705</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>grefenstette-semmar-elkatebgara:2005:Semitic</bibkey>
@@ -1579,7 +1579,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>39&#8211;46</pages>
+        <pages>39 #8211;46</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0706</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>barhaim-simaan-winter:2005:Semitic</bibkey>
@@ -1592,7 +1592,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>47&#8211;54</pages>
+        <pages>47 #8211;54</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0707</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>fissahaadafre:2005:Semitic</bibkey>
@@ -1606,7 +1606,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>55&#8211;62</pages>
+        <pages>55 #8211;62</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0708</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>duh-kirchhoff:2005:Semitic</bibkey>
@@ -1622,7 +1622,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>63&#8211;70</pages>
+        <pages>63 #8211;70</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0709</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>zitouni-EtAl:2005:Semitic</bibkey>
@@ -1630,13 +1630,13 @@
    <paper id="0710">
         <title>Classifying Amharic News Text Using Self-Organizing Maps</title>
         <author><first>Samuel</first><last>Eyassu</last></author>
-        <author><first>Bj&#246;rn</first><last>Gamb&#228;ck</last></author>
+        <author><first>Bj #246;rn</first><last>Gamb #228;ck</last></author>
         <booktitle>Proceedings of the ACL Workshop on Computational Approaches to Semitic Languages</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>71&#8211;78</pages>
+        <pages>71 #8211;78</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0710</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>eyassu-gamback:2005:Semitic</bibkey>
@@ -1650,7 +1650,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>79&#8211;86</pages>
+        <pages>79 #8211;86</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0711</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>nelken-shieber:2005:Semitic</bibkey>
@@ -1664,7 +1664,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>87&#8211;93</pages>
+        <pages>87 #8211;93</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0712</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>hassan-sorensen:2005:Semitic</bibkey>
@@ -1692,7 +1692,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;8</pages>
+        <pages>1 #8211;8</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0801</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>moore:2005:WPT</bibkey>
@@ -1706,7 +1706,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>9&#8211;16</pages>
+        <pages>9 #8211;16</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0802</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>gliozzo-strapparava:2005:WPT</bibkey>
@@ -1719,7 +1719,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>17&#8211;24</pages>
+        <pages>17 #8211;24</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0803</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>kuhn:2005:WPT</bibkey>
@@ -1734,51 +1734,51 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>25&#8211;32</pages>
+        <pages>25 #8211;32</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0804</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>zhao-xing-waibel:2005:WPT</bibkey>
    </paper>
    <paper id="0805">
         <title>Revealing Phonological Similarities between Related Languages from Automatically Generated Parallel Corpora</title>
-        <author><first>Karin</first><last>M&#252;ller</last></author>
+        <author><first>Karin</first><last>M #252;ller</last></author>
         <booktitle>Proceedings of the ACL Workshop on Building and Using Parallel Texts</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>33&#8211;40</pages>
+        <pages>33 #8211;40</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0805</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>muller:2005:WPT</bibkey>
    </paper>
    <paper id="0806">
         <title>Augmenting a Small Parallel Text with Morpho-Syntactic Language</title>
-        <author><first>Maja</first><last>Popovi&#263;</last></author>
+        <author><first>Maja</first><last>Popovi #263;</last></author>
         <author><first>David</first><last>Vilar</last></author>
         <author><first>Hermann</first><last>Ney</last></author>
-        <author><first>Slobodan</first><last>Jovici&#263;</last></author>
-        <author><first>Zoran</first><last>Sari&#263;</last></author>
+        <author><first>Slobodan</first><last>Jovici #263;</last></author>
+        <author><first>Zoran</first><last>Sari #263;</last></author>
         <booktitle>Proceedings of the ACL Workshop on Building and Using Parallel Texts</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>41&#8211;48</pages>
+        <pages>41 #8211;48</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0806</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>popovic-EtAl:2005:WPT</bibkey>
    </paper>
    <paper id="0807">
         <title>Induction of Fine-Grained Part-of-Speech Taggers via Classifier Combination and Crosslingual Projection</title>
-        <author><first>Elliott</first><last>Dr&#225;bek</last></author>
+        <author><first>Elliott</first><last>Dr #225;bek</last></author>
         <author><first>David</first><last>Yarowsky</last></author>
         <booktitle>Proceedings of the ACL Workshop on Building and Using Parallel Texts</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>49&#8211;56</pages>
+        <pages>49 #8211;56</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0807</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>drabek-yarowsky:2005:WPT</bibkey>
@@ -1792,7 +1792,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>57&#8211;64</pages>
+        <pages>57 #8211;64</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0808</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>aswani-gaizauskas:2005:WPT1</bibkey>
@@ -1807,7 +1807,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>65&#8211;74</pages>
+        <pages>65 #8211;74</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0809</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>martin-mihalcea-pedersen:2005:WPT</bibkey>
@@ -1822,7 +1822,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>75&#8211;78</pages>
+        <pages>75 #8211;78</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0810</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>langlais-gotti-cao:2005:WPT</bibkey>
@@ -1830,13 +1830,13 @@
    <paper id="0811">
         <title>Models for Inuktitut-English Word Alignment</title>
         <author><first>Charles</first><last>Schafer</last></author>
-        <author><first>Elliott</first><last>Dr&#225;bek</last></author>
+        <author><first>Elliott</first><last>Dr #225;bek</last></author>
         <booktitle>Proceedings of the ACL Workshop on Building and Using Parallel Texts</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>79&#8211;82</pages>
+        <pages>79 #8211;82</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0811</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>schafer-drabek:2005:WPT</bibkey>
@@ -1850,7 +1850,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>83&#8211;86</pages>
+        <pages>83 #8211;86</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0812</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>lopez-resnik:2005:WPT</bibkey>
@@ -1866,7 +1866,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>87&#8211;90</pages>
+        <pages>87 #8211;90</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0813</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>brown-EtAl:2005:WPT</bibkey>
@@ -1880,7 +1880,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>91&#8211;94</pages>
+        <pages>91 #8211;94</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0814</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>fraser-marcu:2005:WPT</bibkey>
@@ -1893,7 +1893,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>95&#8211;98</pages>
+        <pages>95 #8211;98</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0815</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>vilar:2005:WPT</bibkey>
@@ -1907,7 +1907,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>99&#8211;106</pages>
+        <pages>99 #8211;106</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0816</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>singh-husain:2005:WPT</bibkey>
@@ -1923,7 +1923,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>107&#8211;110</pages>
+        <pages>107 #8211;110</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0817</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>tufis-EtAl:2005:WPT</bibkey>
@@ -1938,7 +1938,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>111&#8211;114</pages>
+        <pages>111 #8211;114</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0818</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>caseli-nunes-forcada:2005:WPT</bibkey>
@@ -1952,7 +1952,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>115&#8211;118</pages>
+        <pages>115 #8211;118</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0819</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>aswani-gaizauskas:2005:WPT2</bibkey>
@@ -1966,7 +1966,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>119&#8211;124</pages>
+        <pages>119 #8211;124</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0820</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>koehn-monz:2005:WPT</bibkey>
@@ -1980,7 +1980,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>125&#8211;128</pages>
+        <pages>125 #8211;128</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0821</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>kirchhoff-yang:2005:WPT</bibkey>
@@ -1999,7 +1999,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>129&#8211;132</pages>
+        <pages>129 #8211;132</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0822</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>sadat-EtAl:2005:WPT</bibkey>
@@ -2008,15 +2008,15 @@
         <title>Statistical Machine Translation of Euparl Data by using Bilingual N-grams</title>
         <author><first>Rafael E.</first><last>Banchs</last></author>
         <author><first>Josep M.</first><last>Crego</last></author>
-        <author><first>Adri&#224;</first><von>de</von><last>Gispert</last></author>
+        <author><first>Adri #224;</first><von>de</von><last>Gispert</last></author>
         <author><first>Patrik</first><last>Lambert</last></author>
-        <author><first>Jos&#233; B.</first><last>Mari&#241;o</last></author>
+        <author><first>Jos #233; B.</first><last>Mari #241;o</last></author>
         <booktitle>Proceedings of the ACL Workshop on Building and Using Parallel Texts</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>133&#8211;136</pages>
+        <pages>133 #8211;136</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0823</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>banchs-EtAl:2005:WPT</bibkey>
@@ -2031,7 +2031,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>137&#8211;140</pages>
+        <pages>137 #8211;140</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0824</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>langlais-cao-gotti:2005:WPT</bibkey>
@@ -2045,35 +2045,35 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>141&#8211;144</pages>
+        <pages>141 #8211;144</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0825</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>zhao-vogel:2005:WPT</bibkey>
    </paper>
    <paper id="0826">
         <title>Combining Linguistic Data Views for Phrase-based SMT</title>
-        <author><first>Jes&#250;s</first><last>Gim&#233;nez</last></author>
-        <author><first>Llu&#237;s</first><last>M&#224;rquez</last></author>
+        <author><first>Jes #250;s</first><last>Gim #233;nez</last></author>
+        <author><first>Llu #237;s</first><last>M #224;rquez</last></author>
         <booktitle>Proceedings of the ACL Workshop on Building and Using Parallel Texts</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>145&#8211;148</pages>
+        <pages>145 #8211;148</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0826</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>gimenez-marquez:2005:WPT</bibkey>
    </paper>
    <paper id="0827">
         <title>Improving Phrase-Based Statistical Translation by Modifying Phrase Extraction and Including Several Features</title>
-        <author><first>Marta</first><last>Ruiz Costa-juss&#224;</last></author>
-        <author><first>Jos&#233; A. R.</first><last>Fonollosa</last></author>
+        <author><first>Marta</first><last>Ruiz Costa-juss #224;</last></author>
+        <author><first>Jos #233; A. R.</first><last>Fonollosa</last></author>
         <booktitle>Proceedings of the ACL Workshop on Building and Using Parallel Texts</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>149&#8211;154</pages>
+        <pages>149 #8211;154</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0827</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>ruizcostajussa-fonollosa:2005:WPT</bibkey>
@@ -2086,7 +2086,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>155&#8211;158</pages>
+        <pages>155 #8211;158</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0828</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>eisele:2005:WPT</bibkey>
@@ -2100,7 +2100,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>159&#8211;162</pages>
+        <pages>159 #8211;162</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0829</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>zhang-vogel:2005:WPT</bibkey>
@@ -2114,7 +2114,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>163&#8211;166</pages>
+        <pages>163 #8211;166</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0830</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>lioma-ounis:2005:WPT</bibkey>
@@ -2131,7 +2131,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>167&#8211;174</pages>
+        <pages>167 #8211;174</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0831</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>kanthak-EtAl:2005:WPT</bibkey>
@@ -2145,7 +2145,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>175&#8211;182</pages>
+        <pages>175 #8211;182</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0832</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>henderson-morgan:2005:WPT</bibkey>
@@ -2159,7 +2159,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>183&#8211;190</pages>
+        <pages>183 #8211;190</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0833</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>groves-way:2005:WPT</bibkey>
@@ -2173,7 +2173,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>191&#8211;198</pages>
+        <pages>191 #8211;198</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0834</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>zens-ney:2005:WPT</bibkey>
@@ -2187,7 +2187,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>199&#8211;207</pages>
+        <pages>199 #8211;207</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0835</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>vilar-vidal:2005:WPT</bibkey>
@@ -2202,7 +2202,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>208&#8211;215</pages>
+        <pages>208 #8211;215</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0836</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>venugopal-zollmann-waibel:2005:WPT</bibkey>
@@ -2233,7 +2233,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;8</pages>
+        <pages>1 #8211;8</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0901</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>dorr-EtAl:2005:MTSumm</bibkey>
@@ -2247,7 +2247,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>9&#8211;16</pages>
+        <pages>9 #8211;16</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0902</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>kolluru-gotoh:2005:MTSumm</bibkey>
@@ -2263,7 +2263,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>17&#8211;24</pages>
+        <pages>17 #8211;24</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0903</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>leusch-EtAl:2005:MTSumm</bibkey>
@@ -2277,7 +2277,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>25&#8211;32</pages>
+        <pages>25 #8211;32</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0904</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>liu-gildea:2005:MTSumm</bibkey>
@@ -2293,7 +2293,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>33&#8211;40</pages>
+        <pages>33 #8211;40</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0905</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>murray-EtAl:2005:MTSumm</bibkey>
@@ -2307,23 +2307,23 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>41&#8211;48</pages>
+        <pages>41 #8211;48</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0906</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>lin-demnerfushman:2005:MTSumm</bibkey>
    </paper>
    <paper id="0907">
         <title>Evaluating DUC 2004 Tasks with the QARLA Framework</title>
-        <author><first>Enrique</first><last>Amig&#243;</last></author>
+        <author><first>Enrique</first><last>Amig #243;</last></author>
         <author><first>Julio</first><last>Gonzalo</last></author>
-        <author><first>Anselmo</first><last>Pe&#241;as</last></author>
+        <author><first>Anselmo</first><last>Pe #241;as</last></author>
         <author><first>Felisa</first><last>Verdejo</last></author>
         <booktitle>Proceedings of the ACL Workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>49&#8211;56</pages>
+        <pages>49 #8211;56</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0907</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>amigo-EtAl:2005:MTSumm</bibkey>
@@ -2337,7 +2337,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>57&#8211;64</pages>
+        <pages>57 #8211;64</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0908</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>riezler-maxwell:2005:MTSumm</bibkey>
@@ -2351,7 +2351,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>65&#8211;72</pages>
+        <pages>65 #8211;72</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-0909</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>banerjee-lavie:2005:MTSumm</bibkey>
@@ -2378,7 +2378,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;9</pages>
+        <pages>1 #8211;9</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1001</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>kwong-tsou:2005:DLA</bibkey>
@@ -2392,7 +2392,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>10&#8211;17</pages>
+        <pages>10 #8211;17</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1002</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>moschitti-basili:2005:DLA</bibkey>
@@ -2406,7 +2406,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>18&#8211;27</pages>
+        <pages>18 #8211;27</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1003</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>poesio-almuhareb:2005:DLA</bibkey>
@@ -2420,7 +2420,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>28&#8211;37</pages>
+        <pages>28 #8211;37</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1004</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>cimiano-wenderoth:2005:DLA</bibkey>
@@ -2435,7 +2435,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>38&#8211;47</pages>
+        <pages>38 #8211;47</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1005</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>fazly-north-stevenson:2005:DLA</bibkey>
@@ -2449,7 +2449,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>48&#8211;56</pages>
+        <pages>48 #8211;56</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1006</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>widdows-dorow:2005:DLA</bibkey>
@@ -2463,7 +2463,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>57&#8211;66</pages>
+        <pages>57 #8211;66</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1007</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>green-dorr:2005:DLA</bibkey>
@@ -2476,7 +2476,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>67&#8211;76</pages>
+        <pages>67 #8211;76</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1008</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>baldwin:2005:DLA</bibkey>
@@ -2491,7 +2491,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>77&#8211;86</pages>
+        <pages>77 #8211;86</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1009</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>boleda-badia-schulteimwalde:2005:DLA</bibkey>
@@ -2506,7 +2506,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>87&#8211;96</pages>
+        <pages>87 #8211;96</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1010</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>echizenya-araki-momouchi:2005:DLA</bibkey>
@@ -2520,7 +2520,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>97&#8211;104</pages>
+        <pages>97 #8211;104</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1011</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>gorman-curran:2005:DLA</bibkey>
@@ -2558,12 +2558,12 @@
 
 <paper id="1106">
 <title>Hunmorph: Open Source Word Analysis</title>
-<author>Vikt&#243;r Tron</author>
-<author>Gy&#246;gy Gyepesi</author>
-<author>P&#233;ter Hal&#225;csky</author>
-<author>Andr&#225;s Kornai</author>
-<author>L&#225;szl&#243; N&#233;meth</author>
-<author>D&#225;niel Varga</author>
+<author>Vikt #243;r Tron</author>
+<author>Gy #246;gy Gyepesi</author>
+<author>P #233;ter Hal #225;csky</author>
+<author>Andr #225;s Kornai</author>
+<author>L #225;szl #243; N #233;meth</author>
+<author>D #225;niel Varga</author>
 </paper>
 
 <paper id="1107">
@@ -2602,7 +2602,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;6</pages>
+        <pages>1 #8211;6</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1201</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>marsi-krahmer:2005:SemEq</bibkey>
@@ -2617,7 +2617,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>7&#8211;12</pages>
+        <pages>7 #8211;12</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1202</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>weeds-weir-keller:2005:SemEq</bibkey>
@@ -2631,7 +2631,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>13&#8211;18</pages>
+        <pages>13 #8211;18</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1203</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>corley-mihalcea:2005:SemEq</bibkey>
@@ -2644,7 +2644,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>19&#8211;24</pages>
+        <pages>19 #8211;24</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1204</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>kashioka:2005:SemEq</bibkey>
@@ -2657,7 +2657,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>25&#8211;30</pages>
+        <pages>25 #8211;30</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1205</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>wu:2005:SemEq</bibkey>
@@ -2672,13 +2672,13 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>31&#8211;36</pages>
+        <pages>31 #8211;36</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1206</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>zaenen-karttunen-crouch:2005:SemEq</bibkey>
    </paper>
    <paper id="1207">
-        <title>Discovering Entailment Relations Using &#8220;Textual Entailment Patterns&#8221;</title>
+        <title>Discovering Entailment Relations Using  #8220;Textual Entailment Patterns #8221;</title>
         <author><first>Fabio Massimo</first><last>Zanzotto</last></author>
         <author><first>Maria Teresa</first><last>Pazienza</last></author>
         <author><first>Marco</first><last>Pennacchiotti</last></author>
@@ -2687,7 +2687,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>37&#8211;42</pages>
+        <pages>37 #8211;42</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1207</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>zanzotto-pazienza-pennacchiotti:2005:SemEq</bibkey>
@@ -2701,7 +2701,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>43&#8211;48</pages>
+        <pages>43 #8211;48</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1208</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>glickman-dagan:2005:SemEq</bibkey>
@@ -2715,7 +2715,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>49&#8211;54</pages>
+        <pages>49 #8211;54</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1209</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>burger-ferro:2005:SemEq</bibkey>
@@ -2730,7 +2730,7 @@
         <year>2005</year>
         <address>Ann Arbor, Michigan</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>55&#8211;60</pages>
+        <pages>55 #8211;60</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1210</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>barhaim-szpecktor-glickman:2005:SemEq</bibkey>
@@ -2757,7 +2757,7 @@
         <year>2005</year>
         <address>Detroit</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;8</pages>
+        <pages>1 #8211;8</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1301</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>wellner:2005:Biolink</bibkey>
@@ -2765,14 +2765,14 @@
    <paper id="1302">
         <title>Adaptive String Similarity Metrics for Biomedical Reference Resolution</title>
         <author><first>Ben</first><last>Wellner</last></author>
-        <author><first>Jos&#233;</first><last>Casta&#241;o</last></author>
+        <author><first>Jos #233;</first><last>Casta #241;o</last></author>
         <author><first>James</first><last>Pustejovsky</last></author>
         <booktitle>Proceedings of the ACL-ISMB Workshop on Linking Biological Literature, Ontologies and Databases: Mining Biological Semantics</booktitle>
         <month>June</month>
         <year>2005</year>
         <address>Detroit</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>9&#8211;16</pages>
+        <pages>9 #8211;16</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1302</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>wellner-castano-pustejovsky:2005:Biolink</bibkey>
@@ -2785,7 +2785,7 @@
         <year>2005</year>
         <address>Detroit</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>17&#8211;24</pages>
+        <pages>17 #8211;24</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1303</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>cohen:2005:Biolink</bibkey>
@@ -2800,7 +2800,7 @@
         <year>2005</year>
         <address>Detroit</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>25&#8211;31</pages>
+        <pages>25 #8211;31</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1304</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>tsuruoka-ananiadou-tsujii:2005:Biolink</bibkey>
@@ -2816,7 +2816,7 @@
         <year>2005</year>
         <address>Detroit</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>32&#8211;37</pages>
+        <pages>32 #8211;37</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1305</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>smith-EtAl:2005:Biolink</bibkey>
@@ -2832,7 +2832,7 @@
         <year>2005</year>
         <address>Detroit</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>38&#8211;45</pages>
+        <pages>38 #8211;45</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1306</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>cohen-EtAl:2005:Biolink</bibkey>
@@ -2848,7 +2848,7 @@
         <year>2005</year>
         <address>Detroit</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>46&#8211;53</pages>
+        <pages>46 #8211;53</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1307</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>ramani-EtAl:2005:Biolink</bibkey>
@@ -2864,7 +2864,7 @@
         <year>2005</year>
         <address>Detroit</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>54&#8211;61</pages>
+        <pages>54 #8211;61</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1308</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>ahmed-EtAl:2005:Biolink</bibkey>
@@ -2885,27 +2885,27 @@
    <paper id="1501">
         <title>Efficient and Robust LFG Parsing: SxLFG</title>
         <author><first>Pierre</first><last>Boullier</last></author>
-        <author><first>Beno&#238;t</first><last>Sagot</last></author>
+        <author><first>Beno #238;t</first><last>Sagot</last></author>
         <booktitle>Proceedings of the Ninth International Workshop on Parsing Technology</booktitle>
         <month>October</month>
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>1&#8211;10</pages>
+        <pages>1 #8211;10</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1501</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>boullier-sagot:2005:IWPT</bibkey>
    </paper>
    <paper id="1502">
         <title>Parsing Linear Context-Free Rewriting Systems</title>
-        <author><first>H&#229;kan</first><last>Burden</last></author>
-        <author><first>Peter</first><last>Ljungl&#246;f</last></author>
+        <author><first>H #229;kan</first><last>Burden</last></author>
+        <author><first>Peter</first><last>Ljungl #246;f</last></author>
         <booktitle>Proceedings of the Ninth International Workshop on Parsing Technology</booktitle>
         <month>October</month>
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>11&#8211;17</pages>
+        <pages>11 #8211;17</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1502</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>burden-ljunglof:2005:IWPT</bibkey>
@@ -2919,7 +2919,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>18&#8211;29</pages>
+        <pages>18 #8211;29</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1503</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>carpenter-morrill:2005:IWPT</bibkey>
@@ -2933,7 +2933,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>30&#8211;41</pages>
+        <pages>30 #8211;41</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1504</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>eisner-smith:2005:IWPT</bibkey>
@@ -2941,13 +2941,13 @@
    <paper id="1505">
         <title>Corrective Modeling for Non-Projective Dependency Parsing</title>
         <author><first>Keith</first><last>Hall</last></author>
-        <author><first>V&#225;clav</first><last>Nov&#225;k</last></author>
+        <author><first>V #225;clav</first><last>Nov #225;k</last></author>
         <booktitle>Proceedings of the Ninth International Workshop on Parsing Technology</booktitle>
         <month>October</month>
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>42&#8211;52</pages>
+        <pages>42 #8211;52</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1505</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>hall-novak:2005:IWPT</bibkey>
@@ -2961,7 +2961,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>53&#8211;64</pages>
+        <pages>53 #8211;64</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1506</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>huang-chiang:2005:IWPT</bibkey>
@@ -2976,7 +2976,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>65&#8211;73</pages>
+        <pages>65 #8211;73</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1507</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>huang-zhang-gildea:2005:IWPT</bibkey>
@@ -2989,7 +2989,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>74&#8211;82</pages>
+        <pages>74 #8211;82</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1508</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>jansche:2005:IWPT</bibkey>
@@ -3003,7 +3003,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>83&#8211;92</pages>
+        <pages>83 #8211;92</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1509</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>musillo-merlo:2005:IWPT</bibkey>
@@ -3018,7 +3018,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>93&#8211;102</pages>
+        <pages>93 #8211;102</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1510</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>nakanishi-miyao-tsujii:2005:IWPT</bibkey>
@@ -3034,7 +3034,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>103&#8211;114</pages>
+        <pages>103 #8211;114</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1511</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>ninomiya-EtAl:2005:IWPT</bibkey>
@@ -3047,7 +3047,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>115&#8211;124</pages>
+        <pages>115 #8211;124</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1512</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>prescher:2005:IWPT</bibkey>
@@ -3061,7 +3061,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>125&#8211;132</pages>
+        <pages>125 #8211;132</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1513</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>sagae-lavie:2005:IWPT</bibkey>
@@ -3075,7 +3075,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>133&#8211;140</pages>
+        <pages>133 #8211;140</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1514</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>tsuruoka-tsujii:2005:IWPT</bibkey>
@@ -3089,7 +3089,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>141&#8211;151</pages>
+        <pages>141 #8211;151</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1515</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>turian-melamed:2005:IWPT</bibkey>
@@ -3104,7 +3104,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>152&#8211;159</pages>
+        <pages>152 #8211;159</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1516</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>wang-schuurmans-lin:2005:IWPT</bibkey>
@@ -3119,7 +3119,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>160&#8211;170</pages>
+        <pages>160 #8211;170</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1517</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>watson-carroll-briscoe:2005:IWPT</bibkey>
@@ -3127,13 +3127,13 @@
    <paper id="1518">
         <title>Improving Parsing Accuracy by Combining Diverse Dependency Parsers</title>
         <author><first>Daniel</first><last>Zeman</last></author>
-        <author><first>Zdenek</first><last>Zabokrtsk&#253;</last></author>
+        <author><first>Zdenek</first><last>Zabokrtsk #253;</last></author>
         <booktitle>Proceedings of the Ninth International Workshop on Parsing Technology</booktitle>
         <month>October</month>
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>171&#8211;178</pages>
+        <pages>171 #8211;178</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1518</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>zeman-vzabokrtsky:2005:IWPT</bibkey>
@@ -3147,7 +3147,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>179&#8211;185</pages>
+        <pages>179 #8211;185</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1519</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>zhang-weng:2005:IWPT</bibkey>
@@ -3162,7 +3162,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>186&#8211;187</pages>
+        <pages>186 #8211;187</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1520</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>bhagat-leuski-hovy:2005:IWPT</bibkey>
@@ -3175,20 +3175,20 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>188&#8211;189</pages>
+        <pages>188 #8211;189</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1521</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>ciortuz:2005:IWPT</bibkey>
    </paper>
    <paper id="1522">
         <title>From metagrammars to factorized TAG/TIG parsers</title>
-        <author><first>&#201;ric Villemonte</first><last>de la Clergerie</last></author>
+        <author><first> #201;ric Villemonte</first><last>de la Clergerie</last></author>
         <booktitle>Proceedings of the Ninth International Workshop on Parsing Technology</booktitle>
         <month>October</month>
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>190&#8211;191</pages>
+        <pages>190 #8211;191</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1522</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>clergerie:2005:IWPT</bibkey>
@@ -3201,7 +3201,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>192&#8211;193</pages>
+        <pages>192 #8211;193</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1523</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>daniels:2005:IWPT</bibkey>
@@ -3215,7 +3215,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>194&#8211;195</pages>
+        <pages>194 #8211;195</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1524</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>dzikovska-rose:2005:IWPT</bibkey>
@@ -3231,7 +3231,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>196&#8211;197</pages>
+        <pages>196 #8211;197</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1525</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>dzikovska-EtAl:2005:IWPT</bibkey>
@@ -3247,7 +3247,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>198&#8211;199</pages>
+        <pages>198 #8211;199</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1526</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>elsner-EtAl:2005:IWPT</bibkey>
@@ -3264,7 +3264,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>200&#8211;201</pages>
+        <pages>200 #8211;201</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1527</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>gaizauskas-EtAl:2005:IWPT</bibkey>
@@ -3277,7 +3277,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>202&#8211;203</pages>
+        <pages>202 #8211;203</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1528</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>hogan:2005:IWPT</bibkey>
@@ -3292,7 +3292,7 @@
         <year>2005</year>
         <address>Vancouver, British Columbia</address>
         <publisher>Association for Computational Linguistics</publisher>
-        <pages>204&#8211;205</pages>
+        <pages>204 #8211;205</pages>
         <url>http://www.aclweb.org/anthology/W/W05/W05-1529</url>
         <bibtype>inproceedings</bibtype>
         <bibkey>li-brew-foslerlussier:2005:IWPT</bibkey>
@@ -3412,8 +3412,8 @@
 
    <paper id="1620">
         <title>An Evolutionary Approach to Referring Expression Generation and Aggregation</title>
-        <author>Raquel Herv&#225;s</author>
-        <author>Pablo Gerv&#225;s</author>
+        <author>Raquel Herv #225;s</author>
+        <author>Pablo Gerv #225;s</author>
    </paper>
 
    <paper id="1621">
@@ -3434,7 +3434,7 @@
 
    <paper id="1624">
         <title>An Experiment Setup for Collecting Data for Adaptive Output Planning in a Multimodal Dialogue System</title>
-        <author>Ivana Kruijff-Korbayov&#225;</author>
+        <author>Ivana Kruijff-Korbayov #225;</author>
         <author>Nate Blaylock</author>
         <author>Ciprian Gerstenberger</author>
         <author>Verena Rieser</author>
@@ -3446,7 +3446,7 @@
 
    <paper id="1625">
         <title>Answer Generation with Temporal Data Integration</title>
-        <author>V&#233;ronique Moriceau</author>
+        <author>V #233;ronique Moriceau</author>
    </paper>
 
    <paper id="1626">

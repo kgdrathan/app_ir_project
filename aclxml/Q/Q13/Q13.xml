@@ -1,12 +1,12 @@
 <volume id='Q13'>
 
   <paper id='1000'>
-    <title>Transactions of the Association of Computational Linguistics &#8211; Volume 1</title>
+    <title>Transactions of the Association of Computational Linguistics  #8211; Volume 1</title>
   </paper>
 
   <paper id='1001'>
     <title>Token and Type Constraints for Cross-Lingual Part-of-Speech Tagging</title>
-    <author><first>Oscar</first><last>T&auml;ckstr&ouml;m</last></author>
+    <author><first>Oscar</first><last>T auml;ckstr ouml;m</last></author>
     <author><first>Dipanjan</first><last>Das</last></author>
     <author><first>Slav</first><last>Petrov</last></author>
     <author><first>Ryan</first><last>McDonald</last></author>
@@ -14,7 +14,7 @@
     <month>Mar</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/03/paper1.pdf</href>
-    <pages>1&#8211;12</pages>
+    <pages>1 #8211;12</pages>
     <url>http://www.aclweb.org/anthology/Q13-1001</url>
   </paper>
 
@@ -26,7 +26,7 @@
     <month>Mar</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/03/paper13.pdf</href>
-    <pages>13&#8211;24</pages>
+    <pages>13 #8211;24</pages>
     <url>http://www.aclweb.org/anthology/Q13-1002</url>
     <video href="http://techtalks.tv/talks/tacl-finding-optimal-1-endpoint-crossing-trees/58443/" tag="video"/>
   </paper>
@@ -42,7 +42,7 @@
     <month>Mar</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/03/paper25.pdf</href>
-    <pages>25&#8211;36</pages>
+    <pages>25 #8211;36</pages>
     <url>http://www.aclweb.org/anthology/Q13-1003</url>
   </paper>
 
@@ -53,7 +53,7 @@
     <month>Mar</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/03/paper37.pdf</href>
-    <pages>37&#8211;48</pages>
+    <pages>37 #8211;48</pages>
     <url>http://www.aclweb.org/anthology/Q13-1004</url>
   </paper>
 
@@ -64,7 +64,7 @@
     <month>Mar</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/03/paper49.pdf</href>
-    <pages>49&#8211;62</pages>
+    <pages>49 #8211;62</pages>
     <url>http://www.aclweb.org/anthology/Q13-1005</url>
     <video href="http://techtalks.tv/talks/tacl-weakly-supervised-learning-of-semantic-parsers-for-mapping-instructions-to-actions/58484/" tag="video"/>
   </paper>
@@ -76,7 +76,7 @@
     <month>Mar</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/03/paper631.pdf</href>
-    <pages>63&#8211;74</pages>
+    <pages>63 #8211;74</pages>
     <url>http://www.aclweb.org/anthology/Q13-1006</url>
     <video href="http://techtalks.tv/talks/tacl-unsupervised-dependency-parsing-with-acoustic-cues/58509/" tag="video"/>
   </paper>
@@ -88,7 +88,7 @@
     <month>Mar</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/03/paper75.pdf</href>
-    <pages>75&#8211;88</pages>
+    <pages>75 #8211;88</pages>
     <url>http://www.aclweb.org/anthology/Q13-1007</url>
     <video href="http://techtalks.tv/talks/tacl-an-hdp-model-for-inducing-combinatory-categorial-grammars/58520/" tag="video"/>
   </paper>
@@ -100,7 +100,7 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper89.pdf</href>
-    <pages>89&#8211;98</pages>
+    <pages>89 #8211;98</pages>
     <url>http://www.aclweb.org/anthology/Q13-1008</url>
   </paper>
 
@@ -112,7 +112,7 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper99.pdf</href>
-    <pages>99&#8211;110</pages>
+    <pages>99 #8211;110</pages>
     <url>http://www.aclweb.org/anthology/Q13-1009</url>
   </paper>
 
@@ -123,7 +123,7 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper111.pdf</href>
-    <pages>111&#8211;124</pages>
+    <pages>111 #8211;124</pages>
     <url>http://www.aclweb.org/anthology/Q13-1010</url>
   </paper>
 
@@ -134,7 +134,7 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper125.pdf</href>
-    <pages>125&#8211;138</pages>
+    <pages>125 #8211;138</pages>
     <url>http://www.aclweb.org/anthology/Q13-1011</url>
   </paper>
 
@@ -146,7 +146,7 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper139.pdf</href>
-    <pages>139&#8211;150</pages>
+    <pages>139 #8211;150</pages>
     <url>http://www.aclweb.org/anthology/Q13-1012</url>
   </paper>
 
@@ -157,7 +157,7 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper151.pdf</href>
-    <pages>151&#8211;164</pages>
+    <pages>151 #8211;164</pages>
     <url>http://www.aclweb.org/anthology/Q13-1013</url>
   </paper>
 
@@ -187,7 +187,7 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper165.pdf</href>
-    <pages>165&#8211;178</pages>
+    <pages>165 #8211;178</pages>
     <url>http://www.aclweb.org/anthology/Q13-1014</url>
   </paper>
 
@@ -198,7 +198,7 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper179.pdf</href>
-    <pages>179&#8211;192</pages>
+    <pages>179 #8211;192</pages>
     <url>http://www.aclweb.org/anthology/Q13-1015</url>
   </paper>
 
@@ -209,7 +209,7 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper193.pdf</href>
-    <pages>193&#8211;206</pages>
+    <pages>193 #8211;206</pages>
     <url>http://www.aclweb.org/anthology/Q13-1016</url>
   </paper>
 
@@ -220,19 +220,19 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper2071.pdf</href>
-    <pages>207&#8211;218</pages>
+    <pages>207 #8211;218</pages>
     <url>http://www.aclweb.org/anthology/Q13-1017</url>
   </paper>
 
   <paper id='1018'>
     <title>Joint Arc-factored Parsing of Syntactic and Semantic Dependencies</title>
-    <author><first>Xavier</first><last>Llu&iacute;s</last></author>
+    <author><first>Xavier</first><last>Llu iacute;s</last></author>
     <author><first>Xavier</first><last>Carreras</last></author>
-    <author><first>Llu&iacute;s</first><last>M&agrave;rquez</last></author>
+    <author><first>Llu iacute;s</first><last>M agrave;rquez</last></author>
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/06/paper219.pdf</href>
-    <pages>219&#8211;230</pages>
+    <pages>219 #8211;230</pages>
     <url>http://www.aclweb.org/anthology/Q13-1018</url>
   </paper>
 
@@ -243,7 +243,7 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper231.pdf</href>
-    <pages>231&#8211;242</pages>
+    <pages>231 #8211;242</pages>
     <url>http://www.aclweb.org/anthology/Q13-1019</url>
     <video href="http://techtalks.tv/talks/tacl-modeling-semantic-relations-expressed-by-prepositions/58504/" tag="video"/>
   </paper>
@@ -257,7 +257,7 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper2431.pdf</href>
-    <pages>243&#8211;254</pages>
+    <pages>243 #8211;254</pages>
     <url>http://www.aclweb.org/anthology/Q13-1020</url>
   </paper>
 
@@ -268,7 +268,7 @@
     <month>May</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/05/paper255.pdf</href>
-    <pages>255&#8211;266</pages>
+    <pages>255 #8211;266</pages>
     <url>http://www.aclweb.org/anthology/Q13-1021</url>
   </paper>
 
@@ -279,7 +279,7 @@
     <month>July</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/07/paper267.pdf</href>
-    <pages>267&#8211;278</pages>
+    <pages>267 #8211;278</pages>
     <url>http://www.aclweb.org/anthology/Q13-1022</url>
   </paper>
 
@@ -290,7 +290,7 @@
     <month>July</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/07/paper279.pdf</href>
-    <pages>279&#8211;290</pages>
+    <pages>279 #8211;290</pages>
     <url>http://www.aclweb.org/anthology/Q13-1023</url>
   </paper>
 
@@ -301,7 +301,7 @@
     <month>July</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/07/paper291.pdf</href>
-    <pages>291&#8211;300</pages>
+    <pages>291 #8211;300</pages>
     <url>http://www.aclweb.org/anthology/Q13-1024</url>
   </paper>
 
@@ -312,7 +312,7 @@
     <month>July</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/07/paper301.pdf</href>
-    <pages>301&#8211;314</pages>
+    <pages>301 #8211;314</pages>
     <url>http://www.aclweb.org/anthology/Q13-1025</url>
   </paper>
 
@@ -324,7 +324,7 @@
     <month>July</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/07/paper315.pdf</href>
-    <pages>315&#8211;326</pages>
+    <pages>315 #8211;326</pages>
     <url>http://www.aclweb.org/anthology/Q13-1026</url>
   </paper>
 
@@ -335,7 +335,7 @@
     <month>July</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/07/paper327.pdf</href>
-    <pages>327&#8211;340</pages>
+    <pages>327 #8211;340</pages>
     <url>http://www.aclweb.org/anthology/Q13-1027</url>
   </paper>
 
@@ -346,7 +346,7 @@
     <month>July</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/07/paper341.pdf</href>
-    <pages>341&#8211;352</pages>
+    <pages>341 #8211;352</pages>
     <url>http://www.aclweb.org/anthology/Q13-1028</url>
   </paper>
 
@@ -356,7 +356,7 @@
     <month>October</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/10/paperno29.pdf</href>
-    <pages>353&#8211;366</pages>
+    <pages>353 #8211;366</pages>
     <url>http://www.aclweb.org/anthology/Q13-1029</url>
   </paper>
 
@@ -369,7 +369,7 @@
     <month>October</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/10/paperno30.pdf</href>
-    <pages>367&#8211;378</pages>
+    <pages>367 #8211;378</pages>
     <url>http://www.aclweb.org/anthology/Q13-1030</url>
   </paper>
 
@@ -381,7 +381,7 @@
     <month>October</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/10/paperno31.pdf</href>
-    <pages>379&#8211;390</pages>
+    <pages>379 #8211;390</pages>
     <url>http://www.aclweb.org/anthology/Q13-1031</url>
   </paper>
 
@@ -393,7 +393,7 @@
     <month>October</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/10/paperno32.pdf</href>
-    <pages>391&#8211;402</pages>
+    <pages>391 #8211;402</pages>
     <url>http://www.aclweb.org/anthology/Q13-1032</url>
   </paper>
 
@@ -404,7 +404,7 @@
     <month>October</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/10/paperno33.pdf</href>
-    <pages>403&#8211;414</pages>
+    <pages>403 #8211;414</pages>
     <url>http://www.aclweb.org/anthology/Q13-1033</url>
   </paper>
 
@@ -419,7 +419,7 @@
     <month>October</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/10/paperno34.pdf</href>
-    <pages>415&#8211;428</pages>
+    <pages>415 #8211;428</pages>
     <url>http://www.aclweb.org/anthology/Q13-1034</url>
   </paper>
 
@@ -433,7 +433,7 @@
     <month>October</month>
     <year>2013</year>
     <href>http://www.transacl.org/wp-content/uploads/2013/10/paperno35.pdf</href>
-    <pages>429&#8211;440</pages>
+    <pages>429 #8211;440</pages>
     <url>http://www.aclweb.org/anthology/Q13-1035</url>
   </paper>
 

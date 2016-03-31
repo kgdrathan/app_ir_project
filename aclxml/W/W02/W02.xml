@@ -26,7 +26,7 @@
 <paper id="0104">
  <title>Evangelising Language Technology: A Practically-Focussed Undergraduate Program</title>
  <author>Robert Dale</author>
- <author>Diego Moll&#225; Aliod</author>
+ <author>Diego Moll #225; Aliod</author>
  <author>Rolf Schwitter</author>
 </paper>
 
@@ -81,7 +81,7 @@
  <title>Teaching Computational Linguistics at the University of Tartu: Experience, Perspectives and Challenges</title>
  <author>Mare Koit</author>
  <author>Tiit Roosmaa</author>
- <author>Haldur &#213;im</author>
+ <author>Haldur  #213;im</author>
 </paper>
 
 <paper id="0200">
@@ -223,7 +223,7 @@
 
 <paper id="0219">
  <title>A new Taxonomy for the Quality of Telephone Services Based on Spoken Dialogue Systems</title>
- <author>Sebastian M&#246;ller</author>
+ <author>Sebastian M #246;ller</author>
 </paper>
 
 <paper id="0220">
@@ -371,10 +371,10 @@
 <paper id="0312">
  <title>Medstract: creating large-scale information servers from biomedical texts</title>
  <author>James Pustejovsky</author>
- <author>Jos&#233; Wei Luo</author>
- <author>Casta&#241;o</author>
+ <author>Jos #233; Wei Luo</author>
+ <author>Casta #241;o</author>
  <author>Jason Zhang</author>
- <author>Roser Saur&#237;</author>
+ <author>Roser Saur #237;</author>
 </paper>
 
 <paper id="0400">
@@ -529,7 +529,7 @@
 
 <paper id="0608">
  <title>Probabilistic Context-Free Grammars for Phonology</title>
- <author>Karin M&#252;ller</author>
+ <author>Karin M #252;ller</author>
 </paper>
 
 <paper id="0700">
@@ -1141,7 +1141,7 @@
  <title>The Influence of Minimum Edit Distance on Reference Resolution</title>
  <author>Michael Strube</author>
  <author>Stefan Rapp</author>
- <author>Christoph M&#252;ller</author>
+ <author>Christoph M #252;ller</author>
 </paper>
 
 
@@ -1178,7 +1178,7 @@
 <paper id="1103">
  <title>Semiautomatic Creation of Taxonomies</title>
  <author>Javier Farreres</author>
- <author>Horacio Rodr&#237;guez</author>
+ <author>Horacio Rodr #237;guez</author>
  <author>Karina Gibert</author>
 </paper>
 
@@ -1223,8 +1223,8 @@
 <paper id="1110">
  <title>Frameworks, Implementation and Open Problems for the Collaborative Building of a Multilingual Lexical Database</title>
  <author>Mathieu Mangeot-Lerebours</author>
- <author>Gilles S&#233;rasset</author>
- <author>Fr&#233;d&#233;ric Andr&#232;s</author>
+ <author>Gilles S #233;rasset</author>
+ <author>Fr #233;d #233;ric Andr #232;s</author>
 </paper>
 
 <paper id="1111">
@@ -1467,7 +1467,7 @@
 </paper>
 
 <paper id="1501">
- <title>Grammar and Lexicon in the Robust Parsing of Italian towards a Non-Na&#239;ve Interplay</title>
+ <title>Grammar and Lexicon in the Robust Parsing of Italian towards a Non-Na #239;ve Interplay</title>
  <author>Roberto Bartolini</author>
  <author>Alessandro Lenci</author>
  <author>Simonetta Montemagni</author>
@@ -1500,8 +1500,8 @@
 
 <paper id="1505">
  <title>Encoding and Reusing Linguistic Information Expressed by Linguistic Properties</title>
- <author>Caroline Hag&#232;ge</author>
- <author>Gabriel G. B&#232;s</author>
+ <author>Caroline Hag #232;ge</author>
+ <author>Gabriel G. B #232;s</author>
 </paper>
 
 <paper id="1506">
@@ -1635,7 +1635,7 @@
 <paper id="1701">
  <title>RDF(S)/XML Linguistic Annotation of Semantic Web Pages</title>
  <author>Guadalupe Aguado de Cea</author>
- <author>Inmaculada &#193;lvarez-de-Mon</author>
+ <author>Inmaculada  #193;lvarez-de-Mon</author>
  <author>Antonio Pareja-Lora</author>
  <author>Rosario Plaza-Arteche</author>
 </paper>
@@ -1644,7 +1644,7 @@
  <title>Cascading XSL Filters for Content Selection in Multilingual Document Generation</title>
  <author>Guillermo Barrutieta</author>
  <author>Joseba Abaitua</author>
- <author>JosuKa D&#237;az</author>
+ <author>JosuKa D #237;az</author>
 </paper>
 
 <paper id="1703">
@@ -1662,10 +1662,10 @@
 </paper>
 
 <paper id="1705">
- <title>The PAPILLON Project: Cooperatively Building a Multilingual Lexical Data-base to Derive Open Source Dictionaries &#38; Lexicons</title>
+ <title>The PAPILLON Project: Cooperatively Building a Multilingual Lexical Data-base to Derive Open Source Dictionaries  #38; Lexicons</title>
  <author>Christian Boitet</author>
  <author>Mathieu Mangeot</author>
- <author>Gilles S&#233;rasset</author>
+ <author>Gilles S #233;rasset</author>
 </paper>
 
 <paper id="1706">
@@ -1678,7 +1678,7 @@
 
 <paper id="1707">
  <title>Towards a Web-based Centre on Swedish Language Technology</title>
- <author>Petter Karlstr&#246;m</author>
+ <author>Petter Karlstr #246;m</author>
  <author>Robin Cooper</author>
 </paper>
 
@@ -1914,8 +1914,8 @@
 <paper id="1906">
  <title>Passage Selection to Improve Question Answering</title>
  <author>Fernando LLopis</author>
- <author>Jos&#233; Luis Vicedo</author>
- <author>Antonio Ferr&#225;ndez</author>
+ <author>Jos #233; Luis Vicedo</author>
+ <author>Antonio Ferr #225;ndez</author>
 </paper>
 
 <paper id="1907">
@@ -1950,8 +1950,8 @@
 <paper id="2004">
  <title>Named Entity Extraction using AdaBoost</title>
  <author>Xavier Carreras</author>
- <author>Llu&#237;s M&#224;rquez</author>
- <author>Llu&#237;s Padr&#243;</author>
+ <author>Llu #237;s M #224;rquez</author>
+ <author>Llu #237;s Padr #243;</author>
 </paper>
 
 <paper id="2005">
@@ -1992,7 +1992,7 @@
 <paper id="2011">
  <title>Combining Labelled and Unlabelled Data: A Case Study on Fisher Kernels and Transductive Inference for Biological Entity Recognition</title>
  <author>Cyril Goutte</author>
- <author>Herv&#233; D&#233;jean</author>
+ <author>Herv #233; D #233;jean</author>
  <author>Eric Gaussier</author>
  <author>Nicola Cancedda</author>
  <author>Jean-Michel Renders</author>
@@ -2116,7 +2116,7 @@
 <paper id="2032">
  <title>Topological Field Chunking for German</title>
  <author>Jorn Veenstra</author>
- <author>Frank Henrik M&#252;ller</author>
+ <author>Frank Henrik M #252;ller</author>
  <author>Tylman Ule</author>
 </paper>
 
@@ -2160,7 +2160,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1&#8211;8</pages>
+    <pages>1 #8211;8</pages>
     <url>http://www.aclweb.org/anthology/W02-2101</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>kan-mckeown:2002:INLGC</bibkey>
@@ -2178,7 +2178,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>9&#8211;16</pages>
+    <pages>9 #8211;16</pages>
     <url>http://www.aclweb.org/anthology/W02-2102</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>daume-EtAl:2002:INLGC</bibkey>
@@ -2192,7 +2192,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>17&#8211;24</pages>
+    <pages>17 #8211;24</pages>
     <url>http://www.aclweb.org/anthology/W02-2103</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>langkilde-geary:2002:INLGC</bibkey>
@@ -2208,7 +2208,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>25&#8211;32</pages>
+    <pages>25 #8211;32</pages>
     <url>http://www.aclweb.org/anthology/W02-2104</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>maite-EtAl:2002:INLGC</bibkey>
@@ -2225,7 +2225,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>33&#8211;40</pages>
+    <pages>33 #8211;40</pages>
     <url>http://www.aclweb.org/anthology/W02-2105</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>corston-oliver-EtAl:2002:INLGC</bibkey>
@@ -2239,7 +2239,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>41&#8211;48</pages>
+    <pages>41 #8211;48</pages>
     <url>http://www.aclweb.org/anthology/W02-2106</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>moore:2002:INLGC</bibkey>
@@ -2254,7 +2254,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>49&#8211;56</pages>
+    <pages>49 #8211;56</pages>
     <url>http://www.aclweb.org/anthology/W02-2107</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>pan-weng:2002:INLGC</bibkey>
@@ -2269,7 +2269,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>57&#8211;64</pages>
+    <pages>57 #8211;64</pages>
     <url>http://www.aclweb.org/anthology/W02-2108</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>fleischman-hovy:2002:INLGC</bibkey>
@@ -2285,7 +2285,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>65&#8211;72</pages>
+    <pages>65 #8211;72</pages>
     <url>http://www.aclweb.org/anthology/W02-2109</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>de-carolis-EtAl:2002:INLGC</bibkey>
@@ -2305,7 +2305,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>73&#8211;80</pages>
+    <pages>73 #8211;80</pages>
     <url>http://www.aclweb.org/anthology/W02-2110</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>walker-EtAl:2002:INLGC</bibkey>
@@ -2320,7 +2320,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>81&#8211;88</pages>
+    <pages>81 #8211;88</pages>
     <url>http://www.aclweb.org/anthology/W02-2111</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>karamanis-manurung:2002:INLGC</bibkey>
@@ -2335,7 +2335,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>89&#8211;96</pages>
+    <pages>89 #8211;96</pages>
     <url>http://www.aclweb.org/anthology/W02-2112</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>duboue-mckeown:2002:INLGC</bibkey>
@@ -2350,7 +2350,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>97&#8211;104</pages>
+    <pages>97 #8211;104</pages>
     <url>http://www.aclweb.org/anthology/W02-2113</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>reiter-sripada:2002:INLGC</bibkey>
@@ -2364,7 +2364,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>105&#8211;112</pages>
+    <pages>105 #8211;112</pages>
     <url>http://www.aclweb.org/anthology/W02-2114</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>horacek:2002:INLGC</bibkey>
@@ -2379,7 +2379,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>113&#8211;119</pages>
+    <pages>113 #8211;119</pages>
     <url>http://www.aclweb.org/anthology/W02-2115</url>
     <attachment>W02-2115.Attachment.pdf</attachment>
     <bibtype>inproceedings</bibtype>
@@ -2396,7 +2396,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>120&#8211;127</pages>
+    <pages>120 #8211;127</pages>
     <url>http://www.aclweb.org/anthology/W02-2116</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>di-eugenio-EtAl:2002:INLGC</bibkey>
@@ -2412,7 +2412,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>128&#8211;135</pages>
+    <pages>128 #8211;135</pages>
     <url>http://www.aclweb.org/anthology/W02-2117</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>colineau-EtAl:2002:INLGC</bibkey>
@@ -2427,7 +2427,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>136&#8211;143</pages>
+    <pages>136 #8211;143</pages>
     <url>http://www.aclweb.org/anthology/W02-2118</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>qu-green:2002:INLGC</bibkey>
@@ -2443,7 +2443,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>144&#8211;151</pages>
+    <pages>144 #8211;151</pages>
     <url>http://www.aclweb.org/anthology/W02-2119</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>evans-EtAl:2002:INLGC</bibkey>
@@ -2457,7 +2457,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>155&#8211;160</pages>
+    <pages>155 #8211;160</pages>
     <url>http://www.aclweb.org/anthology/W02-2120</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>creswell:2002:INLGC</bibkey>
@@ -2471,7 +2471,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>161&#8211;166</pages>
+    <pages>161 #8211;166</pages>
     <url>http://www.aclweb.org/anthology/W02-2121</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>kozlowski:2002:INLGC</bibkey>
@@ -2485,7 +2485,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>167&#8211;172</pages>
+    <pages>167 #8211;172</pages>
     <url>http://www.aclweb.org/anthology/W02-2122</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>holland-minkley:2002:INLGC</bibkey>
@@ -2499,7 +2499,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>173&#8211;178</pages>
+    <pages>173 #8211;178</pages>
     <url>http://www.aclweb.org/anthology/W02-2123</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>eddy:2002:INLGC</bibkey>
@@ -2513,7 +2513,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>179&#8211;184</pages>
+    <pages>179 #8211;184</pages>
     <url>http://www.aclweb.org/anthology/W02-2124</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>el-ghali:2002:INLGC</bibkey>
@@ -2527,7 +2527,7 @@
     <year>2002</year>
     <address>Harriman, New York, USA</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>185&#8211;191</pages>
+    <pages>185 #8211;191</pages>
     <url>http://www.aclweb.org/anthology/W02-2125</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>habash:2002:INLGC</bibkey>

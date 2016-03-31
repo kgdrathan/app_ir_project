@@ -25747,13 +25747,13 @@
 
   <paper id="5201">
     <title>Creation of new TM segments: Fulfilling translators' wishes</title>
-    <author><first>Carla</first><last>Parra Escart&#237;n</last></author>
+    <author><first>Carla</first><last>Parra Escart #237;n</last></author>
     <booktitle>Proceedings of the Workshop Natural Language Processing for Translation Memories</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1&#8211;8</pages>
+    <pages>1 #8211;8</pages>
     <url>http://www.aclweb.org/anthology/W15-5201</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>parraescartin:2015:NLP4TM</bibkey>
@@ -25767,7 +25767,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>9&#8211;16</pages>
+    <pages>9 #8211;16</pages>
     <url>http://www.aclweb.org/anthology/W15-5202</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>barbu:2015:NLP4TM</bibkey>
@@ -25782,7 +25782,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>17&#8211;23</pages>
+    <pages>17 #8211;23</pages>
     <url>http://www.aclweb.org/anthology/W15-5203</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>raisatimonera-mitkov:2015:NLP4TM</bibkey>
@@ -25796,7 +25796,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>24&#8211;30</pages>
+    <pages>24 #8211;30</pages>
     <url>http://www.aclweb.org/anthology/W15-5204</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>chatzitheodoroou:2015:NLP4TM</bibkey>
@@ -25804,7 +25804,7 @@
 
   <paper id="5205">
     <title>Increasing Coverage of Translation Memories with Linguistically Motivated Segment Combination Methods</title>
-    <author><first>V&#237;t</first><last>Baisa</last></author>
+    <author><first>V #237;t</first><last>Baisa</last></author>
     <author><first>Ales</first><last>Horak</last></author>
     <author><first>Marek</first><last>Medveď</last></author>
     <booktitle>Proceedings of the Workshop Natural Language Processing for Translation Memories</booktitle>
@@ -25812,7 +25812,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>31&#8211;35</pages>
+    <pages>31 #8211;35</pages>
     <url>http://www.aclweb.org/anthology/W15-5205</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>baisa-horak-medve:2015:NLP4TM</bibkey>
@@ -25831,7 +25831,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>36&#8211;42</pages>
+    <pages>36 #8211;42</pages>
     <url>http://www.aclweb.org/anthology/W15-5206</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>nayek-EtAl:2015:NLP4TM</bibkey>
@@ -25854,31 +25854,31 @@
 
   <paper id="5301">
     <title>Universal Dependencies for Croatian (that work for Serbian, too)</title>
-    <author><first>&#x17D;eljko</first><last>Agi&#x107;</last></author>
-    <author><first>Nikola</first><last>Ljube&#x161;i&#x107;</last></author>
+    <author><first> #x17D;eljko</first><last>Agi #x107;</last></author>
+    <author><first>Nikola</first><last>Ljube #x161;i #x107;</last></author>
     <booktitle>The 5th Workshop on Balto-Slavic Natural Language Processing</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>1&#8211;8</pages>
+    <pages>1 #8211;8</pages>
     <url>http://www.aclweb.org/anthology/W15-5301</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>agic-ljubevsic:2015:BSNLP2015</bibkey>
   </paper>
 
   <paper id="5302">
-    <title>Analytic Morphology &#8211; Merging the Paradigmatic and Syntagmatic Perspective in a Treebank</title>
-    <author><first>Vladim&#237;r</first><last>Petkevi&#x10D;</last></author>
+    <title>Analytic Morphology  #8211; Merging the Paradigmatic and Syntagmatic Perspective in a Treebank</title>
+    <author><first>Vladim #237;r</first><last>Petkevi #x10D;</last></author>
     <author><first>Alexandr</first><last>Rosen</last></author>
-    <author><first>Hana</first><last>Skoumalov&#225;</last></author>
-    <author><first>P&#x159;emysl</first><last>V&#237;tovec</last></author>
+    <author><first>Hana</first><last>Skoumalov #225;</last></author>
+    <author><first>P #x159;emysl</first><last>V #237;tovec</last></author>
     <booktitle>The 5th Workshop on Balto-Slavic Natural Language Processing</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>9&#8211;16</pages>
+    <pages>9 #8211;16</pages>
     <url>http://www.aclweb.org/anthology/W15-5302</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>petkevivc-EtAl:2015:BSNLP2015</bibkey>
@@ -25886,14 +25886,14 @@
 
   <paper id="5303">
     <title>Resolving Entity Coreference in Croatian with a Constrained Mention-Pair Model</title>
-    <author><first>Goran</first><last>Glava&#x161;</last></author>
-    <author><first>Jan</first><last>&#x160;najder</last></author>
+    <author><first>Goran</first><last>Glava #x161;</last></author>
+    <author><first>Jan</first><last> #x160;najder</last></author>
     <booktitle>The 5th Workshop on Balto-Slavic Natural Language Processing</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>17&#8211;23</pages>
+    <pages>17 #8211;23</pages>
     <url>http://www.aclweb.org/anthology/W15-5303</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>glavavs-vsnajder:2015:BSNLP2015</bibkey>
@@ -25902,13 +25902,13 @@
   <paper id="5304">
     <title>Evaluation of Coreference Resolution Tools for Polish from the Information Extraction Perspective</title>
     <author><first>Adam</first><last>Kaczmarek</last></author>
-    <author><first>Micha&#x142;</first><last>Marci&#x144;czuk</last></author>
+    <author><first>Micha #x142;</first><last>Marci #x144;czuk</last></author>
     <booktitle>The 5th Workshop on Balto-Slavic Natural Language Processing</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>24&#8211;33</pages>
+    <pages>24 #8211;33</pages>
     <url>http://www.aclweb.org/anthology/W15-5304</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>kaczmarek-marcinczuk:2015:BSNLP2015</bibkey>
@@ -25922,7 +25922,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>34&#8211;39</pages>
+    <pages>34 #8211;39</pages>
     <url>http://www.aclweb.org/anthology/W15-5305</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>piskorski:2015:BSNLP2015</bibkey>
@@ -25930,15 +25930,15 @@
 
   <paper id="5306">
     <title>Regional Linguistic Data Initiative (ReLDI)</title>
-    <author><first>Tanja</first><last>Samard&#x17E;i&#x107;</last></author>
-    <author><first>Nikola</first><last>Ljube&#x161;i&#x107;</last></author>
-    <author><first>Maja</first><last>Mili&#x10D;evi&#x107;</last></author>
+    <author><first>Tanja</first><last>Samard #x17E;i #x107;</last></author>
+    <author><first>Nikola</first><last>Ljube #x161;i #x107;</last></author>
+    <author><first>Maja</first><last>Mili #x10D;evi #x107;</last></author>
     <booktitle>The 5th Workshop on Balto-Slavic Natural Language Processing</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>40&#8211;42</pages>
+    <pages>40 #8211;42</pages>
     <url>http://www.aclweb.org/anthology/W15-5306</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>samardvzic-ljubevsic-milivcevic:2015:BSNLP2015</bibkey>
@@ -25947,7 +25947,7 @@
   <paper id="5307">
     <title>Online Extraction of Russian Multiword Expressions</title>
     <author><first>Mikhail</first><last>Kopotev</last></author>
-    <author><first>Lloren&#231;</first><last>Escoter</last></author>
+    <author><first>Lloren #231;</first><last>Escoter</last></author>
     <author><first>Daria</first><last>Kormacheva</last></author>
     <author><first>Matthew</first><last>Pierce</last></author>
     <author><first>Lidia</first><last>Pivovarova</last></author>
@@ -25957,7 +25957,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>43&#8211;45</pages>
+    <pages>43 #8211;45</pages>
     <url>http://www.aclweb.org/anthology/W15-5307</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>kopotev-EtAl:2015:BSNLP2015</bibkey>
@@ -25965,7 +25965,7 @@
 
   <paper id="5308">
     <title>E-law Module Supporting Lawyers in the Process of Knowledge Discovery from Legal Documents</title>
-    <author><first>Marek</first><last>Koz&#x142;owski</last></author>
+    <author><first>Marek</first><last>Koz #x142;owski</last></author>
     <author><first>Maciej</first><last>Kowalski</last></author>
     <author><first>Maciej</first><last>Kazula</last></author>
     <booktitle>The 5th Workshop on Balto-Slavic Natural Language Processing</booktitle>
@@ -25973,7 +25973,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>46&#8211;48</pages>
+    <pages>46 #8211;48</pages>
     <url>http://www.aclweb.org/anthology/W15-5308</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>kozlowski-kowalski-kazula:2015:BSNLP2015</bibkey>
@@ -25981,14 +25981,14 @@
 
   <paper id="5309">
     <title>Experiments on Active Learning for Croatian Word Sense Disambiguation</title>
-    <author><first>Domagoj</first><last>Alagi&#x107;</last></author>
-    <author><first>Jan</first><last>&#x160;najder</last></author>
+    <author><first>Domagoj</first><last>Alagi #x107;</last></author>
+    <author><first>Jan</first><last> #x160;najder</last></author>
     <booktitle>The 5th Workshop on Balto-Slavic Natural Language Processing</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>49&#8211;58</pages>
+    <pages>49 #8211;58</pages>
     <url>http://www.aclweb.org/anthology/W15-5309</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>alagic-vsnajder:2015:BSNLP2015</bibkey>
@@ -26007,7 +26007,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>59&#8211;64</pages>
+    <pages>59 #8211;64</pages>
     <url>http://www.aclweb.org/anthology/W15-5310</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>leseva-EtAl:2015:BSNLP2015</bibkey>
@@ -26022,7 +26022,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>65&#8211;74</pages>
+    <pages>65 #8211;74</pages>
     <url>http://www.aclweb.org/anthology/W15-5311</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>katinskaya-sharoff:2015:BSNLP2015</bibkey>
@@ -26037,7 +26037,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>75&#8211;80</pages>
+    <pages>75 #8211;80</pages>
     <url>http://www.aclweb.org/anthology/W15-5312</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>harbusch-krusko:2015:BSNLP2015</bibkey>
@@ -26052,7 +26052,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>81&#8211;89</pages>
+    <pages>81 #8211;89</pages>
     <url>http://www.aclweb.org/anthology/W15-5313</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>osenova-simov:2015:BSNLP2015</bibkey>
@@ -26068,7 +26068,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>90&#8211;95</pages>
+    <pages>90 #8211;95</pages>
     <url>http://www.aclweb.org/anthology/W15-5314</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>loukachevitch-kotelnikov-blinov:2015:BSNLP2015</bibkey>
@@ -26076,15 +26076,15 @@
 
   <paper id="5315">
     <title>Authorship Attribution and Author Profiling of Lithuanian Literary Texts</title>
-    <author><first>Jurgita</first><last>Kapo&#x10D;iūtė-Dzikienė</last></author>
+    <author><first>Jurgita</first><last>Kapo #x10D;iūtė-Dzikienė</last></author>
     <author><first>Andrius</first><last>Utka</last></author>
-    <author><first>Ligita</first><last>&#x160;arkutė</last></author>
+    <author><first>Ligita</first><last> #x160;arkutė</last></author>
     <booktitle>The 5th Workshop on Balto-Slavic Natural Language Processing</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>96&#8211;105</pages>
+    <pages>96 #8211;105</pages>
     <url>http://www.aclweb.org/anthology/W15-5315</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>kapovciutedzikiene-utka-vsarkute:2015:BSNLP2015</bibkey>
@@ -26092,15 +26092,15 @@
 
   <paper id="5316">
     <title>Classification of Short Legal Lithuanian Texts</title>
-    <author><first>Vytautas</first><last>Mickevi&#x10D;ius</last></author>
-    <author><first>Tomas</first><last>Krilavi&#x10D;ius</last></author>
-    <author><first>Vaidas</first><last>Morkevi&#x10D;ius</last></author>
+    <author><first>Vytautas</first><last>Mickevi #x10D;ius</last></author>
+    <author><first>Tomas</first><last>Krilavi #x10D;ius</last></author>
+    <author><first>Vaidas</first><last>Morkevi #x10D;ius</last></author>
     <booktitle>The 5th Workshop on Balto-Slavic Natural Language Processing</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>106&#8211;111</pages>
+    <pages>106 #8211;111</pages>
     <url>http://www.aclweb.org/anthology/W15-5316</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>mickevivcius-krilavivcius-morkevivcius:2015:BSNLP2015</bibkey>
@@ -26127,15 +26127,15 @@
     <title>Overview of the DSL Shared Task 2015</title>
     <author><first>Marcos</first><last>Zampieri</last></author>
     <author><first>Liling</first><last>Tan</last></author>
-    <author><first>Nikola</first><last>Ljube&#x161;i&#x107;</last></author>
-    <author><first>J&#246;rg</first><last>Tiedemann</last></author>
+    <author><first>Nikola</first><last>Ljube #x161;i #x107;</last></author>
+    <author><first>J #246;rg</first><last>Tiedemann</last></author>
     <author><first>Preslav</first><last>Nakov</last></author>
     <booktitle>Proceedings of the Joint Workshop on Language Technology for Closely Related Languages, Varieties and Dialects</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1&#8211;9</pages>
+    <pages>1 #8211;9</pages>
     <url>http://www.aclweb.org/anthology/W15-5401</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>zampieri-EtAl:2015:LT4VarDial1</bibkey>
@@ -26165,7 +26165,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>11&#8211;16</pages>
+    <pages>11 #8211;16</pages>
     <url>http://www.aclweb.org/anthology/W15-5403</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>francosalvador-rosso-rangel:2015:LT4VarDial</bibkey>
@@ -26174,14 +26174,14 @@
   <paper id="5404">
     <title>Joint Bayesian Morphology Learning for Dravidian Languages</title>
     <author><first>Arun</first><last>Kumar</last></author>
-    <author><first>Llu&#237;s</first><last>Padr&#243;</last></author>
+    <author><first>Llu #237;s</first><last>Padr #243;</last></author>
     <author><first>Antoni</first><last>Oliver</last></author>
     <booktitle>Proceedings of the Joint Workshop on Language Technology for Closely Related Languages, Varieties and Dialects</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>17&#8211;23</pages>
+    <pages>17 #8211;23</pages>
     <url>http://www.aclweb.org/anthology/W15-5404</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>kumar-padro-oliver:2015:LT4VarDial</bibkey>
@@ -26198,7 +26198,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>24&#8211;33</pages>
+    <pages>24 #8211;33</pages>
     <url>http://www.aclweb.org/anthology/W15-5405</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>onyenwe-EtAl:2015:LT4VarDial</bibkey>
@@ -26227,7 +26227,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>35&#8211;43</pages>
+    <pages>35 #8211;43</pages>
     <url>http://www.aclweb.org/anthology/W15-5407</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>malmasi-dras:2015:LT4VarDial</bibkey>
@@ -26237,13 +26237,13 @@
     <title>Discriminating Similar Languages with Token-Based Backoff</title>
     <author><first>Tommi</first><last>Jauhiainen</last></author>
     <author><first>Heidi</first><last>Jauhiainen</last></author>
-    <author><first>Krister</first><last>Lind&#233;n</last></author>
+    <author><first>Krister</first><last>Lind #233;n</last></author>
     <booktitle>Proceedings of the Joint Workshop on Language Technology for Closely Related Languages, Varieties and Dialects</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>44&#8211;51</pages>
+    <pages>44 #8211;51</pages>
     <url>http://www.aclweb.org/anthology/W15-5408</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>jauhiainen-jauhiainen-linden:2015:LT4VarDial</bibkey>
@@ -26251,7 +26251,7 @@
 
   <paper id="5409">
     <title>NLEL UPV Autoritas Participation at Discrimination between Similar Languages (DSL) 2015 Shared Task</title>
-    <author><first>Ra&#252;l</first><last>Fabra Boluda</last></author>
+    <author><first>Ra #252;l</first><last>Fabra Boluda</last></author>
     <author><first>Francisco</first><last>Rangel</last></author>
     <author><first>Paolo</first><last>Rosso</last></author>
     <booktitle>Proceedings of the Joint Workshop on Language Technology for Closely Related Languages, Varieties and Dialects</booktitle>
@@ -26259,7 +26259,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>52&#8211;58</pages>
+    <pages>52 #8211;58</pages>
     <url>http://www.aclweb.org/anthology/W15-5409</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>fabraboluda-rangel-rosso:2015:LT4VarDial</bibkey>
@@ -26273,7 +26273,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>59&#8211;65</pages>
+    <pages>59 #8211;65</pages>
     <url>http://www.aclweb.org/anthology/W15-5410</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>bobicev:2015:LT4VarDial</bibkey>
@@ -26290,7 +26290,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>66&#8211;72</pages>
+    <pages>66 #8211;72</pages>
     <url>http://www.aclweb.org/anthology/W15-5411</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>zampieri-EtAl:2015:LT4VarDial2</bibkey>
@@ -26298,15 +26298,15 @@
 
   <paper id="5412">
     <title>A Two-level Classifier for Discriminating Similar Languages</title>
-    <author><first>Judit</first><last>&#192;cs</last></author>
-    <author><first>L&#225;szl&#243;</first><last>Grad-Gyenge</last></author>
+    <author><first>Judit</first><last> #192;cs</last></author>
+    <author><first>L #225;szl #243;</first><last>Grad-Gyenge</last></author>
     <author><first>Thiago Bruno</first><last>Rodrigues de Rezende Oliveira</last></author>
     <booktitle>Proceedings of the Joint Workshop on Language Technology for Closely Related Languages, Varieties and Dialects</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>73&#8211;77</pages>
+    <pages>73 #8211;77</pages>
     <url>http://www.aclweb.org/anthology/W15-5412</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>acs-gradgyenge-rodriguesderezendeoliveira:2015:LT4VarDial</bibkey>
@@ -26321,7 +26321,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>78&#8211;84</pages>
+    <pages>78 #8211;84</pages>
     <url>http://www.aclweb.org/anthology/W15-5413</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>goutte-leger:2015:LT4VarDial</bibkey>
@@ -26338,7 +26338,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>85&#8211;94</pages>
+    <pages>85 #8211;94</pages>
     <url>http://www.aclweb.org/anthology/W15-5414</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>xu-EtAl:2015:LT4VarDial</bibkey>
@@ -26382,7 +26382,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>2&#8211;5</pages>
+    <pages>2 #8211;5</pages>
     <url>http://www.aclweb.org/anthology/W15-5502</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>perera-nand:2015:NLPLOD2</bibkey>
@@ -26391,14 +26391,14 @@
   <paper id="5503">
     <title>Small in Size, Big in Precision: A Case for Using Language-Specific Lexical Resources for Word Sense Disambiguation</title>
     <author><first>Steven</first><last>Neale</last></author>
-    <author><first>Jo&#227;o</first><last>Silva</last></author>
-    <author><first>Ant&#243;nio</first><last>Branco</last></author>
+    <author><first>Jo #227;o</first><last>Silva</last></author>
+    <author><first>Ant #243;nio</first><last>Branco</last></author>
     <booktitle>Proceedings of the Second Workshop on Natural Language Processing and Linked Open Data</booktitle>
     <month>September</month>
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>6&#8211;15</pages>
+    <pages>6 #8211;15</pages>
     <url>http://www.aclweb.org/anthology/W15-5503</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>neale-silva-branco:2015:NLPLOD2</bibkey>
@@ -26413,7 +26413,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>16&#8211;22</pages>
+    <pages>16 #8211;22</pages>
     <url>http://www.aclweb.org/anthology/W15-5504</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>declerck-lendvai:2015:NLPLOD2</bibkey>
@@ -26428,7 +26428,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>23&#8211;32</pages>
+    <pages>23 #8211;32</pages>
     <url>http://www.aclweb.org/anthology/W15-5505</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>sukhareva-chiarcos:2015:NLPLOD2</bibkey>
@@ -26443,7 +26443,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>33&#8211;41</pages>
+    <pages>33 #8211;41</pages>
     <url>http://www.aclweb.org/anthology/W15-5506</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>simov-kiryakov:2015:NLPLOD2</bibkey>
@@ -26462,7 +26462,7 @@
     <year>2015</year>
     <address>Hissar, Bulgaria</address>
     <publisher>INCOMA Ltd. Shoumen, BULGARIA</publisher>
-    <pages>42&#8211;51</pages>
+    <pages>42 #8211;51</pages>
     <url>http://www.aclweb.org/anthology/W15-5507</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>elmaarouf-EtAl:2015:NLPLOD2</bibkey>

@@ -84,13 +84,13 @@
 
 <paper id="1012">
  <title>Annotated Hungarian National Corpus</title>
- <author>Zolt&#225;n Alexin</author>
- <author>J&#225;nos Csirik</author>
- <author>Tibor Gyim&#243;thy</author>
- <author>K&#225;roly Bibok</author>
+ <author>Zolt #225;n Alexin</author>
+ <author>J #225;nos Csirik</author>
+ <author>Tibor Gyim #243;thy</author>
+ <author>K #225;roly Bibok</author>
  <author>Csaba Hatvani</author>
- <author>G&#225;bor Pr&#243;sz&#233;ky</author>
- <author>L&#225;szl&#243; Tihanyi</author>
+ <author>G #225;bor Pr #243;sz #233;ky</author>
+ <author>L #225;szl #243; Tihanyi</author>
 </paper>
 
 <paper id="1013">
@@ -111,7 +111,7 @@
  <author>Thierry Poibeau</author>
  <author>A. Acoulon</author>
  <author>C. Avaux</author>
- <author>L. Beroff-B&#233;n&#233;at</author>
+ <author>L. Beroff-B #233;n #233;at</author>
  <author>A. Cadeau</author>
  <author>M. Calberg</author>
  <author>A. Delale</author>
@@ -190,7 +190,7 @@
 
 <paper id="1026">
  <title>Combining Clues for Word Alignment</title>
- <author>J&#246;rg Tiedemann</author>
+ <author>J #246;rg Tiedemann</author>
 </paper>
 
 <paper id="1027">
@@ -219,7 +219,7 @@
 
 <paper id="1031">
  <title>Describing Syntax with Star-Free Regular Expressions</title>
- <author>Anssi Yli-Jyr&#228;</author>
+ <author>Anssi Yli-Jyr #228;</author>
 </paper>
 
 <paper id="1032">
@@ -259,8 +259,8 @@
 <paper id="1038">
  <title>Named Entity Recognition For Catalan Using Only Spanish Resources and Unlabelled Data</title>
  <author>Xavier Carreras</author>
- <author>Llu&#237;s M&#224;rquez</author>
- <author>Llu&#237;s Padr&#243;</author>
+ <author>Llu #237;s M #224;rquez</author>
+ <author>Llu #237;s Padr #243;</author>
 </paper>
 
 <paper id="1039">
@@ -289,7 +289,7 @@
 
 <paper id="1043">
  <title>Contents and evaluation of the first Slovenian-German online dictionary</title>
- <author>Birte L&#246;nneker</author>
+ <author>Birte L #246;nneker</author>
  <author>Primoz Jakopin</author>
 </paper>
 
@@ -376,7 +376,7 @@
 
 <paper id="1056">
  <title>Classifying the Hungarian Web</title>
- <author>Andr&#225;s Kornai</author>
+ <author>Andr #225;s Kornai</author>
  <author>MarcKrellenstein</author>
  <author>Michael Mulligan</author>
  <author>David Twomey</author>
@@ -388,7 +388,7 @@
  <title>Producing Contextually Appropriate Intonation is an Information-State Based Dialogue System</title>
  <author>Ivana Kruijff-Korbayova</author>
  <author>Stina Ericsson</author>
- <author>Kepa J. Rodr&#237;guez</author>
+ <author>Kepa J. Rodr #237;guez</author>
  <author>Elena Karagjosova</author>
 </paper>
 
@@ -555,7 +555,7 @@
  <author>Thierry Poibeau</author>
  <author>A. Acoulon</author>
  <author>C. Avaux</author>
- <author>L. Beroff-B&#233;n&#233;at</author>
+ <author>L. Beroff-B #233;n #233;at</author>
  <author>A. Cadeau</author>
  <author>M. Calberg</author>
  <author>A. Delale</author>
@@ -584,9 +584,9 @@
 
 <paper id="1085">
  <title>PEAS, the first instantiation of a comparative framework for evaluating parsers of French</title>
- <author>V&#233;ronique Gendner</author>
+ <author>V #233;ronique Gendner</author>
  <author>Gabriel Illouz</author>
- <author>Mich&#232;le Jardino</author>
+ <author>Mich #232;le Jardino</author>
  <author>Laura Monceaux</author>
  <author>Patrick Paroubek</author>
  <author>Isabelle Robba</author>
@@ -632,7 +632,7 @@
 
 <paper id="2002">
  <title>CarSim: An Automatic 3D Text-to-Scene Conversion System Applied to Road Accident Reports</title>
- <author>Ola &#197;kerberg</author>
+ <author>Ola  #197;kerberg</author>
  <author>Hans Svensson</author>
  <author>Bastian Schulz</author>
  <author>Pierre Nugues</author>
@@ -663,7 +663,7 @@
 <paper id="2006">
  <title>Towards an Adaptive Communication Aid with Ambiguous Text Input</title>
  <author>Karin Harbusch</author>
- <author>Michael K&#252;hn</author>
+ <author>Michael K #252;hn</author>
 </paper>
 
 <paper id="2007">
@@ -677,7 +677,7 @@
 
 <paper id="2008">
  <title>Suregen-2: a shell system for the generation of clinical documents</title>
- <author>Dirk H&#252;ske-Kraus</author>
+ <author>Dirk H #252;ske-Kraus</author>
 </paper>
 
 <paper id="2009">
@@ -696,10 +696,10 @@
 
 <paper id="2011">
  <title>AGORA. Multilingual Multiplatform Architecture for the development of Natural Language Voice Services</title>
- <author>Jose Rela&#241;o-Gil</author>
+ <author>Jose Rela #241;o-Gil</author>
  <author>Mari Carmen Rodriguez-Gancedo</author>
  <author>Luis Villarrubia</author>
- <author>Luis Hern&#225;ndez Gomez</author>
+ <author>Luis Hern #225;ndez Gomez</author>
 </paper>
 
 <paper id="2012">
@@ -778,12 +778,12 @@
 
 <paper id="3005">
  <title>A Dynamic Logic Formalisation of the Dialogue Gameboard</title>
- <author>Raquel Fern&#225;ndez</author>
+ <author>Raquel Fern #225;ndez</author>
 </paper>
 
 <paper id="3006">
  <title>Reversing Controlled Document Authoring to Normalize Documents</title>
- <author>Aur&#233;lien Max</author>
+ <author>Aur #233;lien Max</author>
 </paper>
 
 </volume>

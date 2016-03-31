@@ -1,11 +1,6 @@
 $(document).ready(function() {
 // everything starts
 
-var years = new Array(25)
-			    .join().split(',')
-			    .map(function(item, index){ return ++index + 1990;});
-var count = new Array(25);
-
 // set year-range
 var slider = document.getElementById('year_range');
 noUiSlider.create(slider, {
@@ -33,7 +28,7 @@ $('select').material_select();
 
 // function - insert cards
 function insert_card(title, file) {
-    var data = "<div class='col s12 m6'>\
+    var data = "<div class='col s6'>\
                     <div class='card grey darken-1'>\
                         <div class='card-content white-text'>\
                             <span>"+title+"</span>\
@@ -45,10 +40,14 @@ function insert_card(title, file) {
                 </div>";
     $('#result').append(data);
     $('.modal-trigger').on('click', function() {
-		var file_url = '/static/data/' + $(this).data('file');
+		var file_url = '/static/data/ir_term_project/aan/papers_text/' + $(this).data('file');
 		$('.modal-content p').load(file_url);
 		$('#modal').openModal();
 	});
+}
+
+function insert_div (year) {
+	$('#result').append("<div class='s12'>"+year+"</div>");
 }
 
 $('#b_search').on('click', function() {
@@ -74,11 +73,26 @@ $('#b_search').on('click', function() {
         success: function(res) {
         	$('#result').empty();
         	var len = res['title'].length;
-        	for(var i = 0; i < len; i++)
-        		insert_card(res['title'][i], res['file'][i]);
-        	count = new Array(25);
-        	for(var i = 0; i < len; i++)
-        		count[res['year'][i]-1991]++;
+        	var year_dict = {};
+        	var startt = $('#start_year_second').val();
+        	var endd = $('#end_year_second').val();
+        	for (var i = 2001; i < 2015; i++)
+        		year_dict[i] = [];
+        	for(var i = 0; i < len; i++) {
+        		if (res['year'][i] <= endd && res['year'][i] >= startt)
+        			year_dict[res['year'][i]].push([res['title'][i], res['file'][i]]);
+        	}
+        	console.log(year_dict);
+        	for (i in year_dict) {
+        		if (year_dict[i].length != 0) {
+        			insert_div(i);
+        			for(j in year_dict[i]){
+        				console.log(j);
+        				insert_card(year_dict[i][j][0], year_dict[i][j][1]);
+        			}
+        		}
+        	}
+        	
         }
     });
 });

@@ -62,7 +62,7 @@
 
    <paper id="0109">
         <title>Geographic reference analysis for geographic document querying</title>
-        <author>Fr&#233;d&#233;rik Bilhaut</author>
+        <author>Fr #233;d #233;rik Bilhaut</author>
         <author>Thierry Charnois</author>
         <author>Patrice Enjalbert</author>
         <author>Yann Mathet</author>
@@ -660,7 +660,7 @@
    </paper>
 
    <paper id="0608">
-        <title>Why can't Jos&#233; read? The problem of learning semantic associations in a robot environment</title>
+        <title>Why can't Jos #233; read? The problem of learning semantic associations in a robot environment</title>
         <author>Peter Carbonetto</author>
         <author>Nando de Freitas</author>
    </paper>
@@ -710,7 +710,7 @@
    <paper id="0702">
         <title>Conceptual Language Models for Dialog Systems</title>
         <author>Renato De Mori</author>
-        <author>Frederic B&#233;chet</author>
+        <author>Frederic B #233;chet</author>
    </paper>
 
    <paper id="0703">
@@ -936,7 +936,7 @@
 
    <paper id="1005">
         <title>Antecedent Recovery: Experiments with a Trace Tagger</title>
-        <author>P&#233;terr Dienes</author>
+        <author>P #233;terr Dienes</author>
         <author>Amit Dubey</author>
    </paper>
 
@@ -1468,7 +1468,7 @@
 
    <paper id="1403">
         <title>Is There a Way to Represent Metaphors in WordNets? Insights from the Hamburg Metaphor Database</title>
-        <author>Birte L&#246;nnneker</author>
+        <author>Birte L #246;nnneker</author>
    </paper>
 
    <paper id="1404">
@@ -1526,10 +1526,10 @@
 
    <paper id="1504">
         <title>Low-cost Named Entity Classification for Catalan: Exploiting Multilingual Resources and Unlabeled Data</title>
-        <author>Llu&#237;s M&#224;rquez</author>
-        <author>Adri&#224; de Gispert</author>
+        <author>Llu #237;s M #224;rquez</author>
+        <author>Adri #224; de Gispert</author>
         <author>Xavier Carreras</author>
-        <author>Llu&#237;s Padr&#243;</author>
+        <author>Llu #237;s Padr #243;</author>
    </paper>
 
    <paper id="1505">
@@ -1881,7 +1881,7 @@
 
    <paper id="1802">
         <title>Conceptual Structuring through Term Variations</title>
-        <author>B&#233;atrice Daille</author>
+        <author>B #233;atrice Daille</author>
    </paper>
 
    <paper id="1803">
@@ -1893,7 +1893,7 @@
    <paper id="1804">
         <title>Using Masks, Suffix Array-based Data Structures and Multidimensional Arrays to Compute Positional Ngram Statistics from Corpora</title>
         <author>Alexandre Gil</author>
-        <author>Ga&#235;l Dias</author>
+        <author>Ga #235;l Dias</author>
    </paper>
 
    <paper id="1805">
@@ -2154,7 +2154,7 @@
    <paper id="2113">
         <title>Some empirical findings on dialogue management and domain ontologies in dialogue systems - Implications from an evaluation of BirdQuest</title>
         <author>Annika Flycht-Eriksson</author>
-        <author>Arne J&#246;nsson</author>
+        <author>Arne J #246;nsson</author>
    </paper>
       
    <paper id="2114">
@@ -2168,7 +2168,7 @@
         <title>Ontology-based Contextual Coherence Scoring</title>
         <author>Robert Porzel</author>
         <author>Iryna Gurevych</author>
-        <author>Christof E. M&#252;ller</author>
+        <author>Christof E. M #252;ller</author>
    </paper>
       
    <paper id="2116">
@@ -2179,7 +2179,7 @@
       
    <paper id="2117">
         <title>Multi-Level Annotation in MMAX</title>
-        <author>Christoph M&#252;ller</author>
+        <author>Christoph M #252;ller</author>
         <author>Michael Strube</author>
    </paper>
       
@@ -2202,7 +2202,7 @@
     
    <paper id="2120">
         <title>PALinkA: A highly customisable tool for discourse annotation </title>
-        <author>Constantin Or&#259;san</author>
+        <author>Constantin Or #259;san</author>
    </paper>
       
    <paper id="2121">
@@ -2256,7 +2256,7 @@
         <title>Developing a Typology of Dialogue Acts: Some Boundary Problems </title>
         <author>Tiit Hennoste</author>
         <author>Mare Koit</author>
-        <author>Andriela R&#228;&#228;bis</author>
+        <author>Andriela R #228; #228;bis</author>
         <author>Krista Strandson</author>
         <author>Maret Valdisoo</author>
         <author>Evely Vutt</author>
@@ -2287,7 +2287,7 @@
 
    <paper id="2204">
         <title>Multi-language Machine Translation through Interactive Document Normalization</title>
-        <author>Aur&#233;lien Max</author>
+        <author>Aur #233;lien Max</author>
    </paper>
 
    <paper id="2205">
@@ -2431,10 +2431,10 @@
    <paper id="2402">
         <title>Issues in the Syntactic Annotation of Cast3LB</title>
         <author>Montserrat Civit</author>
-        <author>Ma. Antnia Mart&#237;</author>
+        <author>Ma. Antnia Mart #237;</author>
         <author>Borja Navarro</author>
-        <author>Nria Buf&#237;</author>
-        <author>Bel&#233;n Fern&#225;ndez</author>
+        <author>Nria Buf #237;</author>
+        <author>Bel #233;n Fern #225;ndez</author>
         <author>Raquel Marcos</author>
    </paper>
 
@@ -2486,7 +2486,7 @@
    <paper id="2410">
         <title>Which bridges for bridging definite descriptions?</title>
         <author>Claire Gardent </author>
-        <author>H&#233;l&#232;ne Manu&#233;lian</author>
+        <author>H #233;l #232;ne Manu #233;lian</author>
         <author>Eric Kow</author>
    </paper>
 
@@ -2517,8 +2517,8 @@
 
    <paper id="2415">
         <title>The Unberable Lightness of Tagging* A Case Study in Morphosyntactic Tagging of Polish</title>
-        <author>Adam Przepi&#243;rkowski</author>
-        <author>Marcin Woli&#x144;ski</author>
+        <author>Adam Przepi #243;rkowski</author>
+        <author>Marcin Woli #x144;ski</author>
    </paper>
 
    <paper id="2416">
@@ -2601,8 +2601,8 @@
         <author>Karin Harbusch</author>
         <author>Sasa Hasan</author>
         <author>Hajo Hoffmann</author>
-        <author>Michael K&#252;hn</author>
-        <author>Bernhard Sch&#252;ler</author>
+        <author>Michael K #252;hn</author>
+        <author>Bernhard Sch #252;ler</author>
    </paper>
 
    <paper id="2510">
@@ -2681,7 +2681,7 @@
    <paper id="2701">
         <title>Introduction: Dialogue Systems: Interaction, Adaptation and Styles of Management</title>
         <author>Kristiina Jokinen</author>
-        <author>Bj&#246;rn G&#228;mback</author>
+        <author>Bj #246;rn G #228;mback</author>
         <author>William Black</author>
         <author>Roberta Catizone</author>
         <author>Yorick Wilks</author>
@@ -2704,7 +2704,7 @@
 
    <paper id="2704">
         <title>Flexibility and Efficiency through Persoonalisation?  Experiments with a conversational Program Guide Information System</title>
-        <author>P&#233;ter Boda</author>
+        <author>P #233;ter Boda</author>
         <author>Suresh Chaude</author>
         <author>Elvira Hartikainen</author>
         <author>Nidhi Gupta</author>
@@ -2749,7 +2749,7 @@
    </paper>
 
    <paper id="2711">
-        <title>The Interactive Navigation to the Stored Q&#38;A data using Simple Questions</title>
+        <title>The Interactive Navigation to the Stored Q #38;A data using Simple Questions</title>
         <author>Kunio Matsui</author>
         <author>Hozumi Tanaka</author>
    </paper>
@@ -2774,7 +2774,7 @@
    <paper id="2715">
         <title>Generic Dialogue Structure for Vocal Access to Indexed Databases</title>
         <author>Christophe Dupriez</author>
-        <author>M&#233;lanie Roland</author>
+        <author>M #233;lanie Roland</author>
    </paper>
 
    <paper id="2716">
@@ -2806,7 +2806,7 @@
 <paper id="2802">
 <title>The PEACE SLDS understanding evaluation paradigm of the French MEDIA campaign</title>
 <author><first>Laurence</first><last>Devillers</last></author>
-<author><first>H&#233;l&#232;ne</first><last>Maynard</last></author>
+<author><first>H #233;l #232;ne</first><last>Maynard</last></author>
 <author><first>Patrick</first><last>Paroubek</last></author>
 <author><first>Sophie</first><last>Rosset</last></author>
 <booktitle>Proceedings of the EACL 2003 Workshop on Evaluation Initiatives in Natural Language Processing: are evaluation methods, metrics and resources reusable?</booktitle>
@@ -2833,8 +2833,8 @@
 
 <paper id="2804">
 <title>A Quantitative Method for Machine Translation Evaluation</title>
-<author><first>Jes&#250;s</first><last>Tom&#225;s</last></author>
-<author><first>Josep &#192;ngel</first><last>Mas</last></author>
+<author><first>Jes #250;s</first><last>Tom #225;s</last></author>
+<author><first>Josep  #192;ngel</first><last>Mas</last></author>
 <author><first>Francisko</first><last>Casacuberta</last></author>
 <booktitle>Proceedings of the EACL 2003 Workshop on Evaluation Initiatives in Natural Language Processing: are evaluation methods, metrics and resources reusable?</booktitle>
 <month>April</month>
@@ -2860,7 +2860,7 @@
 
 <paper id="2806">
 <title>Intrinsic versus Extrinsic Evaluations of Parsing Systems</title>
-<author><first>Diego</first><last>Moll&#225;</last></author>
+<author><first>Diego</first><last>Moll #225;</last></author>
 <author><first>Ben</first><last>Hutchinson</last></author>
 <booktitle>Proceedings of the EACL 2003 Workshop on Evaluation Initiatives in Natural Language Processing: are evaluation methods, metrics and resources reusable?</booktitle>
 <month>April</month>
@@ -2928,7 +2928,7 @@
 <paper id="2901">
 <title>Relations between Inflectional and Derivation Patterns</title>
 <author>Karel Pala</author>
-<author>Radek Sedl&#225;&#x10D;ek</author>
+<author>Radek Sedl #225; #x10D;ek</author>
 <author>Marek Veber</author>
 <url>http://www.aclweb.org/anthology/W/W03-2901</url>
 </paper>
@@ -2945,32 +2945,32 @@
 <paper id="2903">
 <title>Automatic Lexical Acquisition from Raw Corpora: An Application to Russian</title>
 <author>Antoni Oliver</author>
-<author>Irene Castell&#x0F3;n</author>
-<author>Llu&#x0ED;s M&#x0E0;rquez</author>
+<author>Irene Castell #x0F3;n</author>
+<author>Llu #x0ED;s M #x0E0;rquez</author>
 <url>http://www.aclweb.org/anthology/W/W03-2903</url>
 </paper>
 
 <paper id="2904">
 <title>The MULTEXT-East Morphosyntactic Specification for Slavic Languages</title>
-<author>Toma&#x17E; Erjavec</author>
+<author>Toma #x17E; Erjavec</author>
 <author>Cvetana Krstev</author>
-<author>Vladim&#x0ED;r Petkevi&#x10D;</author>
+<author>Vladim #x0ED;r Petkevi #x10D;</author>
 <author>Kiril Simov</author>
-<author>Marko Tadi&#x107;</author>
-<author>Du&#x161;ko Vitas</author>
+<author>Marko Tadi #x107;</author>
+<author>Du #x161;ko Vitas</author>
 <url>http://www.aclweb.org/anthology/W/W03-2904</url>
 </paper>
 
 <paper id="2905">
 <title>A Flexemic Tagset for Polish</title>
-<author>Adam Przepi&#x0F3;rkowski</author>
-<author>Marcin Woli&#x144;ski</author>
+<author>Adam Przepi #x0F3;rkowski</author>
+<author>Marcin Woli #x144;ski</author>
 <url>http://www.aclweb.org/anthology/W/W03-2905</url>
 </paper>
 
 <paper id="2906">
 <title>Building the Croatian Morphological Lexicon</title>
-<author>Marko Tadi&#x107;</author>
+<author>Marko Tadi #x107;</author>
 <author>Sanja Fulgosi</author>
 <url>http://www.aclweb.org/anthology/W/W03-2906</url>
 </paper>
@@ -2983,14 +2983,14 @@
 
 <paper id="2908">
 <title>Composite Tense Recognition and Tagging in Serbian</title>
-<author>Du&#x161;ko Vitas</author>
+<author>Du #x161;ko Vitas</author>
 <author>Cvetana Krstev</author>
 <url>http://www.aclweb.org/anthology/W/W03-2908</url>
 </paper>
 
 <paper id="2909">
 <title>A Reconfigurable Stochastic Tagger for Languages with Complex Tag Structure</title>
-<author>&#x141;ukasz D&#x119;bowski</author>
+<author> #x141;ukasz D #x119;bowski</author>
 <url>http://www.aclweb.org/anthology/W/W03-2909</url>
 </paper>
 
@@ -3002,8 +3002,8 @@
 
 <paper id="2911">
 <title>Morpho-syntactic Clues for Terminological Processing in Serbian</title>
-<author>Goran Nenadi&#x107;</author>
-<author>Irena Spasi&#x107;</author>
+<author>Goran Nenadi #x107;</author>
+<author>Irena Spasi #x107;</author>
 <author>Sophia Ananiadou</author>
 <url>http://www.aclweb.org/anthology/W/W03-2911</url>
 </paper>

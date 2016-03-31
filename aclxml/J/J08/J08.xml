@@ -64,7 +64,7 @@
 
   <paper id="2001">
     <title>Special Issue Introduction: Semantic Role Labeling: An Introduction to the Special Issue</title>
-    <author>Llu&#237;s M&#224;rquez</author>
+    <author>Llu #237;s M #224;rquez</author>
     <author>Xavier Carreras</author>
     <author>Kenneth C. Litkowski</author>
     <author>Suzanne Stevenson</author>
@@ -142,7 +142,7 @@
 
   <paper id="3003">
     <title>Dependency Parsing of Turkish</title>
-    <author>G&#252;l&#351;en Eryi&#287;it</author>
+    <author>G #252;l #351;en Eryi #287;it</author>
     <author>Joakim Nivre</author>
     <author>Kemal Oflazer</author>
     <doi>10.1162/coli.2008.07-017-R1-06-83</doi>
@@ -177,7 +177,7 @@
   </paper>
 
   <paper id="3008">
-    <title>Book Reviews: Arabic Computational Morphology: Knowledge-Based and Empirical Methods by  Abdelhadi Soudi, Antal van den Bosch, and G&#252;nter Neumann (editors)</title>
+    <title>Book Reviews: Arabic Computational Morphology: Knowledge-Based and Empirical Methods by  Abdelhadi Soudi, Antal van den Bosch, and G #252;nter Neumann (editors)</title>
     <author>George Kiraz</author>
     <doi>10.1162/coli.2008.34.3.459</doi>
   </paper>
@@ -233,9 +233,9 @@
   </paper>
 
   <paper id="4006">
-    <title>Book Review: Mathematical Linguistics by  Andr&#225;s Kornai</title>
+    <title>Book Review: Mathematical Linguistics by  Andr #225;s Kornai</title>
     <author>Richard Sproat</author>
-    <author>Roxana G&#238;rju</author>
+    <author>Roxana G #238;rju</author>
     <doi>10.1162/coli.2008.34.4.615</doi>
   </paper>
 
@@ -257,7 +257,7 @@
 
   <paper id="4010">
     <title>Erratum: Dependency Parsing of Turkish</title>
-    <author>G&#252;l&#351;en Eryi&#287;it</author>
+    <author>G #252;l #351;en Eryi #287;it</author>
     <author>Joakim Nivre</author>
     <author>Kemal Oflazer</author>
     <doi>10.1162/coli.2008.34.4.627</doi>

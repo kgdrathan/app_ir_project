@@ -74,7 +74,7 @@
 	<paper id="0111">
 		<title>Vi-xfst: A Visual Regular Expression Development Environment for Xerox Finite State Tool</title>
 		<author>Kemal Oflazer</author>
-		<author>Yasin Y&#305;lmaz</author>
+		<author>Yasin Y #305;lmaz</author>
 	</paper>
 
 	<paper id="0200">
@@ -320,7 +320,7 @@
 
 	<paper id="0407">
 		<title>Representation and Treatment of Multiword Expressions in Basque</title>
-		<author>I&#241;aki Alegria</author>
+		<author>I #241;aki Alegria</author>
 		<author>Olatz Ansa</author>
 		<author>Xabier Artola</author>
 		<author>Nerea Ezeiza</author>
@@ -336,7 +336,7 @@
 	<paper id="0409">
 		<title>Integrating Morphology with Multi-word Expression Processing in Turkish</title>
 		<author>Kemal Oflazer</author>
-		<author>&#214;zlem &#199;etino&#x11F;lu</author>
+		<author> #214;zlem  #199;etino #x11F;lu</author>
 		<author>Bilge Say</author>
 	</paper>
 
@@ -344,7 +344,7 @@
 		<title>Frozen Sentences of Portuguese: Formal Descriptions for NLP</title>
 		<author>Jorge Baptista</author>
 		<author>Anabela Correia</author>
-		<author>Gra&#231;a Fernandes</author>
+		<author>Gra #231;a Fernandes</author>
 	</paper>
 
 	<paper id="0411">
@@ -476,9 +476,9 @@
 
 	<paper id="0606">
 		<title>Converting Mikrokosmos Frames into Description Logics</title>
-		<author>Pablo Beltr&#225;n-Ferruz</author>
-		<author>P Gonz&#225;lez-Calero</author>
-		<author>P Gerv&#225;s</author>
+		<author>Pablo Beltr #225;n-Ferruz</author>
+		<author>P Gonz #225;lez-Calero</author>
+		<author>P Gerv #225;s</author>
 	</paper>
 
 	<paper id="0607">
@@ -600,7 +600,7 @@
 		<author>Eneko Agirre</author>
 		<author>Itziar Aldabe</author>
 		<author>Mikel Lersundi</author>
-		<author>David Mart&#237;nez</author>
+		<author>David Mart #237;nez</author>
 		<author>Eli Pociello</author>
                 <author>Larraitz Uria</author>
 	</paper>
@@ -632,13 +632,13 @@
 
 	<paper id="0806">
 		<title>Senseval-3: The Spanish lexical sample task</title>
-		<author>Lluis M&#224;rquez</author>
-		<author>Mariona Taul&#233;</author>
-		<author>Antonia Mart&#237;</author>
-		<author>N&#250;ria Artigas</author>
-		<author>Mar Garc&#237;a</author>
+		<author>Lluis M #224;rquez</author>
+		<author>Mariona Taul #233;</author>
+		<author>Antonia Mart #237;</author>
+		<author>N #250;ria Artigas</author>
+		<author>Mar Garc #237;a</author>
 		<author>Francis Real</author>
-                <author>Dani Ferr&#233;s</author>
+                <author>Dani Ferr #233;s</author>
 	</paper>
 
 	<paper id="0807">
@@ -651,10 +651,10 @@
 	<paper id="0808">
 		<title>An evaluation exercise for Romanian Word Sense Disambiguation</title>
 		<author>Rada Mihalcea</author>
-		<author>Vivi N&#259;stase</author>
+		<author>Vivi N #259;stase</author>
 		<author>Timothy Chklovski</author>
-		<author>Doina T&#259;tar</author>
-		<author>Dan Tufi&#351;</author>
+		<author>Doina T #259;tar</author>
+		<author>Dan Tufi #351;</author>
                 <author>Florentina Hristea</author>
 	</paper>
 
@@ -686,7 +686,7 @@
 	<paper id="0813">
 		<title>The Basque Country University system: English and Basque tasks</title>
 		<author>Eneko Agirre</author>
-                <author>David Mart&#237;nez</author>
+                <author>David Mart #237;nez</author>
 	</paper>
 
 	<paper id="0814">
@@ -714,7 +714,7 @@
 		<title>Semantic role labelling with similarity-based generalization using EM-based clustering</title>
 		<author>Ulrike Baldewein</author>
 		<author>Katrin Erk</author>
-		<author>Sebastian Pad&#243;</author>
+		<author>Sebastian Pad #243;</author>
                 <author>Detlef Prescher</author>
 	</paper>
 
@@ -730,7 +730,7 @@
 		<title>Semantic parsing based on FrameNet</title>
 		<author>Cosmin Adrian Bejan</author>
 		<author>Alessandro Moschitti</author>
-		<author>Paul Mor&#259;rescu</author>
+		<author>Paul Mor #259;rescu</author>
 		<author>Gabriel Nicolae</author>
                 <author>Sanda Harabagiu</author>
 	</paper>
@@ -777,13 +777,13 @@
 
 	<paper id="0826">
 		<title>UBBNBC WSD system description</title>
-		<author>Andr&#225;s Csomai</author>
+		<author>Andr #225;s Csomai</author>
 	</paper>
 
 	<paper id="0827">
 		<title>GAMBL, genetic algorithm optimization of memory-based WSD</title>
 		<author>Bart Decadt</author>
-		<author>V&#233;ronique Hoste</author>
+		<author>V #233;ronique Hoste</author>
 		<author>Walter Daelemans</author>
                 <author>Antal Van den Bosch</author>
 	</paper>
@@ -791,21 +791,21 @@
 	<paper id="0828">
 		<title>TALP system for the English lexical sample task</title>
 		<author>Gerard Escudero</author>
-		<author>Lluis M&#224;rquez</author>
+		<author>Lluis M #224;rquez</author>
                 <author>German Rigau</author>
 	</paper>
 
 	<paper id="0829">
 		<title>WSD based on mutual information and syntactic patterns</title>
-		<author>David F&#233;rnandez-Amor&#243;s</author>
+		<author>David F #233;rnandez-Amor #243;s</author>
 	</paper>
 
 	<paper id="0830">
-		<title>The University of Ja&#233;n Word Sense Disambiguation system</title>
-		<author>Manuel Garc&#237;a-Vega</author>
-		<author>Miguel Garc&#237;a-Cumbreras</author>
-		<author>M. Teresa Mart&#237;n-Valdivia</author>
-                <author>L. Alfonso Urena-L&#243;pez</author>
+		<title>The University of Ja #233;n Word Sense Disambiguation system</title>
+		<author>Manuel Garc #237;a-Vega</author>
+		<author>Miguel Garc #237;a-Cumbreras</author>
+		<author>M. Teresa Mart #237;n-Valdivia</author>
+                <author>L. Alfonso Urena-L #243;pez</author>
 	</paper>
 
 	<paper id="0831">
@@ -841,12 +841,12 @@
 
 	<paper id="0836">
 		<title>Senseval-3: The Catalan lexical sample task</title>
-		<author>Lluis M&#224;rquez</author>
-		<author>Mariona Taul&#233;</author>
-		<author>Antonia Mart&#237;</author>
-		<author>Mar Garc&#237;a</author>
+		<author>Lluis M #224;rquez</author>
+		<author>Mariona Taul #233;</author>
+		<author>Antonia Mart #237;</author>
+		<author>Mar Garc #237;a</author>
 		<author>Francis Real</author>
-                <author>Dani Ferr&#233;s</author>
+                <author>Dani Ferr #233;s</author>
 	</paper>
 
 	<paper id="0837">
@@ -879,7 +879,7 @@
 	<paper id="0841">
 		<title>SVM classification of FrameNet semantic roles</title>
 		<author>Dan Moldovan</author>
-		<author>Roxana G&#238;rju</author>
+		<author>Roxana G #238;rju</author>
 		<author>Marian Olteanu</author>
                 <author>Ovidiu Fortu</author>
 	</paper>
@@ -893,8 +893,8 @@
 
 	<paper id="0843">
 		<title>Using a Word Sense Disambiguation system for translation disambiguation: the LIA-LIDILEM team experiment </title>
-		<author>Gr&#233;goire Moreau de Montcheuil</author>
-		<author>Marc El-B&#232;ze</author>
+		<author>Gr #233;goire Moreau de Montcheuil</author>
+		<author>Marc El-B #232;ze</author>
 		<author>Boxing Chen</author>
                 <author>Olivier Kraif</author>
 	</paper>
@@ -935,7 +935,7 @@
 		<author>Adrian Novischi</author>
 		<author>Dan Moldovan</author>
 		<author>Paul Parker</author>
-		<author>Adriana B&#259;dulescu</author>
+		<author>Adriana B #259;dulescu</author>
                 <author>Bob Hauser</author>
 	</paper>
 
@@ -978,8 +978,8 @@
 
 	<paper id="0855">
 		<title>UBB system at Senseval-3</title>
-		<author>Gabriela &#350;erban</author>
-                <author>Doina T&#259;tar</author>
+		<author>Gabriela  #350;erban</author>
+                <author>Doina T #259;tar</author>
 	</paper>
 
 	<paper id="0856">
@@ -1003,37 +1003,37 @@
 
 	<paper id="0859">
 		<title>The University of Alicante systems at Senseval-3</title>
-		<author>Sonia V&#225;zquez</author>
+		<author>Sonia V #225;zquez</author>
 		<author>Rafael Romero</author>
-		<author>Armando Su&#225;rez</author>
-		<author>Andr&#233;s Montoyo</author>
+		<author>Armando Su #225;rez</author>
+		<author>Andr #233;s Montoyo</author>
 		<author>Iulia Nica</author>
-                <author>Antonia Mart&#237;</author>
+                <author>Antonia Mart #237;</author>
 	</paper>
 
 	<paper id="0860">
 		<title>The R2D2 team at Senseval-3</title>
-		<author>Sonia V&#225;zquez</author>
+		<author>Sonia V #225;zquez</author>
 		<author>Rafael Romero</author>
-		<author>Armando Su&#225;rez</author>
-		<author>Andr&#233;s Montoyo</author>
-		<author>Manuel Garc&#237;a</author>
-		<author>M. Teresa Mart&#237;n</author>
-		<author>M. &#193;ngel Garc&#237;a</author>
+		<author>Armando Su #225;rez</author>
+		<author>Andr #233;s Montoyo</author>
+		<author>Manuel Garc #237;a</author>
+		<author>M. Teresa Mart #237;n</author>
+		<author>M.  #193;ngel Garc #237;a</author>
                 <author>L. Alfonso Urena</author>
 	</paper>
 
 	<paper id="0861">
 		<title>The "Meaning" system on the English all-words task</title>
-		<author>Lu&#237;s Villarejo</author>
-		<author>Lluis M&#224;rquez</author>
+		<author>Lu #237;s Villarejo</author>
+		<author>Lluis M #224;rquez</author>
 		<author>Eneko Agirre</author>
-		<author>David Mart&#237;nez</author>
+		<author>David Mart #237;nez</author>
 		<author>Bernardo Magnini</author>
 		<author>Carlo Strapparava</author>
 		<author>Diana McCarthy</author>
-		<author>Andr&#233;s Montoyo</author>
-                <author>Armando Su&#225;rez</author>
+		<author>Andr #233;s Montoyo</author>
+                <author>Armando Su #225;rez</author>
 	</paper>
 
 	<paper id="0862">
@@ -1077,7 +1077,7 @@
 
 	<paper id="0903">
 		<title>Constructing text sense representations</title>
-		<author>Ronald Winnem&#246;ller</author>
+		<author>Ronald Winnem #246;ller</author>
 	</paper>
 
 	<paper id="0904">
@@ -1133,7 +1133,7 @@
 	<paper id="0911">
 		<title>Lexical-semantic interpretation of language input in mathematical dialogs</title>
 		<author>Magdalena Wolska</author>
-		<author>Ivana Kruijff-Korbayov&#225;</author>
+		<author>Ivana Kruijff-Korbayov #225;</author>
 		<author>Helmut Horacek</author>
 	</paper>
 
@@ -1156,7 +1156,7 @@
 
 	<paper id="0915">
 		<title>Interpreting communicative goals in constrained domains using generation and interactive negotiation</title>
-		<author>Aur&#233;lian Max</author>
+		<author>Aur #233;lian Max</author>
 	</paper>
 
 	<paper id="1000">
@@ -1446,7 +1446,7 @@
 		<title>Using Argumentation to Retrieve Articles with Similar Citations from MEDLINE</title>
 		<author>Imad Tbahriti</author>
 		<author>Christine Chichester</author>
-		<author>Fr&#233;d&#233;rique Lisacek</author>
+		<author>Fr #233;d #233;rique Lisacek</author>
 		<author>Patrick Ruch</author>
 	</paper>
 
@@ -1456,7 +1456,7 @@
 		<author>Filip Ginter</author>
 		<author>Tapio Pahikkala</author>
 		<author>Jorma Boberg</author>
-		<author>Jouni J&#228;rvinen</author>
+		<author>Jouni J #228;rvinen</author>
 		<author>Tapio Salakoski</author>
 		<author>Jeppe Koivula</author>
 	</paper>
@@ -1479,7 +1479,7 @@
 	<paper id="1206">
 		<title>Assessing the Correlation between Contextual Patterns and Biological Entity Tagging</title>
 		<author>M. Krallinger</author>
-		<author>M. Padr&#243;n</author>
+		<author>M. Padr #243;n</author>
 		<author>C. Blaschke</author>
 		<author>A. Valencia</author>
 	</paper>
@@ -1488,13 +1488,13 @@
 		<title>Event-Based Information Extraction for the Biomedical Domain: the Caderige Project</title>
 		<author>Erick Alphonse</author>
 		<author>Sophie Aubin</author>
-		<author>Philippe Bessi&#233;res</author>
+		<author>Philippe Bessi #233;res</author>
 		<author>Gilles Bisson</author>
 		<author>Thierry Hamon</author>
 		<author>Sandrine Lagarrigue</author>
 		<author>Adeline Nazarenko</author>
 		<author>Alaine-Pierre Manine</author>
-		<author>Claire N&#233;dellec</author>
+		<author>Claire N #233;dellec</author>
 		<author>Mohamed Ould Abdel Vetah</author>
 		<author>Thierry Poibeau</author>
 		<author>Davy Weissenbacher</author>
@@ -1515,7 +1515,7 @@
 
 	<paper id="1210">
 		<title>Improving the Identification of Non-Anaphoric it using Support Vector Machines</title>
-		<author>Jos&#233; Carlos Clemente Litr&#225;n</author>
+		<author>Jos #233; Carlos Clemente Litr #225;n</author>
 		<author>Kenji Satou</author>
 		<author>Kentaro Torisawa</author>
 	</paper>
@@ -1572,7 +1572,7 @@
 
 	<paper id="1218">
 		<title>Adapting an NER-System for German to the Biomedical Domain</title>
-		<author>Marc R&#246;ssler</author>
+		<author>Marc R #246;ssler</author>
 	</paper>
 
 	<paper id="1219">
@@ -1610,7 +1610,7 @@
 
 	<paper id="1303">
 		<title>On Statistical Parameter Setting</title>
-		<author>Damir &#262;avar</author>
+		<author>Damir  #262;avar</author>
 		<author>Joshua Herring</author>
 		<author>Toshikazu Ikuta</author>
 		<author>Paul Rodrigues</author>
@@ -1696,7 +1696,7 @@
 		<title>CESTA: Machine Translation Evaluation Campaign [Work-in-Progress Project Report]</title>
 		<author><first>Widad</first><last>Mustafa El Hadi</last></author>
 		<author><first>Marianne</first><last>Dabbadie</last></author>
-		<author><first>Isma&#239;l</first><last>Timimi</last></author>
+		<author><first>Isma #239;l</first><last>Timimi</last></author>
 		<author><first>Martin</first><last>Rajman</last></author>
 		<author><first>Philippe</first><last>Langlais</last></author>
 		<author><first>Antony</first><last>Hartley</last></author>
@@ -1705,7 +1705,7 @@
 
 	<paper id="1403">
 		<title>Language Resources and Localisation</title>
-		<author><first>Reinhard</first><last>Sch&#228;ler</last></author>
+		<author><first>Reinhard</first><last>Sch #228;ler</last></author>
 	</paper>
 
 	<paper id="1404">
@@ -1721,7 +1721,7 @@
 	<paper id="1406">
 		<title>The uptake of online tools and web-based language resources by freelance translators: implications for translator training, professional development, and research</title>
 		<author><first>Heather</first><last>Fulford</last></author>
-		<author><first>Joaqu&#237;n</first><last>Granell Zafra</last></author>
+		<author><first>Joaqu #237;n</first><last>Granell Zafra</last></author>
 	</paper>
 
 	<paper id="1407">
@@ -1761,7 +1761,7 @@
 
 	<paper id="1504">
 		<title>Axiomatization of Restricted Non-Projective Dependency Trees through Finite-State Constraints that Analyse Crossing Bracketings</title>
-		<author>Anssi Ili-Jyr&#228;</author>
+		<author>Anssi Ili-Jyr #228;</author>
 	</paper>
 
 	<paper id="1505">
@@ -1844,7 +1844,7 @@
 
 	<paper id="1604">
 		<title>The Architecture of a Standard Arabic Lexical Database. Some Figures, Ratios and Categories from the DIINAR.1 Source Program</title>
-		<author>Ramzi Abb&#232;s</author>
+		<author>Ramzi Abb #232;s</author>
 		<author>Joseph Dichy</author>
 		<author>Mohamed Hassoun</author>
 	</paper>
@@ -1876,7 +1876,7 @@
 	</paper>
 
 	<paper id="1610">
-		<title>Automatic Arabic Document Categorization Based on the Na&#239;ve Bayes Algorithm</title>
+		<title>Automatic Arabic Document Categorization Based on the Na #239;ve Bayes Algorithm</title>
 		<author>Mohamed El Kourdi</author>
 		<author>Amine Bensaid</author>
 		<author>Tajje-eddine Rachidi</author>
@@ -1930,12 +1930,12 @@
 
 	<paper id="1701">
 		<title>Integrating Natural Language Processing into E-Learning - A Case of Czech</title>
-		<author>Pavel Smr&#382;</author>
+		<author>Pavel Smr #382;</author>
 	</paper>
 
 	<paper id="1702">
 		<title>NLP serving the cause of language learning </title>
-		<author>Fr&#233;d&#233;rique Segond</author>
+		<author>Fr #233;d #233;rique Segond</author>
 		<author>Thibault Parmentier</author>
 	</paper>
 
@@ -1944,7 +1944,7 @@
 		<author>G. Antoniadis</author>
 		<author>S. Echinard</author>
 		<author>O. Kraif</author>
-		<author>T. Lebarb&#233;</author>
+		<author>T. Lebarb #233;</author>
 		<author>M. Loiseau</author>
 		<author>C. Ponton</author>
 	</paper>
@@ -1999,7 +1999,7 @@
 
 	<paper id="1710">
 		<title>he Syntax Student's Companion: an eLearning Tool designed for (Computational) Linguistics Students</title>
-		<author>Aur&#233;lien Max</author>
+		<author>Aur #233;lien Max</author>
 	</paper>
 
 	<paper id="1711">
@@ -2007,7 +2007,7 @@
 		<author>Katrina Keogh</author>
 		<author>Thomas Koller</author>
 		<author>Monica Ward</author>
-		<author>Elaine U&#237; Dhonnchadha</author>
+		<author>Elaine U #237; Dhonnchadha</author>
 		<author>Josef van Genabith</author>
 	</paper>
 
@@ -2037,7 +2037,7 @@
 
 	<paper id="1802">
 		<title>Metalinguistic Information Extraction for Terminology</title>
-		<author>Carlos Rodr&#237;guez Penagos</author>
+		<author>Carlos Rodr #237;guez Penagos</author>
 	</paper>
 
 	<paper id="1803">
@@ -2069,14 +2069,14 @@
 
 	<paper id="1807">
 		<title>Detecting Semantic Relations between Terms in Definitions</title>
-		<author>V&#233;ronique Malais&#233;</author>
+		<author>V #233;ronique Malais #233;</author>
 		<author>Pierre Zweigenbaum</author>
 		<author>Bruno Bachimont</author>
 	</paper>
 
 	<paper id="1808">
 		<title>Discovering Synonyms and Other Related Words</title>
-		<author>Krister Lind&#233;n</author>
+		<author>Krister Lind #233;n</author>
 		<author>Jussi Piitulainen</author>
 	</paper>
 
@@ -2115,7 +2115,7 @@
 		<title>Construction of Grammar Based Term Extraction Model for Japanese</title>
 		<author>Koichi Takeuchi</author>
 		<author>Kyo Kageura</author>
-		<author>B&#233;atrice Daille</author>
+		<author>B #233;atrice Daille</author>
 		<author>Laurent Romary</author>
 	</paper>
 
@@ -2152,22 +2152,22 @@
 
 	<paper id="1904">
 		<title>The Szeged Corpus. A POS Tagged and Syntactically Annotated Hungarian Natural Language Corpus</title>
-		<author>D&#243;ra Csendes</author>
-		<author>J&#225;nos Csirik</author>
-		<author>Tibor Gyim&#243;thy</author>
+		<author>D #243;ra Csendes</author>
+		<author>J #225;nos Csirik</author>
+		<author>Tibor Gyim #243;thy</author>
 	</paper>
 
 	<paper id="1905">
 		<title>Towards User-Adaptive Annotation Guidelines</title>
 		<author>Stefanie Dipper</author>
-		<author>Michael G&#246;tze</author>
+		<author>Michael G #246;tze</author>
 		<author>Stavros Skopeteas</author>
 	</paper>
 
 	<paper id="1906">
 		<title>Towards a Dependency-Based Gold Standard for German Parsers. The TIGER Dependency Bank</title>
 		<author>Martin Forst</author>
-		<author>N&#250;ria Bertomeu</author>
+		<author>N #250;ria Bertomeu</author>
 		<author>Berthold Crysmann</author>
 		<author>Frederik Fouvry</author>
 		<author>Silvia Hansen-Schirra</author>
@@ -2177,7 +2177,7 @@
 	<paper id="1907">
 		<title>Corpus-based Induction of an LFG Syntax-Semantics Interface for Frame Semantic Processing</title>
 		<author>Anette Frank</author>
-		<author>Jir&#237; Semecky</author>
+		<author>Jir #237; Semecky</author>
 	</paper>
 
 	<paper id="1908">
@@ -2198,7 +2198,7 @@
 		<title>Mining Linguistically Interpreted Texts</title>
 		<author>Cassiana Fagundes da Silva</author>
 		<author>Renata Vieira</author>
-		<author>Fernando Santos Os&#243;rio</author>
+		<author>Fernando Santos Os #243;rio</author>
 		<author>Paulo Quaresma</author>
 	</paper>
 
@@ -2211,7 +2211,7 @@
 	<paper id="1912">
 		<title>Word Order Variation in German Main Clauses. A Corpus Analysis</title>
 		<author>Andrea Weber</author>
-		<author>Karin M&#252;ller</author>
+		<author>Karin M #252;ller</author>
 	</paper>
 
 	<paper id="2000">
@@ -2248,9 +2248,9 @@
 
 	<paper id="2006">
 		<title>A step towards incremental generation of logical forms</title>
-		<author>Lu&#237;isa Coheur</author>
+		<author>Lu #237;isa Coheur</author>
 		<author>Nuno Mamede</author>
-		<author>Gabriel B&#232;s</author>
+		<author>Gabriel B #232;s</author>
 	</paper>
 
 	<paper id="2007">
@@ -2307,7 +2307,7 @@
 
 	<paper id="2102">
 		<title>Design of a Lexical Database for Sanskrit</title>
-		<author>G&#233;rard Huet</author>
+		<author>G #233;rard Huet</author>
 	</paper>
 
 	<paper id="2103">
@@ -2335,7 +2335,7 @@
 	</paper>
 
 	<paper id="2107">
-		<title>A Computerized Dictionary : Le tr&#233;sor de la langue fran&#231;aise informatis&#233; (TLFi)</title>
+		<title>A Computerized Dictionary : Le tr #233;sor de la langue fran #231;aise informatis #233; (TLFi)</title>
 		<author>Pascale Bernard</author>
 		<author>Jacques Dendien</author>
 		<author>Jean-Marie Pierrel</author>
@@ -2352,8 +2352,8 @@
 		<author>Christiane Fellbaum</author>
 		<author>Alexander Geyken</author>
 		<author>Axel Herold</author>
-		<author>Christiane H&#252;mmer</author>
-		<author>Fabian K&#246;rner</author>
+		<author>Christiane H #252;mmer</author>
+		<author>Fabian K #246;rner</author>
 		<author>Undine Kramer</author>
 		<author>Kerstin Krell</author>
 		<author>Alexey Sokirko</author>
@@ -2480,7 +2480,7 @@
 
 	<paper id="2210">
 		<title>A Generic Collaborative Platform for Multilingual Lexical Database Development</title>
-		<author>Gilles S&#233;rasset</author>
+		<author>Gilles S #233;rasset</author>
 	</paper>
 
 	<paper id="2211">
@@ -2569,8 +2569,8 @@
 		<author>Joakim Gustafson</author>
 		<author>Linda Bell</author>
 		<author>Johan Boye</author>
-		<author>Anders Lindstr&#246;m</author>
-		<author>Mats Wir&#233;n</author>
+		<author>Anders Lindstr #246;m</author>
+		<author>Mats Wir #233;n</author>
 	</paper>
 
 	<paper id="2305">
@@ -2583,8 +2583,8 @@
 		<author>Stefan Hamerich</author>
 		<author>Volker Schubert</author>
 		<author>Volker Schless</author>
-		<author>Ricardo de C&#243;rdoba</author>
-		<author>Jos&#233; M. Pardo</author>
+		<author>Ricardo de C #243;rdoba</author>
+		<author>Jos #233; M. Pardo</author>
 		<author>Luis F. d'Haro</author>
 		<author>Basilis Kladis</author>
 		<author>Otilia Kocsis</author>
@@ -2602,7 +2602,7 @@
 		<author>Olga Gerassimenko</author>
 		<author>Tiit Hennoste</author>
 		<author>Mare Koit</author>
-		<author>Andriela R&#228;&#228;bis</author>
+		<author>Andriela R #228; #228;bis</author>
 	</paper>
 
 	<paper id="2309">
@@ -2641,7 +2641,7 @@
 		<title>Bootstrapping Spoken Dialog Systems with Data Reuse</title>
 		<author>Guiseppe Di Fabbrizio</author>
 		<author>Gokhan Tur</author>
-		<author>Dilek Hakkani-T&#252;r</author>
+		<author>Dilek Hakkani-T #252;r</author>
 	</paper>
 
 	<paper id="2315">
@@ -2685,9 +2685,9 @@
 	<paper id="2321">
 		<title>On the Use of Confidence for Statistical Decision in Dialogue Strategies</title>
 		<author>Christian Raymond</author>
-		<author>Fr&#233;d&#233;ric B&#233;chet</author>
+		<author>Fr #233;d #233;ric B #233;chet</author>
 		<author>Renato De Mori</author>
-		<author>G&#233;raldine Damnati</author>
+		<author>G #233;raldine Damnati</author>
 	</paper>
 
 	<paper id="2322">
@@ -2806,14 +2806,14 @@
 	<paper id="2412">
 		<title>Introduction to the CoNLL-2004 Shared Task: Semantic Role Labeling</title>
 		<author>Xavier Carreras</author>
-		<author>Llu&#237;s M&#224;rquez</author>
+		<author>Llu #237;s M #224;rquez</author>
 	</paper>
 
 	<paper id="2413">
 		<title>Semantic Role Labelling With Chunk Sequences</title>
 		<author>Ulrike Baldewein</author>
 		<author>Katrin Erk</author>
-		<author>Sebastian Pad&#243;</author>
+		<author>Sebastian Pad #243;</author>
 		<author>Detlef Prescher</author>
 	</paper>
 
@@ -2829,8 +2829,8 @@
 	<paper id="2415">
 		<title>Hierarchical Recognition of Propositional Arguments with Perceptrons</title>
 		<author>Xavier Carreras</author>
-		<author>Llu&#237;s M&#224;rquez</author>
-		<author>Grzegorz Chrupa&#x142;a</author>
+		<author>Llu #237;s M #224;rquez</author>
+		<author>Grzegorz Chrupa #x142;a</author>
 	</paper>
 
 	<paper id="2416">
@@ -3084,7 +3084,7 @@
 
 	<paper id="2702">
 		<title>Syntax to Semantics Transformation: Application to Treebanking</title>
-		<author>M. Alc&#225;ntara</author>
+		<author>M. Alc #225;ntara</author>
 		<author>A. Moreno</author>
 	</paper>
 
@@ -3119,8 +3119,8 @@
 	<paper id="2706">
 		<title>Deep Syntactic Annotation: Tectogrammatical Representation and Beyond</title>
 		<author>P. Sgall</author>
-		<author>J. Panevov&#225;</author>
-		<author>E. Haji&#269;ov&#225;</author>
+		<author>J. Panevov #225;</author>
+		<author>E. Haji #269;ov #225;</author>
 	</paper>
 
 	<paper id="2707">
@@ -3129,15 +3129,15 @@
 		<author>C. Brinckmann</author>
 		<author>S. Hansen-Schirra</author>
 		<author>G. Kruijff</author>
-		<author>I. Kruijff-Korbayov&#225;</author>
+		<author>I. Kruijff-Korbayov #225;</author>
 		<author>S. Neumann</author>
 		<author>E. Teich</author>
 	</paper>
 
 	<paper id="2708">
 		<title>Prague Czech-English Dependency Treebank: Any Hopes for a Common Annotation Scheme?</title>
-		<author>M. &#268;mejrek</author>
-		<author>J. Cu&#345;&#237;n</author>
+		<author>M.  #268;mejrek</author>
+		<author>J. Cu #345; #237;n</author>
 		<author>J. Havelka</author>
 	</paper>
 
@@ -3165,8 +3165,8 @@
 
 	<paper id="2711">
 		<title>Valency Frames of Czech Verbs in VALLEX 1.0</title>
-		<author>Z. &#381;abokrtsk&#253;</author>
-		<author>M. Lopatkov&#225;</author>
+		<author>Z.  #381;abokrtsk #253;</author>
+		<author>M. Lopatkov #225;</author>
 	</paper>
 
 	<paper id="2800">
@@ -3187,7 +3187,7 @@
 
 	<paper id="2803">
 		<title>A Little Goes a Long Way: Quick Authoring of Semantic Knowledge Sources for Interpretation</title>
-		<author>Carolyn Penstein Ros&#233;</author>
+		<author>Carolyn Penstein Ros #233;</author>
 		<author>Brian S. Hall</author>
 	</paper>
 
@@ -3196,7 +3196,7 @@
 		<author>Jan Alexandersson</author>
 		<author>Tilman Becker</author>
 		<author>Ralf Engel</author>
-		<author>Markus L&#246;ckelt</author>
+		<author>Markus L #246;ckelt</author>
 		<author>Elsa Pecourt</author>
 		<author>Peter Poller</author>
 		<author>Norbert Pfleger</author>
@@ -3317,7 +3317,7 @@
 
 	<paper id="3004">
 		 <title>Virtual Modality: a Framework for Testing and Building Multimodal Applications</title>
-		 <author>P&#233;ter P&#225;l Boda</author>
+		 <author>P #233;ter P #225;l Boda</author>
 		<author>Edward Filisko</author>
 	</paper>
 
@@ -3367,7 +3367,7 @@
 
 	<paper id="3011">
 		 <title>Assigning Domains to Speech Recognition Hypotheses</title>
-		 <author>Klaus R&#252;ggenmann</author>
+		 <author>Klaus R #252;ggenmann</author>
 		<author>Iryna Gurevych</author>
 	</paper>
 
@@ -3566,7 +3566,7 @@
 
 	<paper id="3214">
 		<title>The Influence of Argument Structure on Semantic Role Assignment</title>
-		<author>Sebastian  Pad&#243;</author>
+		<author>Sebastian  Pad #243;</author>
 		<author>Gemma  Boleda</author>
 	</paper>
 
@@ -3579,7 +3579,7 @@
 
 	<paper id="3216">
 		<title>A Phrase-Based HMM Approach to Document/Abstract Alignment</title>
-		<author>Hal  Daum&#233; III</author>
+		<author>Hal  Daum #233; III</author>
 		<author>Daniel  Marcu</author>
 	</paper>
 
@@ -3692,7 +3692,7 @@
 
 	<paper id="3233">
 		<title>NP Bracketing by Maximum Entropy Tagging and SVM Reranking</title>
-		<author>Hal  Daum&#233; III</author>
+		<author>Hal  Daum #233; III</author>
 		<author>Daniel  Marcu</author>
 	</paper>
 
@@ -3704,8 +3704,8 @@
 	<paper id="3235">
 		<title>Error Measures and Bayes Decision Rules Revisited with Applications to POS Tagging</title>
 		<author>Hermann  Ney</author>  
-		<author>Maja  Popovi&#263;</author>
-		<author>David  S&#252;ndermann</author>
+		<author>Maja  Popovi #263;</author>
+		<author>David  S #252;ndermann</author>
 	</paper>
 
 	<paper id="3236">
@@ -3767,8 +3767,8 @@
 		<author>Jorge  Civera</author>  
 		<author>Elsa  Cubel</author>  
 		<author>Antonio L.  Lagarda</author>  
-		<author>David  Pic&#243;</author>  
-		<author>Jorge  Gonz&#225;lez</author>  
+		<author>David  Pic #243;</author>  
+		<author>Jorge  Gonz #225;lez</author>  
 		<author>Enrique  Vidal</author>  
 		<author>Francisco  Casacuberta</author>  
 		<author>Juan M.  Vilar</author>
@@ -3784,7 +3784,7 @@
 
 	<paper id="3247">
 		<title>LexPageRank: Prestige in Multi-Document Text Summarization</title>
-		<author>G&#252;nes  Erkan</author>
+		<author>G #252;nes  Erkan</author>
 		<author>Dragomir R.  Radev</author>
 	</paper>
 

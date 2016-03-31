@@ -440,7 +440,7 @@
   <paper id="0706">
   <title>A Comparison between Supervised Learning Algorithms for Word Sense Disambiguation</title>
   <author>Gerard Escudero</author>
-  <author>Llu&#237;s M&#224;rquez</author>
+  <author>Llu #237;s M #224;rquez</author>
   <author>German Rigau</author>
   </paper>
  
@@ -507,13 +507,13 @@
 
   <paper id="0718">
   <title>ALLiS: a Symbolic Learning System for Natural Language Learning</title>
-  <author>Herv&#233; D&#233;jean</author>
+  <author>Herv #233; D #233;jean</author>
   </paper>
 
   <paper id="0719">
   <title>Combining Text and Heuristics for Cost-Sensitive Spam Filtering</title>
-  <author>Jos&#233; M. G&#243;mez Hidalgo</author>
-  <author>Manual Ma&#241;a L&#243;pez</author>
+  <author>Jos #233; M. G #243;mez Hidalgo</author>
+  <author>Manual Ma #241;a L #243;pez</author>
   <author>Enrique Puertas Sanz</author>
   </paper>
 
@@ -551,7 +551,7 @@
 
   <paper id="0725">
   <title>A Comparison of PCFG Models</title>
-  <author>Jose Luis Verd&#250;-Mas</author>
+  <author>Jose Luis Verd #250;-Mas</author>
   <author>Jorge Calera-Rubio</author>
   <author>Rafael C. Carrasco</author>
   </paper>
@@ -564,7 +564,7 @@
 
   <paper id="0727">
   <title>Learning Syntactic Structures with XML</title>
-  <author>Herv&#233; D&#233;jean</author>
+  <author>Herv #233; D #233;jean</author>
   </paper>
 
   <paper id="0728">
@@ -626,7 +626,7 @@
 
   <paper id="0738">
   <title>Extracting a Domain-Specific Ontology from a Corporate Intranet</title>
-  <author>J&#246;rg-Uwe Kietz</author>
+  <author>J #246;rg-Uwe Kietz</author>
   <author>Raphael Volz</author>
   <author>Alexander Maedche</author>
   </paper>
@@ -653,7 +653,7 @@
 
   <paper id="0742">
   <title>Inductive Logic Programming for Corpus-Based Acquisition of Semantic Lexicons</title>
-  <author>Pascale S&#233;billot</author>
+  <author>Pascale S #233;billot</author>
   <author>Pierrette Bouillon</author>
   <author>Cecile Fabre</author>
   </paper>
@@ -665,9 +665,9 @@
 
   <paper id="0744">
   <title>Recognition and Tagging of Compound Verb Groups in Czech</title>
-  <author>Eva Z&#225;ckov&#225;</author>
-  <author>Lubo&#x161; Popel&#237;nsk&#253;</author>
-  <author>Milo&#x161; Nepil</author>
+  <author>Eva Z #225;ckov #225;</author>
+  <author>Lubo #x161; Popel #237;nsk #253;</author>
+  <author>Milo #x161; Nepil</author>
   </paper>
 
  <paper id="0800">
@@ -1535,7 +1535,7 @@
  
   <paper id="1500">
     <title>Proceedings of the COLING-2000 Workshop on Using Toolsets and Architectures To Build NLP Systems</title>
-    <editor>R&#232;mi Zajac</editor>
+    <editor>R #232;mi Zajac</editor>
     <month>August</month>
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
@@ -1546,7 +1546,7 @@
   </paper>
 
   <paper id="1501">
-    <title>Experience using GATE for NLP R&#38;D</title>
+    <title>Experience using GATE for NLP R #38;D</title>
     <author>Hamish Cunningham</author>
     <author>Diana Maynard</author>
     <author>Kalina Bontcheva</author>
@@ -1557,7 +1557,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>1&#8211;8</pages>
+    <pages>1 #8211;8</pages>
     <url>http://www.aclweb.org/anthology/W00-1501</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>cunningham-EtAl:2000:TOOLSETS</bibkey>
@@ -1566,13 +1566,13 @@
   <paper id="1502">
     <title>Composing a General-Purpose Toolbox for Swedish</title>
     <author>Fredrik Olsson</author>
-    <author>Bj&#246;rn Gamb&#228;ck</author>
+    <author>Bj #246;rn Gamb #228;ck</author>
     <booktitle>Proceedings of the COLING-2000 Workshop on Using Toolsets and Architectures To Build NLP Systems</booktitle>
     <month>August</month>
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>9&#8211;18</pages>
+    <pages>9 #8211;18</pages>
     <url>http://www.aclweb.org/anthology/W00-1502</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>olsson-gamback:2000:TOOLSETS</bibkey>
@@ -1590,7 +1590,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>19&#8211;25</pages>
+    <pages>19 #8211;25</pages>
     <url>http://www.aclweb.org/anthology/W00-1503</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>bontcheva-EtAl:2000:TOOLSETS</bibkey>
@@ -1599,13 +1599,13 @@
   <paper id="1504">
     <title>A Modular Toolkit for Machine Translation Based on Layered Charts</title>
     <author>Jan W. Amtrup</author>
-    <author>R&#232;mi Zajac</author>
+    <author>R #232;mi Zajac</author>
     <booktitle>Proceedings of the COLING-2000 Workshop on Using Toolsets and Architectures To Build NLP Systems</booktitle>
     <month>August</month>
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>26&#8211;33</pages>
+    <pages>26 #8211;33</pages>
     <url>http://www.aclweb.org/anthology/W00-1504</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>amtrup-zajac:2000:TOOLSETS</bibkey>
@@ -1619,7 +1619,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>34&#8211;37</pages>
+    <pages>34 #8211;37</pages>
     <url>http://www.aclweb.org/anthology/W00-1505</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>daciuk:2000:TOOLSETS</bibkey>
@@ -1633,7 +1633,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>38&#8211;43</pages>
+    <pages>38 #8211;43</pages>
     <url>http://www.aclweb.org/anthology/W00-1506</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>ide:2000:TOOLSETS</bibkey>
@@ -1648,7 +1648,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>44&#8211;50</pages>
+    <pages>44 #8211;50</pages>
     <url>http://www.aclweb.org/anthology/W00-1507</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>burstein-marcu:2000:TOOLSETS</bibkey>
@@ -1662,7 +1662,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>51&#8211;60</pages>
+    <pages>51 #8211;60</pages>
     <url>http://www.aclweb.org/anthology/W00-1508</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>denecke:2000:TOOLSETS</bibkey>
@@ -1676,7 +1676,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>61&#8211;68</pages>
+    <pages>61 #8211;68</pages>
     <url>http://www.aclweb.org/anthology/W00-1509</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>pautret:2000:TOOLSETS</bibkey>
@@ -1684,13 +1684,13 @@
 
   <paper id="1510">
     <title>Diamod - a Tool for Modeling Dialogue Applications</title>
-    <author>Anke K&#246;lzer</author>
+    <author>Anke K #246;lzer</author>
     <booktitle>Proceedings of the COLING-2000 Workshop on Using Toolsets and Architectures To Build NLP Systems</booktitle>
     <month>August</month>
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>69&#8211;78</pages>
+    <pages>69 #8211;78</pages>
     <url>http://www.aclweb.org/anthology/W00-1510</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>kolzer:2000:TOOLSETS</bibkey>
@@ -1711,7 +1711,7 @@
   </paper>
 
   <paper id="1601">
-    <title>Efficient Large-Scale Parsing &#8211; a Survey</title>
+    <title>Efficient Large-Scale Parsing  #8211; a Survey</title>
     <author>John Carroll</author>
     <author>Stephan Oepen</author>
     <booktitle>Proceedings of the COLING-2000 Workshop on Efficiency In Large-Scale Parsing Systems</booktitle>
@@ -1719,7 +1719,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>7&#8211;12</pages>
+    <pages>7 #8211;12</pages>
     <url>http://www.aclweb.org/anthology/W00-1601</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>carroll-oepen:2000:ELSPS</bibkey>
@@ -1734,7 +1734,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>13&#8211;22</pages>
+    <pages>13 #8211;22</pages>
     <url>http://www.aclweb.org/anthology/W00-1602</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>brown-EtAl:2000:ELSPS</bibkey>
@@ -1748,7 +1748,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>23&#8211;28</pages>
+    <pages>23 #8211;28</pages>
     <url>http://www.aclweb.org/anthology/W00-1603</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>moore:2000:ELSPS</bibkey>
@@ -1763,7 +1763,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>29&#8211;36</pages>
+    <pages>29 #8211;36</pages>
     <url>http://www.aclweb.org/anthology/W00-1604</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>roark-charniak:2000:ELSPS</bibkey>
@@ -1779,7 +1779,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>37&#8211;42</pages>
+    <pages>37 #8211;42</pages>
     <url>http://www.aclweb.org/anthology/W00-1605</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>sarkar-EtAl:2000:ELSPS</bibkey>
@@ -1787,21 +1787,21 @@
 
   <paper id="1606">
     <title>Large Scale Parsing of Czech</title>
-    <author>Pavel Smr&#x17e;</author>
-    <author>Ale&#x161; Hor&#225;k</author>
+    <author>Pavel Smr #x17e;</author>
+    <author>Ale #x161; Hor #225;k</author>
     <booktitle>Proceedings of the COLING-2000 Workshop on Efficiency In Large-Scale Parsing Systems</booktitle>
     <month>August</month>
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>43&#8211;50</pages>
+    <pages>43 #8211;50</pages>
     <url>http://www.aclweb.org/anthology/W00-1606</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>smrz-horak:2000:ELSPS</bibkey>
   </paper>
 
   <paper id="1607">
-    <title>Cross-Platform, Cross-Grammar Comparison &#8211; Can it be Done?</title>
+    <title>Cross-Platform, Cross-Grammar Comparison  #8211; Can it be Done?</title>
     <author>Ulrich Callmeier</author>
     <author>Stephan Oepen</author>
     <booktitle>Proceedings of the COLING-2000 Workshop on Efficiency In Large-Scale Parsing Systems</booktitle>
@@ -1833,7 +1833,7 @@
   <paper id="1700">
     <title>Proceedings of the COLING-2000 Workshop on Semantic Annotation and Intelligent Content</title>
     <editor>Paul Buitelaar</editor>
-    <editor>K&#244;iti Hasida</editor>
+    <editor>K #244;iti Hasida</editor>
     <month>August</month>
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
@@ -1852,7 +1852,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>3&#8211;10</pages>
+    <pages>3 #8211;10</pages>
     <url>http://www.aclweb.org/anthology/W00-1701</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>fry-bond:2000:SIGLEX</bibkey>
@@ -1867,7 +1867,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>11&#8211;19</pages>
+    <pages>11 #8211;19</pages>
     <url>http://www.aclweb.org/anthology/W00-1702</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>agirre-martinez:2000:SIGLEX</bibkey>
@@ -1884,7 +1884,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>20&#8211;27</pages>
+    <pages>20 #8211;27</pages>
     <url>http://www.aclweb.org/anthology/W00-1703</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>watanabe-EtAl:2000:SIGLEX</bibkey>
@@ -1902,7 +1902,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>28&#8211;34</pages>
+    <pages>28 #8211;34</pages>
     <url>http://www.aclweb.org/anthology/W00-1704</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>tateisi-EtAl:2000:SIGLEX</bibkey>
@@ -1916,7 +1916,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>37&#8211;43</pages>
+    <pages>37 #8211;43</pages>
     <url>http://www.aclweb.org/anthology/W00-1705</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>poesio:2000:SIGLEX</bibkey>
@@ -1930,7 +1930,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>44&#8211;52</pages>
+    <pages>44 #8211;52</pages>
     <url>http://www.aclweb.org/anthology/W00-1706</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>nakaiwa:2000:SIGLEX</bibkey>
@@ -1947,7 +1947,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>53&#8211;60</pages>
+    <pages>53 #8211;60</pages>
     <url>http://www.aclweb.org/anthology/W00-1707</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>watanabe-EtAl:2000:SIGLEX</bibkey>
@@ -1962,7 +1962,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>63&#8211;69</pages>
+    <pages>63 #8211;69</pages>
     <url>http://www.aclweb.org/anthology/W00-1708</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>tanimura-nakagawa:2000:SIGLEX</bibkey>
@@ -1979,7 +1979,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>70&#8211;78</pages>
+    <pages>70 #8211;78</pages>
     <url>http://www.aclweb.org/anthology/W00-1709</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>nagao-EtAl:2000:SIGLEX</bibkey>
@@ -1996,7 +1996,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>79&#8211;85</pages>
+    <pages>79 #8211;85</pages>
     <url>http://www.aclweb.org/anthology/W00-1710</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>erdmann-EtAl:2000:SIGLEX</bibkey>
@@ -2006,7 +2006,7 @@
     <title>Proceedings of the Fifth Workshop of the ACL Special Interest Group in Computational Phonology</title>
     <editor>Jason Eisner</editor>
     <editor>Lauri Karttunen</editor>
-    <editor>Alain Th&#232;riault</editor>
+    <editor>Alain Th #232;riault</editor>
     <month>August</month>
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
@@ -2025,7 +2025,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>1&#8211;12</pages>
+    <pages>1 #8211;12</pages>
     <url>http://www.aclweb.org/anthology/W00-1801</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>beesley-karttunen:2000:SIGPHON</bibkey>
@@ -2039,7 +2039,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>13&#8211;21</pages>
+    <pages>13 #8211;21</pages>
     <url>http://www.aclweb.org/anthology/W00-1802</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>walther:2000:SIGPHON</bibkey>
@@ -2053,7 +2053,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>22&#8211;33</pages>
+    <pages>22 #8211;33</pages>
     <url>http://www.aclweb.org/anthology/W00-1803</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>eisner:2000:SIGPHON</bibkey>
@@ -2068,7 +2068,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>34&#8211;45</pages>
+    <pages>34 #8211;45</pages>
     <url>http://www.aclweb.org/anthology/W00-1804</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>gerdemann-noord:2000:SIGPHON</bibkey>
@@ -2082,7 +2082,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>46&#8211;56</pages>
+    <pages>46 #8211;56</pages>
     <url>http://www.aclweb.org/anthology/W00-1805</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>belz:2000:SIGPHON</bibkey>
@@ -2096,7 +2096,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>57&#8211;67</pages>
+    <pages>57 #8211;67</pages>
     <url>http://www.aclweb.org/anthology/W00-1806</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>albro:2000:SIGPHON</bibkey>
@@ -2129,7 +2129,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>1&#8211;10</pages>
+    <pages>1 #8211;10</pages>
     <url>http://www.aclweb.org/anthology/W00-1901</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>atwell-EtAl:2000:LINC</bibkey>
@@ -2144,7 +2144,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>11&#8211;17</pages>
+    <pages>11 #8211;17</pages>
     <url>http://www.aclweb.org/anthology/W00-1902</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>lai-changning:2000:LINC</bibkey>
@@ -2173,7 +2173,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>18&#8211;27</pages>
+    <pages>18 #8211;27</pages>
     <url>http://www.aclweb.org/anthology/W00-1903</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>montemagni-EtAl:2000:LINC</bibkey>
@@ -2187,7 +2187,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>28&#8211;34</pages>
+    <pages>28 #8211;34</pages>
     <url>http://www.aclweb.org/anthology/W00-1904</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>sampson:2000:LINC</bibkey>
@@ -2201,7 +2201,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>35&#8211;41</pages>
+    <pages>35 #8211;41</pages>
     <url>http://www.aclweb.org/anthology/W00-1905</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>kurz:2000:LINC</bibkey>
@@ -2209,14 +2209,14 @@
 
   <paper id="1906">
     <title>Bottom-Up Tagset Design from Maximally Reduced Tagset</title>
-    <author>P&#232;ter Dienes</author>
+    <author>P #232;ter Dienes</author>
     <author>Csaba Oravecz</author>
     <booktitle>Proceedings of the COLING-2000 Workshop on Linguistically Interpreted Corpora</booktitle>
     <month>August</month>
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>42&#8211;47</pages>
+    <pages>42 #8211;47</pages>
     <url>http://www.aclweb.org/anthology/W00-1906</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>dienes-oravecz:2000:LINC</bibkey>
@@ -2230,7 +2230,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>48&#8211;55</pages>
+    <pages>48 #8211;55</pages>
     <url>http://www.aclweb.org/anthology/W00-1907</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>halteren:2000:LINC</bibkey>
@@ -2244,7 +2244,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>56&#8211;64</pages>
+    <pages>56 #8211;64</pages>
     <url>http://www.aclweb.org/anthology/W00-1908</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>dipper:2000:LINC</bibkey>
@@ -2252,14 +2252,14 @@
 
   <paper id="1909">
     <title>Automatic Procedures in Tectogrammatical Tagging</title>
-    <author>Alena B&#246;hmov&#225;</author>
+    <author>Alena B #246;hmov #225;</author>
     <author>Petr Sgall</author>
     <booktitle>Proceedings of the COLING-2000 Workshop on Linguistically Interpreted Corpora</booktitle>
     <month>August</month>
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>65&#8211;70</pages>
+    <pages>65 #8211;70</pages>
     <url>http://www.aclweb.org/anthology/W00-1909</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>bohmova-sgall:2000:LINC</bibkey>
@@ -2274,7 +2274,7 @@
     <year>2000</year>
     <address>Centre Universitaire, Luxembourg</address>
     <publisher>International Committee on Computational Linguistics</publisher>
-    <pages>71&#8211;79</pages>
+    <pages>71 #8211;79</pages>
     <url>http://www.aclweb.org/anthology/W00-1910</url>
     <bibtype>inproceedings</bibtype>
     <bibkey>day-wellner:2000:LINC</bibkey>

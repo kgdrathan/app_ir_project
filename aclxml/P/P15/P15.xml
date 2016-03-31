@@ -16,7 +16,7 @@
 
   <paper id="1001">
     <title>On Using Very Large Target Vocabulary for Neural Machine Translation</title>
-    <author><first>S&#233;bastien</first><last>Jean</last></author>
+    <author><first>S #233;bastien</first><last>Jean</last></author>
     <author><first>Kyunghyun</first><last>Cho</last></author>
     <author><first>Roland</first><last>Memisevic</last></author>
     <author><first>Yoshua</first><last>Bengio</last></author>
@@ -25,7 +25,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1&#8211;10</pages>
+    <pages>1 #8211;10</pages>
     <url>http://www.aclweb.org/anthology/P15-1001</url>
     <doi>10.3115/v1/P15-1001</doi>
     <video href="http://techtalks.tv/talks/on-using-very-large-target-vocabulary-for-neural-machine-translation/61755/" tag="video"/>
@@ -45,7 +45,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>11&#8211;19</pages>
+    <pages>11 #8211;19</pages>
     <url>http://www.aclweb.org/anthology/P15-1002</url>
     <doi>10.3115/v1/P15-1002</doi>
     <video href="http://techtalks.tv/talks/addressing-the-rare-word-problem-in-neural-machine-translation/61756/" tag="video"/>
@@ -66,7 +66,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>20&#8211;30</pages>
+    <pages>20 #8211;30</pages>
     <url>http://www.aclweb.org/anthology/P15-1003</url>
     <doi>10.3115/v1/P15-1003</doi>
     <video href="http://techtalks.tv/talks/encoding-source-language-with-convolutional-neural-network-for-machine-translation/61757/" tag="video"/>
@@ -88,7 +88,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>31&#8211;41</pages>
+    <pages>31 #8211;41</pages>
     <url>http://www.aclweb.org/anthology/P15-1004</url>
     <doi>10.3115/v1/P15-1004</doi>
     <video href="http://techtalks.tv/talks/statistical-machine-translation-features-with-multitask-tensor-networks/61758/" tag="video"/>
@@ -105,7 +105,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>42&#8211;52</pages>
+    <pages>42 #8211;52</pages>
     <url>http://www.aclweb.org/anthology/P15-1005</url>
     <doi>10.3115/v1/P15-1005</doi>
     <video href="http://techtalks.tv/talks/describing-images-using-inferred-visual-dependency-representations/61683/" tag="video"/>
@@ -125,7 +125,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>53&#8211;62</pages>
+    <pages>53 #8211;62</pages>
     <url>http://www.aclweb.org/anthology/P15-1006</url>
     <doi>10.3115/v1/P15-1006</doi>
     <video href="http://techtalks.tv/talks/text-to-3d-scene-generation-with-rich-lexical-grounding/61684/" tag="video"/>
@@ -136,13 +136,13 @@
   <paper id="1007">
     <title>MultiGranCNN: An Architecture for General Matching of Text Chunks on Multiple Levels of Granularity</title>
     <author><first>Wenpeng</first><last>Yin</last></author>
-    <author><first>Hinrich</first><last>Sch&#252;tze</last></author>
+    <author><first>Hinrich</first><last>Sch #252;tze</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>63&#8211;73</pages>
+    <pages>63 #8211;73</pages>
     <url>http://www.aclweb.org/anthology/P15-1007</url>
     <doi>10.3115/v1/P15-1007</doi>
     <video href="http://techtalks.tv/talks/multigrancnn-an-architecture-for-general-matching-of-text-chunks-on-multiple-levels-of-granularity/61685/" tag="video"/>
@@ -161,7 +161,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>74&#8211;83</pages>
+    <pages>74 #8211;83</pages>
     <url>http://www.aclweb.org/anthology/P15-1008</url>
     <doi>10.3115/v1/P15-1008</doi>
     <video href="http://techtalks.tv/talks/weakly-supervised-models-of-aspect-sentiment-for-online-course-discussion-forums/61687/" tag="video"/>
@@ -181,7 +181,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>84&#8211;94</pages>
+    <pages>84 #8211;94</pages>
     <url>http://www.aclweb.org/anthology/P15-1009</url>
     <doi>10.3115/v1/P15-1009</doi>
     <video href="http://techtalks.tv/talks/semantically-smooth-knowledge-graph-embedding/61710/" tag="video"/>
@@ -200,7 +200,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>95&#8211;105</pages>
+    <pages>95 #8211;105</pages>
     <url>http://www.aclweb.org/anthology/P15-1010</url>
     <doi>10.3115/v1/P15-1010</doi>
     <video href="http://techtalks.tv/talks/sensembed-learning-sense-embeddings-for-word-and-relational-similarity/61711/" tag="video"/>
@@ -222,7 +222,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>106&#8211;115</pages>
+    <pages>106 #8211;115</pages>
     <url>http://www.aclweb.org/anthology/P15-1011</url>
     <doi>10.3115/v1/P15-1011</doi>
     <video href="http://techtalks.tv/talks/revisiting-word-embedding-for-contrasting-meaning/61712/" tag="video"/>
@@ -242,7 +242,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>116&#8211;125</pages>
+    <pages>116 #8211;125</pages>
     <url>http://www.aclweb.org/anthology/P15-1012</url>
     <doi>10.3115/v1/P15-1012</doi>
     <video href="http://techtalks.tv/talks/joint-models-of-disagreement-and-stance-in-online-debate/61724/" tag="video"/>
@@ -260,7 +260,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>126&#8211;135</pages>
+    <pages>126 #8211;135</pages>
     <url>http://www.aclweb.org/anthology/P15-1013</url>
     <doi>10.3115/v1/P15-1013</doi>
     <video href="http://techtalks.tv/talks/low-rank-regularization-for-sparse-conjunctive-feature-feature-spaces-an-application-to-named-entity-classification/61725/" tag="video"/>
@@ -280,7 +280,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>136&#8211;145</pages>
+    <pages>136 #8211;145</pages>
     <url>http://www.aclweb.org/anthology/P15-1014</url>
     <doi>10.3115/v1/P15-1014</doi>
     <video href="http://techtalks.tv/talks/learning-word-representations-by-jointly-modeling-syntagmatic-and-paradigmatic-relations/61726/" tag="video"/>
@@ -299,7 +299,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>146&#8211;155</pages>
+    <pages>146 #8211;155</pages>
     <url>http://www.aclweb.org/anthology/P15-1015</url>
     <doi>10.3115/v1/P15-1015</doi>
     <video href="http://techtalks.tv/talks/learning-dynamic-feature-selection-for-fast-sequential-prediction/61727/" tag="video"/>
@@ -318,7 +318,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>156&#8211;166</pages>
+    <pages>156 #8211;166</pages>
     <url>http://www.aclweb.org/anthology/P15-1016</url>
     <doi>10.3115/v1/P15-1016</doi>
     <video href="http://techtalks.tv/talks/compositional-vector-space-models-for-knowledge-base-inference/61739/" tag="video"/>
@@ -338,7 +338,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>167&#8211;176</pages>
+    <pages>167 #8211;176</pages>
     <url>http://www.aclweb.org/anthology/P15-1017</url>
     <doi>10.3115/v1/P15-1017</doi>
     <video href="http://techtalks.tv/talks/event-extraction-via-dynamic-multi-pooling-convolutional-networks/61740/" tag="video"/>
@@ -357,7 +357,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>177&#8211;187</pages>
+    <pages>177 #8211;187</pages>
     <url>http://www.aclweb.org/anthology/P15-1018</url>
     <doi>10.3115/v1/P15-1018</doi>
     <video href="http://techtalks.tv/talks/stacked-ensembles-of-information-extractors-for-knowledge-base-population/61741/" tag="video"/>
@@ -370,13 +370,13 @@
     <author><first>Kiem-Hieu</first><last>Nguyen</last></author>
     <author><first>Xavier</first><last>Tannier</last></author>
     <author><first>Olivier</first><last>Ferret</last></author>
-    <author><first>Romaric</first><last>Besan&#231;on</last></author>
+    <author><first>Romaric</first><last>Besan #231;on</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>188&#8211;197</pages>
+    <pages>188 #8211;197</pages>
     <url>http://www.aclweb.org/anthology/P15-1019</url>
     <doi>10.3115/v1/P15-1019</doi>
     <video href="http://techtalks.tv/talks/generative-event-schema-induction-with-entity-disambiguation/61742/" tag="video"/>
@@ -396,7 +396,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>198&#8211;207</pages>
+    <pages>198 #8211;207</pages>
     <url>http://www.aclweb.org/anthology/P15-1020</url>
     <doi>10.3115/v1/P15-1020</doi>
     <video href="http://techtalks.tv/talks/syntax-based-simultaneous-translation-through-prediction-of-unseen-syntactic-constituents/61688/" tag="video"/>
@@ -412,7 +412,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>208&#8211;218</pages>
+    <pages>208 #8211;218</pages>
     <url>http://www.aclweb.org/anthology/P15-1021</url>
     <doi>10.3115/v1/P15-1021</doi>
     <video href="http://techtalks.tv/talks/efficient-top-down-btg-parsing-for-machine-translation-preordering/61689/" tag="video"/>
@@ -422,7 +422,7 @@
 
   <paper id="1022">
     <title>Online Multitask Learning for Machine Translation Quality Estimation</title>
-    <author><first>Jos&#233; G.</first><last>C. de Souza</last></author>
+    <author><first>Jos #233; G.</first><last>C. de Souza</last></author>
     <author><first>Matteo</first><last>Negri</last></author>
     <author><first>Elisa</first><last>Ricci</last></author>
     <author><first>Marco</first><last>Turchi</last></author>
@@ -431,7 +431,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>219&#8211;228</pages>
+    <pages>219 #8211;228</pages>
     <url>http://www.aclweb.org/anthology/P15-1022</url>
     <doi>10.3115/v1/P15-1022</doi>
     <video href="http://techtalks.tv/talks/online-multitask-learning-for-machine-translation-quality-estimation/61690/" tag="video"/>
@@ -453,7 +453,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>229&#8211;238</pages>
+    <pages>229 #8211;238</pages>
     <url>http://www.aclweb.org/anthology/P15-1023</url>
     <doi>10.3115/v1/P15-1023</doi>
     <video href="http://techtalks.tv/talks/a-context-aware-topic-model-for-statistical-machine-translation/61691/" tag="video"/>
@@ -472,7 +472,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>239&#8211;249</pages>
+    <pages>239 #8211;249</pages>
     <url>http://www.aclweb.org/anthology/P15-1024</url>
     <doi>10.3115/v1/P15-1024</doi>
     <video href="http://techtalks.tv/talks/learning-answer-entailing-structures-for-machine-comprehension/61698/" tag="video"/>
@@ -492,7 +492,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>250&#8211;259</pages>
+    <pages>250 #8211;259</pages>
     <url>http://www.aclweb.org/anthology/P15-1025</url>
     <doi>10.3115/v1/P15-1025</doi>
     <video href="http://techtalks.tv/talks/learning-continuous-word-embedding-with-metadata-for-question-retrieval-in-community-question-answering/61699/" tag="video"/>
@@ -511,7 +511,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>260&#8211;269</pages>
+    <pages>260 #8211;269</pages>
     <url>http://www.aclweb.org/anthology/P15-1026</url>
     <doi>10.3115/v1/P15-1026</doi>
     <video href="http://techtalks.tv/talks/question-answering-over-freebase-with-multi-column-convolutional-neural-networks/61700/" tag="video"/>
@@ -529,7 +529,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>270&#8211;280</pages>
+    <pages>270 #8211;280</pages>
     <url>http://www.aclweb.org/anthology/P15-1027</url>
     <doi>10.3115/v1/P15-1027</doi>
     <video href="http://techtalks.tv/talks/hubness-and-pollution-delving-into-cross-space-mapping-for-zero-shot-learning/61713/" tag="video"/>
@@ -547,7 +547,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>281&#8211;291</pages>
+    <pages>281 #8211;291</pages>
     <url>http://www.aclweb.org/anthology/P15-1028</url>
     <doi>10.3115/v1/P15-1028</doi>
     <video href="http://techtalks.tv/talks/a-generalization-of-lexical-functions-for-composition-in-distributional-semantics/61715/" tag="video"/>
@@ -565,7 +565,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>292&#8211;301</pages>
+    <pages>292 #8211;301</pages>
     <url>http://www.aclweb.org/anthology/P15-1029</url>
     <doi>10.3115/v1/P15-1029</doi>
     <video href="http://techtalks.tv/talks/simple-learning-and-compositional-application-of-perceptually-grounded-word-meanings-for-incremental-reference-resolution/61716/" tag="video"/>
@@ -582,7 +582,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>302&#8211;312</pages>
+    <pages>302 #8211;312</pages>
     <url>http://www.aclweb.org/anthology/P15-1030</url>
     <doi>10.3115/v1/P15-1030</doi>
     <video href="http://techtalks.tv/talks/neural-crf-parsing/61728/" tag="video"/>
@@ -600,7 +600,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>313&#8211;322</pages>
+    <pages>313 #8211;322</pages>
     <url>http://www.aclweb.org/anthology/P15-1031</url>
     <doi>10.3115/v1/P15-1031</doi>
     <video href="http://techtalks.tv/talks/an-effective-neural-network-model-for-graph-based-dependency-parsing/61729/" tag="video"/>
@@ -619,7 +619,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>323&#8211;333</pages>
+    <pages>323 #8211;333</pages>
     <url>http://www.aclweb.org/anthology/P15-1032</url>
     <doi>10.3115/v1/P15-1032</doi>
     <video href="http://techtalks.tv/talks/structured-training-for-neural-network-transition-based-parsing/61730/" tag="video"/>
@@ -640,7 +640,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>334&#8211;343</pages>
+    <pages>334 #8211;343</pages>
     <url>http://www.aclweb.org/anthology/P15-1033</url>
     <doi>10.3115/v1/P15-1033</doi>
     <video href="http://techtalks.tv/talks/transition-based-dependency-parsing-with-stack-long-short-term-memory/61731/" tag="video"/>
@@ -658,7 +658,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>344&#8211;354</pages>
+    <pages>344 #8211;354</pages>
     <url>http://www.aclweb.org/anthology/P15-1034</url>
     <doi>10.3115/v1/P15-1034</doi>
     <video href="http://techtalks.tv/talks/leveraging-linguistic-structure-for-open-domain-information-extraction/61743/" tag="video"/>
@@ -675,7 +675,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>355&#8211;364</pages>
+    <pages>355 #8211;364</pages>
     <url>http://www.aclweb.org/anthology/P15-1035</url>
     <doi>10.3115/v1/P15-1035</doi>
     <video href="http://techtalks.tv/talks/joint-ie-and-reasoning-a-statistical-relational-learning-approach/61744/" tag="video"/>
@@ -692,7 +692,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>365&#8211;375</pages>
+    <pages>365 #8211;375</pages>
     <url>http://www.aclweb.org/anthology/P15-1036</url>
     <doi>10.3115/v1/P15-1036</doi>
     <video href="http://techtalks.tv/talks/a-knowledge-intensive-model-for-prepositional-phrase-attachment/61745/" tag="video"/>
@@ -709,7 +709,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>376&#8211;386</pages>
+    <pages>376 #8211;386</pages>
     <url>http://www.aclweb.org/anthology/P15-1037</url>
     <doi>10.3115/v1/P15-1037</doi>
     <video href="http://techtalks.tv/talks/a-convolution-kernel-approach-to-identifying-comparisons-in-text/61746/" tag="video"/>
@@ -728,7 +728,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>387&#8211;396</pages>
+    <pages>387 #8211;396</pages>
     <url>http://www.aclweb.org/anthology/P15-1038</url>
     <doi>10.3115/v1/P15-1038</doi>
     <video href="http://techtalks.tv/talks/it-depends-dependency-parser-comparison-using-a-web-based-evaluation-tool/61693/" tag="video"/>
@@ -749,7 +749,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>397&#8211;407</pages>
+    <pages>397 #8211;407</pages>
     <url>http://www.aclweb.org/anthology/P15-1039</url>
     <doi>10.3115/v1/P15-1039</doi>
     <video href="http://techtalks.tv/talks/generating-high-quality-proposition-banks-for-multilingual-semantic-role-labeling/61694/" tag="video"/>
@@ -763,13 +763,13 @@
     <author><first>Claudia</first><last>Pinto</last></author>
     <author><first>Helena</first><last>Figueira</last></author>
     <author><first>Pedro</first><last>Mendes</last></author>
-    <author><first>Andr&#233; F. T.</first><last>Martins</last></author>
+    <author><first>Andr #233; F. T.</first><last>Martins</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>408&#8211;418</pages>
+    <pages>408 #8211;418</pages>
     <url>http://www.aclweb.org/anthology/P15-1040</url>
     <doi>10.3115/v1/P15-1040</doi>
     <video href="http://techtalks.tv/talks/aligning-opinions-cross-lingual-opinion-mining-with-dependencies/61702/" tag="video"/>
@@ -790,7 +790,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>419&#8211;429</pages>
+    <pages>419 #8211;429</pages>
     <url>http://www.aclweb.org/anthology/P15-1041</url>
     <doi>10.3115/v1/P15-1041</doi>
     <video href="http://techtalks.tv/talks/learning-to-adapt-credible-knowledge-in-cross-lingual-sentiment-analysis/61703/" tag="video"/>
@@ -809,7 +809,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>430&#8211;440</pages>
+    <pages>430 #8211;440</pages>
     <url>http://www.aclweb.org/anthology/P15-1042</url>
     <doi>10.3115/v1/P15-1042</doi>
     <video href="http://techtalks.tv/talks/learning-bilingual-sentiment-word-embeddings-for-cross-language-sentiment-classification/61704/" tag="video"/>
@@ -829,7 +829,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>441&#8211;450</pages>
+    <pages>441 #8211;450</pages>
     <url>http://www.aclweb.org/anthology/P15-1043</url>
     <doi>10.3115/v1/P15-1043</doi>
     <video href="http://techtalks.tv/talks/content-models-for-survey-generation-a-factoid-based-evaluation/61717/" tag="video"/>
@@ -839,14 +839,14 @@
 
   <paper id="1044">
     <title>Training a Natural Language Generator From Unaligned Data</title>
-    <author><first>Ond&#x159;ej</first><last>Du&#x161;ek</last></author>
+    <author><first>Ond #x159;ej</first><last>Du #x161;ek</last></author>
     <author><first>Filip</first><last>Jurcicek</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>451&#8211;461</pages>
+    <pages>451 #8211;461</pages>
     <url>http://www.aclweb.org/anthology/P15-1044</url>
     <doi>10.3115/v1/P15-1044</doi>
     <video href="http://techtalks.tv/talks/training-a-natural-language-generator-from-unaligned-data/61718/" tag="video"/>
@@ -865,7 +865,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>462&#8211;472</pages>
+    <pages>462 #8211;472</pages>
     <url>http://www.aclweb.org/anthology/P15-1045</url>
     <doi>10.3115/v1/P15-1045</doi>
     <video href="http://techtalks.tv/talks/event-driven-headline-generation/61719/" tag="video"/>
@@ -884,7 +884,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>473&#8211;482</pages>
+    <pages>473 #8211;482</pages>
     <url>http://www.aclweb.org/anthology/P15-1046</url>
     <doi>10.3115/v1/P15-1046</doi>
     <video href="http://techtalks.tv/talks/new-transfer-learning-techniques-for-disparate-label-sets/61732/" tag="video"/>
@@ -903,7 +903,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>483&#8211;494</pages>
+    <pages>483 #8211;494</pages>
     <url>http://www.aclweb.org/anthology/P15-1047</url>
     <doi>10.3115/v1/P15-1047</doi>
     <video href="http://techtalks.tv/talks/matrix-factorization-with-knowledge-graph-propagation-for-unsupervised-spoken-language-understanding/61733/" tag="video"/>
@@ -923,7 +923,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>495&#8211;503</pages>
+    <pages>495 #8211;503</pages>
     <url>http://www.aclweb.org/anthology/P15-1048</url>
     <doi>10.3115/v1/P15-1048</doi>
     <video href="http://techtalks.tv/talks/efficient-disfluency-detection-with-transition-based-parsing/61734/" tag="video"/>
@@ -940,7 +940,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>504&#8211;513</pages>
+    <pages>504 #8211;513</pages>
     <url>http://www.aclweb.org/anthology/P15-1049</url>
     <doi>10.3115/v1/P15-1049</doi>
     <video href="http://techtalks.tv/talks/smart-novel-tree-based-structured-learning-algorithms-applied-to-tweet-entity-linking/61747/" tag="video"/>
@@ -958,7 +958,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>514&#8211;523</pages>
+    <pages>514 #8211;523</pages>
     <url>http://www.aclweb.org/anthology/P15-1050</url>
     <doi>10.3115/v1/P15-1050</doi>
     <video href="http://techtalks.tv/talks/entity-retrieval-via-entity-factoid-hierarchy/61750/" tag="video"/>
@@ -978,7 +978,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>524&#8211;533</pages>
+    <pages>524 #8211;533</pages>
     <url>http://www.aclweb.org/anthology/P15-1051</url>
     <doi>10.3115/v1/P15-1051</doi>
     <bibtype>inproceedings</bibtype>
@@ -989,14 +989,14 @@
     <title>A Strategic Reasoning Model for Generating Alternative Answers</title>
     <author><first>Jon</first><last>Stevens</last></author>
     <author><first>Anton</first><last>Benz</last></author>
-    <author><first>Sebastian</first><last>Reu&#223;e</last></author>
+    <author><first>Sebastian</first><last>Reu #223;e</last></author>
     <author><first>Ralf</first><last>Klabunde</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>534&#8211;542</pages>
+    <pages>534 #8211;542</pages>
     <url>http://www.aclweb.org/anthology/P15-1052</url>
     <doi>10.3115/v1/P15-1052</doi>
     <bibtype>inproceedings</bibtype>
@@ -1012,7 +1012,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>543&#8211;552</pages>
+    <pages>543 #8211;552</pages>
     <url>http://www.aclweb.org/anthology/P15-1053</url>
     <doi>10.3115/v1/P15-1053</doi>
     <bibtype>inproceedings</bibtype>
@@ -1030,7 +1030,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>553&#8211;563</pages>
+    <pages>553 #8211;563</pages>
     <url>http://www.aclweb.org/anthology/P15-1054</url>
     <doi>10.3115/v1/P15-1054</doi>
     <bibtype>inproceedings</bibtype>
@@ -1049,7 +1049,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>564&#8211;574</pages>
+    <pages>564 #8211;574</pages>
     <url>http://www.aclweb.org/anthology/P15-1055</url>
     <doi>10.3115/v1/P15-1055</doi>
     <bibtype>inproceedings</bibtype>
@@ -1069,7 +1069,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>575&#8211;585</pages>
+    <pages>575 #8211;585</pages>
     <url>http://www.aclweb.org/anthology/P15-1056</url>
     <doi>10.3115/v1/P15-1056</doi>
     <attachment type="note">P15-1056.Notes.html</attachment>
@@ -1096,7 +1096,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>586&#8211;595</pages>
+    <pages>586 #8211;595</pages>
     <url>http://www.aclweb.org/anthology/P15-1057</url>
     <doi>10.3115/v1/P15-1057</doi>
     <dataset>P15-1057.Datasets.zip</dataset>
@@ -1116,7 +1116,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>596&#8211;605</pages>
+    <pages>596 #8211;605</pages>
     <url>http://www.aclweb.org/anthology/P15-1058</url>
     <doi>10.3115/v1/P15-1058</doi>
     <bibtype>inproceedings</bibtype>
@@ -1132,7 +1132,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>606&#8211;615</pages>
+    <pages>606 #8211;615</pages>
     <url>http://www.aclweb.org/anthology/P15-1059</url>
     <doi>10.3115/v1/P15-1059</doi>
     <bibtype>inproceedings</bibtype>
@@ -1151,7 +1151,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>616&#8211;625</pages>
+    <pages>616 #8211;625</pages>
     <url>http://www.aclweb.org/anthology/P15-1060</url>
     <doi>10.3115/v1/P15-1060</doi>
     <bibtype>inproceedings</bibtype>
@@ -1168,7 +1168,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>626&#8211;634</pages>
+    <pages>626 #8211;634</pages>
     <url>http://www.aclweb.org/anthology/P15-1061</url>
     <doi>10.3115/v1/P15-1061</doi>
     <bibtype>inproceedings</bibtype>
@@ -1185,7 +1185,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>635&#8211;644</pages>
+    <pages>635 #8211;644</pages>
     <url>http://www.aclweb.org/anthology/P15-1062</url>
     <doi>10.3115/v1/P15-1062</doi>
     <bibtype>inproceedings</bibtype>
@@ -1203,7 +1203,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>645&#8211;655</pages>
+    <pages>645 #8211;655</pages>
     <url>http://www.aclweb.org/anthology/P15-1063</url>
     <doi>10.3115/v1/P15-1063</doi>
     <bibtype>inproceedings</bibtype>
@@ -1220,7 +1220,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>656&#8211;665</pages>
+    <pages>656 #8211;665</pages>
     <url>http://www.aclweb.org/anthology/P15-1064</url>
     <doi>10.3115/v1/P15-1064</doi>
     <bibtype>inproceedings</bibtype>
@@ -1237,7 +1237,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>666&#8211;675</pages>
+    <pages>666 #8211;675</pages>
     <url>http://www.aclweb.org/anthology/P15-1065</url>
     <doi>10.3115/v1/P15-1065</doi>
     <bibtype>inproceedings</bibtype>
@@ -1255,7 +1255,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>676&#8211;686</pages>
+    <pages>676 #8211;686</pages>
     <url>http://www.aclweb.org/anthology/P15-1066</url>
     <doi>10.3115/v1/P15-1066</doi>
     <bibtype>inproceedings</bibtype>
@@ -1274,7 +1274,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>687&#8211;696</pages>
+    <pages>687 #8211;696</pages>
     <url>http://www.aclweb.org/anthology/P15-1067</url>
     <doi>10.3115/v1/P15-1067</doi>
     <bibtype>inproceedings</bibtype>
@@ -1290,7 +1290,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>697&#8211;707</pages>
+    <pages>697 #8211;707</pages>
     <url>http://www.aclweb.org/anthology/P15-1068</url>
     <doi>10.3115/v1/P15-1068</doi>
     <dataset>P15-1068.Datasets.zip</dataset>
@@ -1308,7 +1308,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>708&#8211;718</pages>
+    <pages>708 #8211;718</pages>
     <url>http://www.aclweb.org/anthology/P15-1069</url>
     <doi>10.3115/v1/P15-1069</doi>
     <bibtype>inproceedings</bibtype>
@@ -1324,7 +1324,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>719&#8211;729</pages>
+    <pages>719 #8211;729</pages>
     <url>http://www.aclweb.org/anthology/P15-1070</url>
     <doi>10.3115/v1/P15-1070</doi>
     <bibtype>inproceedings</bibtype>
@@ -1341,7 +1341,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>730&#8211;740</pages>
+    <pages>730 #8211;740</pages>
     <url>http://www.aclweb.org/anthology/P15-1071</url>
     <doi>10.3115/v1/P15-1071</doi>
     <bibtype>inproceedings</bibtype>
@@ -1350,7 +1350,7 @@
 
   <paper id="1072">
     <title>A Unified Multilingual Semantic Representation of Concepts</title>
-    <author><first>Jos&#233;</first><last>Camacho-Collados</last></author>
+    <author><first>Jos #233;</first><last>Camacho-Collados</last></author>
     <author><first>Mohammad Taher</first><last>Pilehvar</last></author>
     <author><first>Roberto</first><last>Navigli</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
@@ -1358,7 +1358,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>741&#8211;751</pages>
+    <pages>741 #8211;751</pages>
     <url>http://www.aclweb.org/anthology/P15-1072</url>
     <doi>10.3115/v1/P15-1072</doi>
     <dataset>P15-1072.Datasets.zip</dataset>
@@ -1374,7 +1374,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>752&#8211;762</pages>
+    <pages>752 #8211;762</pages>
     <url>http://www.aclweb.org/anthology/P15-1073</url>
     <doi>10.3115/v1/P15-1073</doi>
     <bibtype>inproceedings</bibtype>
@@ -1391,7 +1391,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>763&#8211;773</pages>
+    <pages>763 #8211;773</pages>
     <url>http://www.aclweb.org/anthology/P15-1074</url>
     <doi>10.3115/v1/P15-1074</doi>
     <bibtype>inproceedings</bibtype>
@@ -1408,7 +1408,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>774&#8211;784</pages>
+    <pages>774 #8211;784</pages>
     <url>http://www.aclweb.org/anthology/P15-1075</url>
     <doi>10.3115/v1/P15-1075</doi>
     <bibtype>inproceedings</bibtype>
@@ -1425,7 +1425,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>785&#8211;794</pages>
+    <pages>785 #8211;794</pages>
     <url>http://www.aclweb.org/anthology/P15-1076</url>
     <doi>10.3115/v1/P15-1076</doi>
     <bibtype>inproceedings</bibtype>
@@ -1442,7 +1442,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>795&#8211;804</pages>
+    <pages>795 #8211;804</pages>
     <url>http://www.aclweb.org/anthology/P15-1077</url>
     <doi>10.3115/v1/P15-1077</doi>
     <bibtype>inproceedings</bibtype>
@@ -1451,16 +1451,16 @@
 
   <paper id="1078">
     <title>Pairwise Neural Machine Translation Evaluation</title>
-    <author><first>Francisco</first><last>Guzm&#225;n</last></author>
+    <author><first>Francisco</first><last>Guzm #225;n</last></author>
     <author><first>Shafiq</first><last>Joty</last></author>
-    <author><first>Llu&#237;s</first><last>M&#224;rquez</last></author>
+    <author><first>Llu #237;s</first><last>M #224;rquez</last></author>
     <author><first>Preslav</first><last>Nakov</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>805&#8211;814</pages>
+    <pages>805 #8211;814</pages>
     <url>http://www.aclweb.org/anthology/P15-1078</url>
     <doi>10.3115/v1/P15-1078</doi>
     <bibtype>inproceedings</bibtype>
@@ -1477,7 +1477,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>815&#8211;824</pages>
+    <pages>815 #8211;824</pages>
     <url>http://www.aclweb.org/anthology/P15-1079</url>
     <doi>10.3115/v1/P15-1079</doi>
     <bibtype>inproceedings</bibtype>
@@ -1495,7 +1495,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>825&#8211;835</pages>
+    <pages>825 #8211;835</pages>
     <url>http://www.aclweb.org/anthology/P15-1080</url>
     <doi>10.3115/v1/P15-1080</doi>
     <bibtype>inproceedings</bibtype>
@@ -1513,7 +1513,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>836&#8211;845</pages>
+    <pages>836 #8211;845</pages>
     <url>http://www.aclweb.org/anthology/P15-1081</url>
     <doi>10.3115/v1/P15-1081</doi>
     <software>P15-1081.Software.zip</software>
@@ -1530,7 +1530,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>846&#8211;856</pages>
+    <pages>846 #8211;856</pages>
     <url>http://www.aclweb.org/anthology/P15-1082</url>
     <doi>10.3115/v1/P15-1082</doi>
     <bibtype>inproceedings</bibtype>
@@ -1548,7 +1548,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>857&#8211;866</pages>
+    <pages>857 #8211;866</pages>
     <url>http://www.aclweb.org/anthology/P15-1083</url>
     <doi>10.3115/v1/P15-1083</doi>
     <bibtype>inproceedings</bibtype>
@@ -1564,7 +1564,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>867&#8211;877</pages>
+    <pages>867 #8211;877</pages>
     <url>http://www.aclweb.org/anthology/P15-1084</url>
     <doi>10.3115/v1/P15-1084</doi>
     <bibtype>inproceedings</bibtype>
@@ -1581,7 +1581,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>878&#8211;888</pages>
+    <pages>878 #8211;888</pages>
     <url>http://www.aclweb.org/anthology/P15-1085</url>
     <doi>10.3115/v1/P15-1085</doi>
     <bibtype>inproceedings</bibtype>
@@ -1598,7 +1598,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>889&#8211;898</pages>
+    <pages>889 #8211;898</pages>
     <url>http://www.aclweb.org/anthology/P15-1086</url>
     <doi>10.3115/v1/P15-1086</doi>
     <bibtype>inproceedings</bibtype>
@@ -1615,7 +1615,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>899&#8211;908</pages>
+    <pages>899 #8211;908</pages>
     <url>http://www.aclweb.org/anthology/P15-1087</url>
     <doi>10.3115/v1/P15-1087</doi>
     <bibtype>inproceedings</bibtype>
@@ -1630,7 +1630,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>909&#8211;919</pages>
+    <pages>909 #8211;919</pages>
     <url>http://www.aclweb.org/anthology/P15-1088</url>
     <doi>10.3115/v1/P15-1088</doi>
     <bibtype>inproceedings</bibtype>
@@ -1647,7 +1647,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>920&#8211;928</pages>
+    <pages>920 #8211;928</pages>
     <url>http://www.aclweb.org/anthology/P15-1089</url>
     <doi>10.3115/v1/P15-1089</doi>
     <bibtype>inproceedings</bibtype>
@@ -1663,7 +1663,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>929&#8211;938</pages>
+    <pages>929 #8211;938</pages>
     <url>http://www.aclweb.org/anthology/P15-1090</url>
     <doi>10.3115/v1/P15-1090</doi>
     <bibtype>inproceedings</bibtype>
@@ -1679,7 +1679,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>939&#8211;949</pages>
+    <pages>939 #8211;949</pages>
     <url>http://www.aclweb.org/anthology/P15-1091</url>
     <doi>10.3115/v1/P15-1091</doi>
     <bibtype>inproceedings</bibtype>
@@ -1696,7 +1696,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>950&#8211;960</pages>
+    <pages>950 #8211;960</pages>
     <url>http://www.aclweb.org/anthology/P15-1092</url>
     <doi>10.3115/v1/P15-1092</doi>
     <bibtype>inproceedings</bibtype>
@@ -1714,7 +1714,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>961&#8211;970</pages>
+    <pages>961 #8211;970</pages>
     <url>http://www.aclweb.org/anthology/P15-1093</url>
     <doi>10.3115/v1/P15-1093</doi>
     <bibtype>inproceedings</bibtype>
@@ -1724,7 +1724,7 @@
   <paper id="1094">
     <title>Jointly optimizing word representations for lexical and sentential tasks with the C-PHRASE model</title>
     <author><first>Nghia The</first><last>Pham</last></author>
-    <author><first>Germ&#225;n</first><last>Kruszewski</last></author>
+    <author><first>Germ #225;n</first><last>Kruszewski</last></author>
     <author><first>Angeliki</first><last>Lazaridou</last></author>
     <author><first>Marco</first><last>Baroni</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
@@ -1732,7 +1732,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>971&#8211;981</pages>
+    <pages>971 #8211;981</pages>
     <url>http://www.aclweb.org/anthology/P15-1094</url>
     <doi>10.3115/v1/P15-1094</doi>
     <bibtype>inproceedings</bibtype>
@@ -1749,7 +1749,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>982&#8211;991</pages>
+    <pages>982 #8211;991</pages>
     <url>http://www.aclweb.org/anthology/P15-1095</url>
     <doi>10.3115/v1/P15-1095</doi>
     <bibtype>inproceedings</bibtype>
@@ -1767,7 +1767,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>992&#8211;1002</pages>
+    <pages>992 #8211;1002</pages>
     <url>http://www.aclweb.org/anthology/P15-1096</url>
     <doi>10.3115/v1/P15-1096</doi>
     <dataset>P15-1096.Datasets.tgz</dataset>
@@ -1786,7 +1786,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1003&#8211;1013</pages>
+    <pages>1003 #8211;1013</pages>
     <url>http://www.aclweb.org/anthology/P15-1097</url>
     <doi>10.3115/v1/P15-1097</doi>
     <bibtype>inproceedings</bibtype>
@@ -1803,7 +1803,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1014&#8211;1023</pages>
+    <pages>1014 #8211;1023</pages>
     <url>http://www.aclweb.org/anthology/P15-1098</url>
     <doi>10.3115/v1/P15-1098</doi>
     <dataset>P15-1098.Datasets.pdf</dataset>
@@ -1820,7 +1820,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1024&#8211;1034</pages>
+    <pages>1024 #8211;1034</pages>
     <url>http://www.aclweb.org/anthology/P15-1099</url>
     <doi>10.3115/v1/P15-1099</doi>
     <bibtype>inproceedings</bibtype>
@@ -1837,7 +1837,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1035&#8211;1044</pages>
+    <pages>1035 #8211;1044</pages>
     <url>http://www.aclweb.org/anthology/P15-1100</url>
     <doi>10.3115/v1/P15-1100</doi>
     <bibtype>inproceedings</bibtype>
@@ -1855,7 +1855,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1045&#8211;1053</pages>
+    <pages>1045 #8211;1053</pages>
     <url>http://www.aclweb.org/anthology/P15-1101</url>
     <doi>10.3115/v1/P15-1101</doi>
     <bibtype>inproceedings</bibtype>
@@ -1873,7 +1873,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1054&#8211;1063</pages>
+    <pages>1054 #8211;1063</pages>
     <url>http://www.aclweb.org/anthology/P15-1102</url>
     <doi>10.3115/v1/P15-1102</doi>
     <bibtype>inproceedings</bibtype>
@@ -1883,13 +1883,13 @@
   <paper id="1103">
     <title>Improving social relationships in face-to-face human-agent interactions: when the agent wants to know user's likes and dislikes</title>
     <author><first>Caroline</first><last>Langlet</last></author>
-    <author><first>Chlo&#233;</first><last>Clavel</last></author>
+    <author><first>Chlo #233;</first><last>Clavel</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1064&#8211;1073</pages>
+    <pages>1064 #8211;1073</pages>
     <url>http://www.aclweb.org/anthology/P15-1103</url>
     <doi>10.3115/v1/P15-1103</doi>
     <bibtype>inproceedings</bibtype>
@@ -1898,7 +1898,7 @@
 
   <paper id="1104">
     <title>Learning Word Representations from Scarce and Noisy Data with Embedding Subspaces</title>
-    <author><first>Ram&#243;n</first><last>Astudillo</last></author>
+    <author><first>Ram #243;n</first><last>Astudillo</last></author>
     <author><first>Silvio</first><last>Amir</last></author>
     <author><first>Wang</first><last>Ling</last></author>
     <author><first>Mario</first><last>Silva</last></author>
@@ -1908,7 +1908,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1074&#8211;1084</pages>
+    <pages>1074 #8211;1084</pages>
     <url>http://www.aclweb.org/anthology/P15-1104</url>
     <doi>10.3115/v1/P15-1104</doi>
     <bibtype>inproceedings</bibtype>
@@ -1925,7 +1925,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1085&#8211;1094</pages>
+    <pages>1085 #8211;1094</pages>
     <url>http://www.aclweb.org/anthology/P15-1105</url>
     <doi>10.3115/v1/P15-1105</doi>
     <bibtype>inproceedings</bibtype>
@@ -1943,7 +1943,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1095&#8211;1105</pages>
+    <pages>1095 #8211;1105</pages>
     <url>http://www.aclweb.org/anthology/P15-1106</url>
     <doi>10.3115/v1/P15-1106</doi>
     <bibtype>inproceedings</bibtype>
@@ -1960,7 +1960,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1106&#8211;1115</pages>
+    <pages>1106 #8211;1115</pages>
     <url>http://www.aclweb.org/anthology/P15-1107</url>
     <doi>10.3115/v1/P15-1107</doi>
     <bibtype>inproceedings</bibtype>
@@ -1971,14 +1971,14 @@
     <title>Joint Dependency Parsing and Multiword Expression Tokenization</title>
     <author><first>Alexis</first><last>Nasr</last></author>
     <author><first>Carlos</first><last>Ramisch</last></author>
-    <author><first>Jos&#233;</first><last>Deulofeu</last></author>
-    <author><first>Andr&#233;</first><last>Valli</last></author>
+    <author><first>Jos #233;</first><last>Deulofeu</last></author>
+    <author><first>Andr #233;</first><last>Valli</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1116&#8211;1126</pages>
+    <pages>1116 #8211;1126</pages>
     <url>http://www.aclweb.org/anthology/P15-1108</url>
     <doi>10.3115/v1/P15-1108</doi>
     <dataset>P15-1108.Datasets.tgz</dataset>
@@ -1995,7 +1995,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1127&#8211;1137</pages>
+    <pages>1127 #8211;1137</pages>
     <url>http://www.aclweb.org/anthology/P15-1109</url>
     <doi>10.3115/v1/P15-1109</doi>
     <bibtype>inproceedings</bibtype>
@@ -2012,7 +2012,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1138&#8211;1147</pages>
+    <pages>1138 #8211;1147</pages>
     <url>http://www.aclweb.org/anthology/P15-1110</url>
     <doi>10.3115/v1/P15-1110</doi>
     <dataset>P15-1100.Datasets.zip</dataset>
@@ -2029,7 +2029,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1148&#8211;1158</pages>
+    <pages>1148 #8211;1158</pages>
     <url>http://www.aclweb.org/anthology/P15-1111</url>
     <doi>10.3115/v1/P15-1111</doi>
     <bibtype>inproceedings</bibtype>
@@ -2047,7 +2047,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1159&#8211;1168</pages>
+    <pages>1159 #8211;1168</pages>
     <url>http://www.aclweb.org/anthology/P15-1112</url>
     <doi>10.3115/v1/P15-1112</doi>
     <bibtype>inproceedings</bibtype>
@@ -2063,7 +2063,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1169&#8211;1179</pages>
+    <pages>1169 #8211;1179</pages>
     <url>http://www.aclweb.org/anthology/P15-1113</url>
     <doi>10.3115/v1/P15-1113</doi>
     <bibtype>inproceedings</bibtype>
@@ -2079,7 +2079,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1180&#8211;1190</pages>
+    <pages>1180 #8211;1190</pages>
     <url>http://www.aclweb.org/anthology/P15-1114</url>
     <doi>10.3115/v1/P15-1114</doi>
     <bibtype>inproceedings</bibtype>
@@ -2095,7 +2095,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1191&#8211;1201</pages>
+    <pages>1191 #8211;1201</pages>
     <url>http://www.aclweb.org/anthology/P15-1115</url>
     <doi>10.3115/v1/P15-1115</doi>
     <bibtype>inproceedings</bibtype>
@@ -2110,7 +2110,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1202&#8211;1212</pages>
+    <pages>1202 #8211;1212</pages>
     <url>http://www.aclweb.org/anthology/P15-1116</url>
     <doi>10.3115/v1/P15-1116</doi>
     <bibtype>inproceedings</bibtype>
@@ -2128,7 +2128,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1213&#8211;1222</pages>
+    <pages>1213 #8211;1222</pages>
     <url>http://www.aclweb.org/anthology/P15-1117</url>
     <doi>10.3115/v1/P15-1117</doi>
     <bibtype>inproceedings</bibtype>
@@ -2144,7 +2144,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1223&#8211;1233</pages>
+    <pages>1223 #8211;1233</pages>
     <url>http://www.aclweb.org/anthology/P15-1118</url>
     <doi>10.3115/v1/P15-1118</doi>
     <bibtype>inproceedings</bibtype>
@@ -2163,7 +2163,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1234&#8211;1244</pages>
+    <pages>1234 #8211;1244</pages>
     <url>http://www.aclweb.org/anthology/P15-1119</url>
     <doi>10.3115/v1/P15-1119</doi>
     <bibtype>inproceedings</bibtype>
@@ -2178,7 +2178,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1245&#8211;1252</pages>
+    <pages>1245 #8211;1252</pages>
     <url>http://www.aclweb.org/anthology/P15-1120</url>
     <doi>10.3115/v1/P15-1120</doi>
     <bibtype>inproceedings</bibtype>
@@ -2194,7 +2194,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1253&#8211;1262</pages>
+    <pages>1253 #8211;1262</pages>
     <url>http://www.aclweb.org/anthology/P15-1121</url>
     <doi>10.3115/v1/P15-1121</doi>
     <video href="http://techtalks.tv/talks/machine-comprehension-with-discourse-relations/61766/" tag="video"/>
@@ -2213,7 +2213,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1263&#8211;1271</pages>
+    <pages>1263 #8211;1271</pages>
     <url>http://www.aclweb.org/anthology/P15-1122</url>
     <doi>10.3115/v1/P15-1122</doi>
     <video href="http://techtalks.tv/talks/implicit-role-linking-on-chinese-discourse-exploiting-explicit-roles-frame-to-frame-relations/61767/" tag="video"/>
@@ -2230,7 +2230,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1272&#8211;1281</pages>
+    <pages>1272 #8211;1281</pages>
     <url>http://www.aclweb.org/anthology/P15-1123</url>
     <doi>10.3115/v1/P15-1123</doi>
     <video href="http://techtalks.tv/talks/discourse-sensitive-automatic-identification-of-generic-expressions/61768/" tag="video"/>
@@ -2248,7 +2248,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1282&#8211;1291</pages>
+    <pages>1282 #8211;1291</pages>
     <url>http://www.aclweb.org/anthology/P15-1124</url>
     <doi>10.3115/v1/P15-1124</doi>
     <video href="http://techtalks.tv/talks/model-based-word-embeddings-from-decompositions-of-count-matrices/61791/" tag="video"/>
@@ -2268,7 +2268,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1292&#8211;1300</pages>
+    <pages>1292 #8211;1300</pages>
     <url>http://www.aclweb.org/anthology/P15-1125</url>
     <doi>10.3115/v1/P15-1125</doi>
     <video href="http://techtalks.tv/talks/entity-hierarchy-embedding/61792/" tag="video"/>
@@ -2286,7 +2286,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1301&#8211;1310</pages>
+    <pages>1301 #8211;1310</pages>
     <url>http://www.aclweb.org/anthology/P15-1126</url>
     <doi>10.3115/v1/P15-1126</doi>
     <video href="http://techtalks.tv/talks/orthogonality-of-syntax-and-semantics-within-distributional-spaces/61793/" tag="video"/>
@@ -2306,7 +2306,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1311&#8211;1320</pages>
+    <pages>1311 #8211;1320</pages>
     <url>http://www.aclweb.org/anthology/P15-1127</url>
     <doi>10.3115/v1/P15-1127</doi>
     <video href="http://techtalks.tv/talks/scalable-semantic-parsing-with-partial-ontologies/61785/" tag="video"/>
@@ -2325,7 +2325,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1321&#8211;1331</pages>
+    <pages>1321 #8211;1331</pages>
     <url>http://www.aclweb.org/anthology/P15-1128</url>
     <doi>10.3115/v1/P15-1128</doi>
     <video href="http://techtalks.tv/talks/semantic-parsing-via-staged-query-graph-generation-answering-with-knowledge-base/61786/" tag="video"/>
@@ -2345,7 +2345,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1332&#8211;1342</pages>
+    <pages>1332 #8211;1342</pages>
     <url>http://www.aclweb.org/anthology/P15-1129</url>
     <doi>10.3115/v1/P15-1129</doi>
     <video href="http://techtalks.tv/talks/building-a-semantic-parser-overnight/61787/" tag="video"/>
@@ -2365,7 +2365,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1343&#8211;1353</pages>
+    <pages>1343 #8211;1353</pages>
     <url>http://www.aclweb.org/anthology/P15-1130</url>
     <doi>10.3115/v1/P15-1130</doi>
     <video href="http://techtalks.tv/talks/predicting-polarities-of-tweets-by-composing-word-embeddings-with-long-short-term-memory/61802/" tag="video"/>
@@ -2382,7 +2382,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1354&#8211;1364</pages>
+    <pages>1354 #8211;1364</pages>
     <url>http://www.aclweb.org/anthology/P15-1131</url>
     <doi>10.3115/v1/P15-1131</doi>
     <video href="http://techtalks.tv/talks/topic-modeling-based-sentiment-analysis-on-social-media-for-stock-market-prediction/61801/" tag="video"/>
@@ -2403,7 +2403,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1365&#8211;1374</pages>
+    <pages>1365 #8211;1374</pages>
     <url>http://www.aclweb.org/anthology/P15-1132</url>
     <doi>10.3115/v1/P15-1132</doi>
     <video href="http://techtalks.tv/talks/learning-tag-embedding-and-tap-specific-composition-functions-in-recursive-neural-network/61800/" tag="video"/>
@@ -2415,13 +2415,13 @@
   <paper id="1133">
     <title>A convex and feature-rich discriminative approach to dependency grammar induction</title>
     <author><first>Edouard</first><last>Grave</last></author>
-    <author><first>No&#233;mie</first><last>Elhadad</last></author>
+    <author><first>No #233;mie</first><last>Elhadad</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1375&#8211;1384</pages>
+    <pages>1375 #8211;1384</pages>
     <url>http://www.aclweb.org/anthology/P15-1133</url>
     <doi>10.3115/v1/P15-1133</doi>
     <video href="http://techtalks.tv/talks/a-convex-and-feature-rich-discriminative-approach-to-dependency-grammar-induction/61815/" tag="video"/>
@@ -2439,7 +2439,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1385&#8211;1394</pages>
+    <pages>1385 #8211;1394</pages>
     <url>http://www.aclweb.org/anthology/P15-1134</url>
     <doi>10.3115/v1/P15-1134</doi>
     <video href="http://techtalks.tv/talks/parse-imputation-for-dependency-annotations/61816/" tag="video"/>
@@ -2456,7 +2456,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1395&#8211;1404</pages>
+    <pages>1395 #8211;1404</pages>
     <url>http://www.aclweb.org/anthology/P15-1135</url>
     <doi>10.3115/v1/P15-1135</doi>
     <video href="http://techtalks.tv/talks/probing-the-linguistic-strengths-and-limitations-of-unsupervised-grammar-induction/61817/" tag="video"/>
@@ -2473,7 +2473,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1405&#8211;1415</pages>
+    <pages>1405 #8211;1415</pages>
     <url>http://www.aclweb.org/anthology/P15-1136</url>
     <doi>10.3115/v1/P15-1136</doi>
     <video href="http://techtalks.tv/talks/entity-centric-coreference-resolution-with-model-stacking/61769/" tag="video"/>
@@ -2492,7 +2492,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1416&#8211;1426</pages>
+    <pages>1416 #8211;1426</pages>
     <url>http://www.aclweb.org/anthology/P15-1137</url>
     <doi>10.3115/v1/P15-1137</doi>
     <video href="http://techtalks.tv/talks/learning-anaphoricity-and-antecedent-ranking-features-for-coreference-resolution/61770/" tag="video"/>
@@ -2502,13 +2502,13 @@
 
   <paper id="1138">
     <title>Transferring Coreference Resolvers with Posterior Regularization</title>
-    <author><first>Andr&#233; F. T.</first><last>Martins</last></author>
+    <author><first>Andr #233; F. T.</first><last>Martins</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1427&#8211;1437</pages>
+    <pages>1427 #8211;1437</pages>
     <url>http://www.aclweb.org/anthology/P15-1138</url>
     <doi>10.3115/v1/P15-1138</doi>
     <video href="http://techtalks.tv/talks/transferring-coreference-resolvers-with-posteriorregularization/61771/" tag="video"/>
@@ -2527,7 +2527,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1438&#8211;1448</pages>
+    <pages>1438 #8211;1448</pages>
     <url>http://www.aclweb.org/anthology/P15-1139</url>
     <doi>10.3115/v1/P15-1139</doi>
     <video href="http://techtalks.tv/talks/tea-party-in-the-house-a-hierarchical-ideal-pointtopic-model-and-its-application-to-republican-legislators-in-the-112th-congress/61794/" tag="video"/>
@@ -2544,7 +2544,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1449&#8211;1459</pages>
+    <pages>1449 #8211;1459</pages>
     <url>http://www.aclweb.org/anthology/P15-1140</url>
     <doi>10.3115/v1/P15-1140</doi>
     <video href="http://techtalks.tv/talks/kb-lda-jointly-learning-a-knowledge-base-of-hierarchy-relations-and-facts/61795/" tag="video"/>
@@ -2557,7 +2557,7 @@
     <title>A Computationally Efficient Algorithm for Learning Topical Collocation Models</title>
     <author><first>Zhendong</first><last>Zhao</last></author>
     <author><first>Lan</first><last>Du</last></author>
-    <author><first>Benjamin</first><last>B&#246;rschinger</last></author>
+    <author><first>Benjamin</first><last>B #246;rschinger</last></author>
     <author><first>John K</first><last>Pate</last></author>
     <author><first>Massimiliano</first><last>Ciaramita</last></author>
     <author><first>Mark</first><last>Steedman</last></author>
@@ -2567,7 +2567,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1460&#8211;1469</pages>
+    <pages>1460 #8211;1469</pages>
     <url>http://www.aclweb.org/anthology/P15-1141</url>
     <doi>10.3115/v1/P15-1141</doi>
     <video href="http://techtalks.tv/talks/a-computationally-efficient-algorithm-for-learning-topical-collocation-models/61796/" tag="video"/>
@@ -2584,7 +2584,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1470&#8211;1480</pages>
+    <pages>1470 #8211;1480</pages>
     <url>http://www.aclweb.org/anthology/P15-1142</url>
     <doi>10.3115/v1/P15-1142</doi>
     <video href="http://techtalks.tv/talks/compositional-semantic-parsing-on-semi-structured-tables/61789/" tag="video"/>
@@ -2602,7 +2602,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1481&#8211;1490</pages>
+    <pages>1481 #8211;1490</pages>
     <url>http://www.aclweb.org/anthology/P15-1143</url>
     <doi>10.3115/v1/P15-1143</doi>
     <video href="http://techtalks.tv/talks/graph-parsing-using-s-graph-grammars/61790/" tag="video"/>
@@ -2623,7 +2623,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1491&#8211;1500</pages>
+    <pages>1491 #8211;1500</pages>
     <url>http://www.aclweb.org/anthology/P15-1144</url>
     <doi>10.3115/v1/P15-1144</doi>
     <video href="http://techtalks.tv/talks/sparse-overcomplete-word-vector-representations/61799/" tag="video"/>
@@ -2643,7 +2643,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1501&#8211;1511</pages>
+    <pages>1501 #8211;1511</pages>
     <url>http://www.aclweb.org/anthology/P15-1145</url>
     <doi>10.3115/v1/P15-1145</doi>
     <video href="http://techtalks.tv/talks/learning-semantic-word-embeddings-based-on-ordinal-knowledge-constraints/61798/" tag="video"/>
@@ -2667,7 +2667,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1512&#8211;1522</pages>
+    <pages>1512 #8211;1522</pages>
     <url>http://www.aclweb.org/anthology/P15-1146</url>
     <doi>10.3115/v1/P15-1146</doi>
     <video href="http://techtalks.tv/talks/adding-semantics-to-data-driven-paraphrasing/61797/" tag="video"/>
@@ -2678,14 +2678,14 @@
 
   <paper id="1147">
     <title>Parsing as Reduction</title>
-    <author><first>Daniel</first><last>Fern&#225;ndez-Gonz&#225;lez</last></author>
-    <author><first>Andr&#233; F. T.</first><last>Martins</last></author>
+    <author><first>Daniel</first><last>Fern #225;ndez-Gonz #225;lez</last></author>
+    <author><first>Andr #233; F. T.</first><last>Martins</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1523&#8211;1533</pages>
+    <pages>1523 #8211;1533</pages>
     <url>http://www.aclweb.org/anthology/P15-1147</url>
     <doi>10.3115/v1/P15-1147</doi>
     <video href="http://techtalks.tv/talks/parsing-as-reduction/61818/" tag="video"/>
@@ -2704,7 +2704,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1534&#8211;1544</pages>
+    <pages>1534 #8211;1544</pages>
     <url>http://www.aclweb.org/anthology/P15-1148</url>
     <doi>10.3115/v1/P15-1148</doi>
     <video href="http://techtalks.tv/talks/optimal-shift-reduce-constituent-parsing-with-structured-perceptron/61819/" tag="video"/>
@@ -2722,7 +2722,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1545&#8211;1555</pages>
+    <pages>1545 #8211;1555</pages>
     <url>http://www.aclweb.org/anthology/P15-1149</url>
     <doi>10.3115/v1/P15-1149</doi>
     <video href="http://techtalks.tv/talks/a-data-driven-factorization-parser-for-ccg-dependency-structures/61820/" tag="video"/>
@@ -2742,7 +2742,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1556&#8211;1566</pages>
+    <pages>1556 #8211;1566</pages>
     <url>http://www.aclweb.org/anthology/P15-1150</url>
     <doi>10.3115/v1/P15-1150</doi>
     <video href="http://techtalks.tv/talks/improved-semantic-representations-from-tree-structured-long-short-tem-memory-networks/61849/" tag="video"/>
@@ -2762,7 +2762,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1567&#8211;1576</pages>
+    <pages>1567 #8211;1576</pages>
     <url>http://www.aclweb.org/anthology/P15-1151</url>
     <doi>10.3115/v1/P15-1151</doi>
     <video href="http://techtalks.tv/talks/gencnn-a-convolutional-architecture-for-word-sequence-prediction/61850/" tag="video"/>
@@ -2780,7 +2780,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1577&#8211;1586</pages>
+    <pages>1577 #8211;1586</pages>
     <url>http://www.aclweb.org/anthology/P15-1152</url>
     <doi>10.3115/v1/P15-1152</doi>
     <video href="http://techtalks.tv/talks/neural-responding-machine-for-short-text-conversation/61851/" tag="video"/>
@@ -2801,7 +2801,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1587&#8211;1597</pages>
+    <pages>1587 #8211;1597</pages>
     <url>http://www.aclweb.org/anthology/P15-1153</url>
     <doi>10.3115/v1/P15-1153</doi>
     <video href="http://techtalks.tv/talks/abstractive-multi-document-summarization-via-phrase-selection-and-merging/61828/" tag="video"/>
@@ -2819,7 +2819,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1598&#8211;1607</pages>
+    <pages>1598 #8211;1607</pages>
     <url>http://www.aclweb.org/anthology/P15-1154</url>
     <doi>10.3115/v1/P15-1154</doi>
     <video href="http://techtalks.tv/talks/joint-graphical-models-for-date-selection-in-timeline-summarization/61829/" tag="video"/>
@@ -2837,7 +2837,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1608&#8211;1617</pages>
+    <pages>1608 #8211;1617</pages>
     <url>http://www.aclweb.org/anthology/P15-1155</url>
     <doi>10.3115/v1/P15-1155</doi>
     <video href="http://techtalks.tv/talks/predicting-salient-updates-for-disaster-summarization/61830/" tag="video"/>
@@ -2855,7 +2855,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1618&#8211;1628</pages>
+    <pages>1618 #8211;1628</pages>
     <url>http://www.aclweb.org/anthology/P15-1156</url>
     <doi>10.3115/v1/P15-1156</doi>
     <video href="http://techtalks.tv/talks/unsupervised-prediction-of-acceptability-judgements/61833/" tag="video"/>
@@ -2873,7 +2873,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1629&#8211;1638</pages>
+    <pages>1629 #8211;1638</pages>
     <url>http://www.aclweb.org/anthology/P15-1157</url>
     <doi>10.3115/v1/P15-1157</doi>
     <video href="http://techtalks.tv/talks/a-frame-of-mind-using-statistical-models-for-detection-of-framing-and-agenda-setting-campaigns/61834/" tag="video"/>
@@ -2886,13 +2886,13 @@
     <author><first>Naho</first><last>Orita</last></author>
     <author><first>Eliana</first><last>Vornov</last></author>
     <author><first>Naomi</first><last>Feldman</last></author>
-    <author><first>Hal</first><last>Daum&#233; III</last></author>
+    <author><first>Hal</first><last>Daum #233; III</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1639&#8211;1649</pages>
+    <pages>1639 #8211;1649</pages>
     <url>http://www.aclweb.org/anthology/P15-1158</url>
     <doi>10.3115/v1/P15-1158</doi>
     <video href="http://techtalks.tv/talks/why-discourse-affects-speakers-choices-of-referring-expressions/61835/" tag="video"/>
@@ -2911,7 +2911,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1650&#8211;1659</pages>
+    <pages>1650 #8211;1659</pages>
     <url>http://www.aclweb.org/anthology/P15-1159</url>
     <doi>10.3115/v1/P15-1159</doi>
     <video href="http://techtalks.tv/talks/linguistic-harbingers-of-betrayal/61838/" tag="video"/>
@@ -2931,7 +2931,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1660&#8211;1670</pages>
+    <pages>1660 #8211;1670</pages>
     <url>http://www.aclweb.org/anthology/P15-1160</url>
     <doi>10.3115/v1/P15-1160</doi>
     <video href="http://techtalks.tv/talks/who-caught-a-cold-identifying-the-subject-of-a-symptom/61839/" tag="video"/>
@@ -2949,7 +2949,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1671&#8211;1680</pages>
+    <pages>1671 #8211;1680</pages>
     <url>http://www.aclweb.org/anthology/P15-1161</url>
     <doi>10.3115/v1/P15-1161</doi>
     <video href="http://techtalks.tv/talks/weakly-supervised-role-identification-in-teamwork-interactions/61840/" tag="video"/>
@@ -2962,13 +2962,13 @@
     <author><first>Mohit</first><last>Iyyer</last></author>
     <author><first>Varun</first><last>Manjunatha</last></author>
     <author><first>Jordan</first><last>Boyd-Graber</last></author>
-    <author><first>Hal</first><last>Daum&#233; III</last></author>
+    <author><first>Hal</first><last>Daum #233; III</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1681&#8211;1691</pages>
+    <pages>1681 #8211;1691</pages>
     <url>http://www.aclweb.org/anthology/P15-1162</url>
     <doi>10.3115/v1/P15-1162</doi>
     <video href="http://techtalks.tv/talks/deep-unordered-composition-rivals-syntactic-methods-for-text-classification/61844/" tag="video"/>
@@ -2987,7 +2987,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1692&#8211;1701</pages>
+    <pages>1692 #8211;1701</pages>
     <url>http://www.aclweb.org/anthology/P15-1163</url>
     <doi>10.3115/v1/P15-1163</doi>
     <video href="http://techtalks.tv/talks/solar-scalable-online-learning-algorithms-for-ranking/61843/" tag="video"/>
@@ -3005,7 +3005,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1702&#8211;1712</pages>
+    <pages>1702 #8211;1712</pages>
     <url>http://www.aclweb.org/anthology/P15-1164</url>
     <doi>10.3115/v1/P15-1164</doi>
     <video href="http://techtalks.tv/talks/text-categorization-as-a-graph-classification-problem/61845/" tag="video"/>
@@ -3015,9 +3015,9 @@
 
   <paper id="1165">
     <title>Inverted indexing for cross-lingual NLP</title>
-    <author><first>Anders</first><last>S&#248;gaard</last></author>
-    <author><first>&#x17D;eljko</first><last>Agi&#x107;</last></author>
-    <author><first>H&#233;ctor</first><last>Mart&#237;nez Alonso</last></author>
+    <author><first>Anders</first><last>S #248;gaard</last></author>
+    <author><first> #x17D;eljko</first><last>Agi #x107;</last></author>
+    <author><first>H #233;ctor</first><last>Mart #237;nez Alonso</last></author>
     <author><first>Barbara</first><last>Plank</last></author>
     <author><first>Bernd</first><last>Bohnet</last></author>
     <author><first>Anders</first><last>Johannsen</last></author>
@@ -3026,7 +3026,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1713&#8211;1722</pages>
+    <pages>1713 #8211;1722</pages>
     <url>http://www.aclweb.org/anthology/P15-1165</url>
     <doi>10.3115/v1/P15-1165</doi>
     <video href="http://techtalks.tv/talks/inverted-indexing-for-cross-lingual-nlp/61852/" tag="video"/>
@@ -3046,7 +3046,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1723&#8211;1732</pages>
+    <pages>1723 #8211;1732</pages>
     <url>http://www.aclweb.org/anthology/P15-1166</url>
     <doi>10.3115/v1/P15-1166</doi>
     <video href="http://techtalks.tv/talks/multi-task-learning-for-multiple-languages-translation/61853/" tag="video"/>
@@ -3063,7 +3063,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1733&#8211;1743</pages>
+    <pages>1733 #8211;1743</pages>
     <url>http://www.aclweb.org/anthology/P15-1167</url>
     <doi>10.3115/v1/P15-1167</doi>
     <video href="http://techtalks.tv/talks/accurate-linear-time-chinese-word-segmentation-via-embedding-matching/61831/" tag="video"/>
@@ -3083,7 +3083,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1744&#8211;1753</pages>
+    <pages>1744 #8211;1753</pages>
     <url>http://www.aclweb.org/anthology/P15-1168</url>
     <doi>10.3115/v1/P15-1168</doi>
     <video href="http://techtalks.tv/talks/gated-recursive-neural-network-for-chinese-word-segmentation/61832/" tag="video"/>
@@ -3093,7 +3093,7 @@
 
   <paper id="1169">
     <title>An analysis of the user occupational class through Twitter content</title>
-    <author><first>Daniel</first><last>Preo&#x163;iuc-Pietro</last></author>
+    <author><first>Daniel</first><last>Preo #x163;iuc-Pietro</last></author>
     <author><first>Vasileios</first><last>Lampos</last></author>
     <author><first>Nikolaos</first><last>Aletras</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
@@ -3101,7 +3101,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1754&#8211;1764</pages>
+    <pages>1754 #8211;1764</pages>
     <url>http://www.aclweb.org/anthology/P15-1169</url>
     <doi>10.3115/v1/P15-1169</doi>
     <video href="http://techtalks.tv/talks/an-analysis-of-the-user-occupational-class-through-twitter-content/61841/" tag="video"/>
@@ -3119,7 +3119,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1765&#8211;1773</pages>
+    <pages>1765 #8211;1773</pages>
     <url>http://www.aclweb.org/anthology/P15-1170</url>
     <doi>10.3115/v1/P15-1170</doi>
     <video href="http://techtalks.tv/talks/tracking-unbounded-topic-streams/61842/" tag="video"/>
@@ -3137,7 +3137,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1774&#8211;1782</pages>
+    <pages>1774 #8211;1782</pages>
     <url>http://www.aclweb.org/anthology/P15-1171</url>
     <doi>10.3115/v1/P15-1171</doi>
     <video href="http://techtalks.tv/talks/inducing-word-and-part-of-speech-with-pitman-yor-hidden-semi-markov-models/61846/" tag="video"/>
@@ -3156,7 +3156,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1783&#8211;1792</pages>
+    <pages>1783 #8211;1792</pages>
     <url>http://www.aclweb.org/anthology/P15-1172</url>
     <doi>10.3115/v1/P15-1172</doi>
     <video href="http://techtalks.tv/talks/coupled-sequence-labeling-on-heterogeneous-annotations-pos-tagging/61847/" tag="video"/>
@@ -3167,13 +3167,13 @@
   <paper id="1173">
     <title>AutoExtend: Extending Word Embeddings to Embeddings for Synsets and Lexemes</title>
     <author><first>Sascha</first><last>Rothe</last></author>
-    <author><first>Hinrich</first><last>Sch&#252;tze</last></author>
+    <author><first>Hinrich</first><last>Sch #252;tze</last></author>
     <booktitle>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</booktitle>
     <month>July</month>
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1793&#8211;1803</pages>
+    <pages>1793 #8211;1803</pages>
     <url>http://www.aclweb.org/anthology/P15-1173</url>
     <doi>10.3115/v1/P15-1173</doi>
     <video href="http://techtalks.tv/talks/extending-word-embedddings-to-embeddings-for-synsets-and-lexemes/61854/" tag="video"/>
@@ -3189,7 +3189,7 @@
     <year>2015</year>
     <address>Beijing, China</address>
     <publisher>Association for Computational Linguistics</publisher>
-    <pages>1804&#8211;1813</pages>
+    <pages>1804 #8211;1813</pages>
     <url>http://www.aclweb.org/anthology/P15-1174</url>
     <doi>10.3115/v1/P15-1174</doi>
     <video href="http://techtalks.tv/talks/improving-evaluation-of-machine-translation-quality-estimation/61855/" tag="video"/>

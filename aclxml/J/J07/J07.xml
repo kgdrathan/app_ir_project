@@ -24,8 +24,8 @@
 
 <paper id="1004">
 <title>Question Answering in Restricted Domains: An Overview</title>
-<author>Diego Moll&#225;</author>
-<author>Jos&#233; Luis Vicedo</author>
+<author>Diego Moll #225;</author>
+<author>Jos #233; Luis Vicedo</author>
 </paper>
 
 <paper id="1005">
@@ -72,7 +72,7 @@
 
 <paper id="2002">
 <title>Dependency-Based Construction of Semantic Space Models</title>
-<author>Sebastian Pad&#243;</author>
+<author>Sebastian Pad #243;</author>
 <author>Mirella Lapata</author>
 </paper>
 
@@ -83,7 +83,7 @@
 
 <paper id="2004">
 <title>Generating Referring Expressions: Making Referents Easy to Identify</title>
-<author>Ivandr&#233; Paraboni</author>
+<author>Ivandr #233; Paraboni</author>
 <author>Kees van Deemter</author>
 <author>Judith Masthoff</author>
 </paper>
@@ -137,7 +137,7 @@
 </paper>
 
 <paper id="3001">
-<title>Obituary: Karen Sp&#228;rck Jones</title>
+<title>Obituary: Karen Sp #228;rck Jones</title>
 <author>John Tait</author>
 </paper>
 
@@ -161,7 +161,7 @@
 
 <paper id="3005">
 <title>Classifying Non-Sentential Utterances in Dialogue: A Machine Learning Approach   </title>
-<author>Raquel Fern&#225;ndez</author>
+<author>Raquel Fern #225;ndez</author>
 <author>Jonathan Ginzburg</author>
 <author>Shalom Lappin</author>
 </paper>
@@ -177,7 +177,7 @@
 
 <paper id="3008">
 <title>Last Words: Computational Linguistics: What About the Linguistics?</title>
-<author>Karen Sp&#228;rck Jones</author>
+<author>Karen Sp #228;rck Jones</author>
 </paper>
 
 <paper id="4000">
@@ -192,7 +192,7 @@
 <paper id="4002">
 <title>Squibs: Prepositional Phrase Attachment without Oracles</title>
 <author>Michaela Atterer</author>
-</paper>Hinrich Sch&#252;tze
+</paper>Hinrich Sch #252;tze
 
 <paper id="4003">
 <title>Weighted and Probabilistic Context-Free Grammars Are Equally Expressive</title>
