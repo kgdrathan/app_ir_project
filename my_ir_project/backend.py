@@ -3,15 +3,14 @@ import numpy as np
 import os
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 print BASE_DIR
+
 debug = False
-aan_filepath = './static/data/ir_term_project/aan/'
+aan_filepath = BASE_DIR + '/my_ir_project/static/data/ir_term_project/aan/'
 
 def getTitle(filename):
 
     # filepath for xml file containing the metadata, files are in aclxml folder
-    filepath = '../aclxml/' + filename[0] + '/' + filename[0:3] + '/' + filename[0:3] + '.xml'
-
-    print filepath
+    filepath = './aclxml/' + filename[0] + '/' + filename[0:3] + '/' + filename[0:3] + '.xml'
     document = ElementTree.parse(filepath)
 
     for paper in document.findall( 'paper' ):        
@@ -21,14 +20,11 @@ def getTitle(filename):
                     return node.text
 
 def getDocID(filename):
-    print "enter"
     # filepath for relavant_papers.npy
     filepath = aan_filepath + 'LDA/relavant_papers.npy'
-
     x = np.load(filepath)
     i = 0
     for ele in x:
-        print ele[-12:]
         if(ele[-12:]==filename):
             return i
         i += 1

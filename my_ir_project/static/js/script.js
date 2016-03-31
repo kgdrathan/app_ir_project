@@ -28,26 +28,11 @@ $('select').material_select();
 
 // function - insert cards
 function insert_card(title, file) {
-    var data = "<div class='col s6'>\
-                    <div class='card grey darken-1'>\
-                        <div class='card-content white-text'>\
-                            <span>"+title+"</span>\
-                        </div>\
-                        <div class='card-action'>\
-                            <a class='modal-trigger' href='#modal' data-file='"+file+"'>Open</a>\
-                        </div>\
-                    </div>\
-                </div>";
-    $('#result').append(data);
-    $('.modal-trigger').on('click', function() {
-		var file_url = '/static/data/ir_term_project/aan/papers_text/' + $(this).data('file');
-		$('.modal-content p').load(file_url);
-		$('#modal').openModal();
-	});
+    return "<a class='modal-trigger collection-item' style='cursor:pointer' data-file='"+file+"'>"+title+"</a>";
 }
 
 function insert_div (year) {
-	$('#result').append("<div class='s12'>"+year+"</div>");
+	return "<ul class='collection with-header'><li class='collection-header'><h5>"+year+"</h5></li>";
 }
 
 $('#b_search').on('click', function() {
@@ -85,31 +70,43 @@ $('#b_search').on('click', function() {
         	console.log(year_dict);
         	for (i in year_dict) {
         		if (year_dict[i].length != 0) {
-        			insert_div(i);
+        			var temp = insert_div(i);
         			for(j in year_dict[i]){
-        				console.log(j);
-        				insert_card(year_dict[i][j][0], year_dict[i][j][1]);
+        				temp += insert_card(year_dict[i][j][0], year_dict[i][j][1]);
         			}
+        			temp += "</ul>";
+        			$('#result').append(temp);
         		}
         	}
-        	
+			$('.modal-trigger').on('click', function() {
+		    	$('.lean-overlay').remove();
+				var file_url = '/static/data/ir_term_project/aan/papers_text/' + $(this).data('file');
+				$('.modal-content p').load(file_url);
+				$('#modal').openModal();
+			});
         }
     });
 });
 
 $('.modal-footer a').on('click', function() {
 	$('#modal').closeModal();
-	$('.lean-overlay').hide();
+	$('.lean-overlay').remove();
 });
 
 $('#f_upload').on('change', function() {
     var u_file = document.getElementById('f_upload').files[0];
-    var filereader = new FileReader();
-    filereader.readAsText(u_file);
-    var filetext = filereader.result.toString();
-    console.log(u_file.name);
-    $('#f_upload_second').val(u_file);
-    $('#result').html(filetext);
+    // var filereader = new FileReader();
+    // filereader.readAsText(u_file);
+    // var filetext = filereader.result.toString();
+    // $('#result').html(filetext);
+    $.ajax({
+    	url: '/get_title',
+    	type: 'POST',
+    	data: {'file_name': u_file.name},
+    	success: function(res) {
+    		$('#f_upload_second').val(res);
+    	}
+    })
 });
 
 $('#second').hide();

@@ -3,27 +3,28 @@ from django.http import HttpResponse
 import backend
 
 import json
+import unicodedata
 
 def home(request):
     return render(request, 'home.html', {})
 
+def get_title(request):
+    file_name = request.POST['file_name']
+    print str(file_name)
+    return HttpResponse(backend.get_title(str(file_name)))
+
 def get_result(request):
-    print "start"
     start_year = request.POST['start_year']
     end_year = request.POST['end_year']
     # you can treat this as file object
     u_file = request.FILES['file']
-    print str(u_file)
-    
-    # u_file = "A00-1002.txt"
+
     u_file_id = backend.getDocID(str(u_file))
     topResults = backend.getTopNID(u_file_id, 30)
-    print len(topResults)
 
     titleArr = []
     fileArr = []
     yearArr = []
-    print 'hi, sunny'
     try:
         for idx in topResults:
             filename = backend.getFilename(idx)
@@ -33,9 +34,6 @@ def get_result(request):
     except Exception, e:
         print e
 
-    print titleArr
-    print fileArr
-    print yearArr
     res = {'title': titleArr,
             'file': fileArr,
             'year': yearArr}

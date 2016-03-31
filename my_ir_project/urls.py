@@ -10,6 +10,7 @@ urlpatterns = patterns('',
     # Examples:
     url(r'^$', views.home, name='home'),
     url(r'^get_result$', csrf_exempt(views.get_result), name='get_result'),
+    url(r'^get_title$', csrf_exempt(views.get_title), name='get_title'),
     # url(r'^blog/', include('blog.urls')),
 
     url(r'^admin/', include(admin.site.urls)),
