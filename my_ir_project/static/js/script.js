@@ -17,7 +17,7 @@ noUiSlider.create(slider, {
         decimals: 0
     })
 });
-slider.noUiSlider.on('change', function() {
+slider.noUiSlider.on('slide', function() {
 	$('#start_year').val(slider.noUiSlider.get()[0]);
 	$('#end_year').val(slider.noUiSlider.get()[1]);
 });
