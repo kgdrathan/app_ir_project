@@ -30,6 +30,10 @@ $(document).ready(function() {
     function insert_card(title, file) {
         return "<a class='modal-trigger collection-item ' style='cursor:pointer' data-file='"+file+"'>"+title+"</a>";
     }
+    function insert_card2(title, file,year) {
+        var title_year = title + " ("+year+")"
+        return "<a class='modal-trigger collection-item ' style='cursor:pointer' data-file='"+file+"'>"+title_year+"</a>";
+    }
 
     function insert_div (year) {
     	return "<ul class='collection with-header'><li class='collection-header'><h5>"+year+"</h5></li>";
@@ -37,12 +41,16 @@ $(document).ready(function() {
     function insert_div2 (file,title) {
         return "<ul class='collection with-header'><li style='cursor:pointer' class='collection-header modal-trigger' data-file='"+file+"'><h5>"+title+"</h5></li>";
     }
+
     $('#b_search').on('click', function() {
     	$('#result').empty();
     	$('#start_year_second').val($('#start_year').val());
     	$('#end_year_second').val($('#end_year').val());
-    	$('#type_second').val($('#type').val());
-    	$('#algo_second').val($('#algo').val());
+        console.log($('#type_second').val())
+    	// $('#type_second').val($('#type_first').val());
+    	// $('#algo_second').val($('#algo_first').val());
+     //    $('#sort_second').val($('#sort_first').val());
+
     	$('#first').hide();
     	$('#second').show();
         $('#query').show();
@@ -53,8 +61,8 @@ $(document).ready(function() {
     	formdata.append('start_year', slider.noUiSlider.get()[0]);
     	formdata.append('end_year', slider.noUiSlider.get()[1]);
         var opt1 = $('#type_first :selected').val();
-
-        if(opt1=="basic"){
+        var opt3 = $('#sort_first :selected').val();
+        if(opt1=="basic" && opt3=="year"){
         	$.ajax({
         		url: 'get_result',
                 type: 'POST',
@@ -94,6 +102,69 @@ $(document).ready(function() {
                 }
             });
         }
+        else if(opt1=="basic" && opt3=="rank"){
+            $.ajax({
+                url: 'get_result',
+                type: 'POST',
+                data: formdata,
+                contentType: false,
+                processData: false,
+                success: function(res) {
+                    $('#progress_bar').hide();
+                    $('#result').empty();
+                    var len = res['title'].length;
+                    var startt = $('#start_year_second').val();
+                    var endd = $('#end_year_second').val();
+                    var temp = "<div class='collection'>";
+                    for(var i = 0; i < len; i++) {
+                        if (res['year'][i] <= endd && res['year'][i] >= startt)
+                            temp += insert_card2(res['title'][i],res['file'][i],res['year'][i]);
+                    }
+                    temp += "</div>";
+                    $('#result').append(temp);
+                    
+                    $('.modal-trigger').on('click', function() {
+                        $('.lean-overlay').remove();
+                        var file_url = '/static/data/ir_term_project/aan/papers_text/' + $(this).data('file');
+                        $('.modal-content p').load(file_url);
+                        $('#modal').openModal();
+                    });
+                }
+            });   
+        }
+        else if(opt1=="cluster"){
+            $.ajax({
+                url: 'get_cluster',
+                type: 'POST',
+                data: formdata,
+                contentType: false,
+                processData: false,
+                success: function(res) {
+                 // console.log(res);
+                    $('#progress_bar').hide()
+                    show_cluster()
+                    var title_arr = res['title']
+                    var file_arr = res['file']
+                    var cluster_dict = res['clusters'] 
+                    for (i in cluster_dict) {
+
+                        var temp = insert_div2(file_arr[i],title_arr[i]);
+                        for(j in cluster_dict[i]){
+                            temp += insert_card( title_arr[cluster_dict[i][j]],file_arr[cluster_dict[i][j]]);
+                        }
+                        temp += "</ul>";
+                        $('#result2').append(temp);
+                        
+                    }
+                    $('.modal-trigger').on('click', function() {
+                        $('.lean-overlay').remove();
+                        var file_url = '/static/data/ir_term_project/aan/papers_text/' + $(this).data('file');
+                        $('.modal-content p').load(file_url);
+                        $('#modal').openModal();
+                    });
+                }
+            });
+        }
         
 
     });
@@ -107,7 +178,9 @@ $(document).ready(function() {
         formdata.append('end_year', $('#end_year_second').val());
 
         var opt1 = $('#type_second :selected').val();
-        if(opt1=="basic"){
+        var opt3 = $('#sort_second :selected').val();
+        console.log(opt3)
+        if(opt1=="basic" && opt3=="year"){
             
             $.ajax({
                 url: 'get_result',
@@ -148,7 +221,38 @@ $(document).ready(function() {
                 }
             });
         }
-        else{
+        else if(opt1=="basic" && opt3=="rank"){
+             $.ajax({
+                url: 'get_result',
+                type: 'POST',
+                data: formdata,
+                contentType: false,
+                processData: false,
+                success: function(res) {
+                    $('#progress_bar').hide();
+                    $('#result').empty();
+                    var len = res['title'].length;
+                    var startt = $('#start_year_second').val();
+                    var endd = $('#end_year_second').val();
+                    var temp = "<div class='collection'>";
+                    for(var i = 0; i < len; i++) {
+                        if (res['year'][i] <= endd && res['year'][i] >= startt)
+                            temp += insert_card2(res['title'][i],res['file'][i],res['year'][i]);
+                    }
+                    temp += "</div>";
+                    $('#result').append(temp);
+                    
+                    $('.modal-trigger').on('click', function() {
+                        $('.lean-overlay').remove();
+                        var file_url = '/static/data/ir_term_project/aan/papers_text/' + $(this).data('file');
+                        $('.modal-content p').load(file_url);
+                        $('#modal').openModal();
+                    });
+                }
+            });
+
+        }
+        else if(opt1=="cluster"){
 
             $.ajax({
                 url: 'get_cluster',

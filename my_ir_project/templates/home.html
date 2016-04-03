@@ -61,7 +61,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="input-field col s4 offset-s2">
+                    <div class="input-field col s4 ">
                         <select id="type_first">
                             <option value="basic">Basic</option>
                             <option value="cluster">Cluster</option>
@@ -74,6 +74,13 @@
                             <option value="div">Div Rank</option>
                         </select>
                         <label>Search Algo</label>
+                    </div>
+                    <div class="input-field col s4">
+                        <select id="sort_first">
+                            <option value="year" >Year</option>
+                            <option value="rank">Rank</option>
+                        </select>
+                        <label>Sort By</label>
                     </div>
                 </div>
             </div>
@@ -104,21 +111,28 @@
                 </div>
 
                 <div class="row">
-                    <div class="input-field col s4 ">
+                    <div class="input-field col s3 ">
                         <select id="type_second">
                             <option value="basic">Basic</option>
                             <option value="cluster">Cluster</option>
                         </select>
                         <label>Result Type</label>
                     </div>
-                    <div class="input-field col s4">
+                    <div class="input-field col s3">
                         <select id="algo_second">
                             <option value="random">Random Walk</option>
                             <option value="div">Div Rank</option>
                         </select>
                         <label>Search Algo</label>
                     </div>
-                    <div class="input-field col s4 ">
+                    <div class="input-field col s3">
+                        <select id="sort_second">
+                            <option value="year" >Year</option>
+                            <option value="rank">Rank</option>
+                        </select>
+                        <label>Sort By</label>
+                    </div>
+                    <div class="input-field col s3 ">
                         <button id="b_search_second" class="btn waves-effect waves-light center-btn">Search
                             <i class="material-icons left">search</i>
                         </button>
