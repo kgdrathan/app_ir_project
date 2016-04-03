@@ -29,6 +29,14 @@ def getDocID(filename):
             return i
         i += 1
 
+def get_doc_vec(idsArr):
+    filepath = aan_filepath + 'LDA/TP_ICP_DOC.npy'
+    x = np.load(filepath)
+    tp_icp_docs=[]
+    for ele in idsArr:
+        tp_icp_docs.append(x[ele])
+    return tp_icp_docs
+
 
 def getFilename(docID):
 
