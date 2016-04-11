@@ -200,7 +200,7 @@ def k_mediod_util(data):
 			dicter["links"].append(temp_dict)
 
 	import json
-	with open('./data.json','w') as f:
+	with open('./data_mediod.json','w') as f:
 		json.dump(dicter, f)
 	return best_medoids
 

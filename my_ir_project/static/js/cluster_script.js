@@ -1,5 +1,5 @@
-function show_cluster(){
-  var width = 1000,     // svg width
+function show_cluster(cluster_info,json_name){
+  var width = 800,     // svg width
       height = 400,     // svg height
       dr = 10,      // default point radius
       off = 15,    // cluster hull offset
@@ -9,7 +9,7 @@ function show_cluster(){
   var curve = d3.svg.line()
       .interpolate("cardinal-closed")
       .tension(.85);
-
+  var doc_map={}
   var fill = d3.scale.category20();
 
   function noop() { return false; }
@@ -58,7 +58,7 @@ function show_cluster(){
       var n = data.nodes[k],
           i = index(n),
           l = gm[i] || (gm[i]=gn[i]) || (gm[i]={group:i, size:0, nodes:[]});
-
+      
       if (expand[i]) {
         // the node should be directly visible
         nm[n.name] = nodes.length;
@@ -138,36 +138,79 @@ function show_cluster(){
 
   // --------------------------------------------------------
 
-  var body = d3.select("#result2");
+  var body = d3.select("#result_cluster");
 
   var vis = body.append("svg")
      .attr("width", width)
      .attr("height", height)
      .attr("display", "block")
      .attr("margin", "auto")
-     .attr("class","s12 center-align");
+     .attr("class"," col s8 offset-s2")
 
+  if(json_name=="cluster_random"){
+    d3.json("get_json_random", function(json) {
+            data = json;
+            for (var i=0; i<data.links.length; ++i) {
+              o = data.links[i];
+            
+              o.source = data.nodes[o.source];
+              o.target = data.nodes[o.target];
+            }
+            // console.log(cluster_info)
+            cluster_dict = cluster_info['clusters']
+            console.log(cluster_dict)
+            title_arr = cluster_info['title']
+            file_arr = cluster_info['file']
+            console.log(title_arr)
+            cluster_dict_visited = {}
+            for (i in cluster_dict){
+              cluster_dict_visited[i]=false
+            }
+            console.log(cluster_dict_visited)
+            hullg = vis.append("g");
+            linkg = vis.append("g");
+            nodeg = vis.append("g");
 
-  d3.json("get_json", function(json) {
-          data = json;
-          for (var i=0; i<data.links.length; ++i) {
-            o = data.links[i];
-            o.source = data.nodes[o.source];
-            o.target = data.nodes[o.target];
-          }
+            init();
 
-          hullg = vis.append("g");
-          linkg = vis.append("g");
-          nodeg = vis.append("g");
+            vis.attr("opacity", 1e-6)
+              .transition()
+                .duration(1000)
+                .attr("opacity", 1);
+          });
+  }
+  else{
+    d3.json("get_json_div", function(json) {
+            data = json;
+            for (var i=0; i<data.links.length; ++i) {
+              o = data.links[i];
+              o.source = data.nodes[o.source];
+              o.target = data.nodes[o.target];
+            }
+            // console.log(cluster_info)
+            
+            cluster_dict = cluster_info['clusters']
+            title_arr = cluster_info['title']
+            file_arr = cluster_info['file']
+            cluster_dict_visited = {}
+            for (i in cluster_dict){
+              cluster_dict_visited[i]=false
+            }
+            console.log(cluster_dict_visited)
+            hullg = vis.append("g");
+            linkg = vis.append("g");
+            nodeg = vis.append("g");
 
-          init();
-
-          vis.attr("opacity", 1e-6)
-            .transition()
-              .duration(1000)
-              .attr("opacity", 1);
-        });
-
+            init();
+            console.log("now its",doc_map) 
+                        
+            vis.attr("opacity", 1e-6)
+              .transition()
+                .duration(1000)
+                .attr("opacity", 1);
+          
+          });
+  }
   function init() {
       if (force) force.stop();
 
@@ -216,7 +259,7 @@ function show_cluster(){
       console.log("hull click", d, arguments, this, expand[d.group]);
             expand[d.group] = false; init();
           });
-
+      
         link = linkg.selectAll("line.link").data(net.links, linkid);
         link.exit().remove();
         link.enter().append("line")
@@ -229,17 +272,49 @@ function show_cluster(){
 
         node = nodeg.selectAll("circle.node").data(net.nodes, nodeid);
         node.exit().remove();
+    
         node.enter().append("circle")
             // if (d.size) -- d.size > 0 when d is a group node.
-            .attr("class", function(d) { return "node" + (d.size?"":" leaf"); })
+            .attr("class", function(d) {
+                                        return "node" + (d.size?"":" leaf"); })
             .attr("r", function(d) { return dr+1})//return d.size ? d.size + dr : dr+1; })
             .attr("cx", function(d) { return d.x; })
             .attr("cy", function(d) { return d.y; })
-            .style("fill", function(d) { return fill(d.group); })
-            .on("click", function(d) {
-      console.log("node click", d, arguments, this, expand[d.group]);
+            .style("fill", function(d) { 
+                for (i in cluster_dict){
+                  if(json_name=="cluster_random"){
+                    if(cluster_dict[i].length == d['size'] && !cluster_dict_visited[i]){
+                      doc_map[fill(d.group)] = i  ;
+                      console.log("i is ",i,fill(d.group))
+                      cluster_dict_visited[i]=true
+                      break
+                    }
+                  }
+                  else{
+                    if(cluster_dict[i].length == d['size']-1 && !cluster_dict_visited[i]){
+                      doc_map[fill(d.group)] =i  ;
+                      cluster_dict_visited[i]=true
+                      break
+                    }
+                  } 
+                }
+              return fill(d.group); }
+              )
+            
+              .on("click", function(d) {
+            
               expand[d.group] = !expand[d.group];
-          init();
+              init();
+              var name = file_arr[doc_map[fill(d.group)]]
+              if(name==null){
+
+                  name = file_arr[doc_map["#1f77b4"]] // a little hack
+              }
+              console.log("name is ",name)
+              var a = document.getElementById(name);
+              a.style.backgroundColor = fill(d.group);
+              setTimeout(function(){window.location.hash = "#"+name;},1000);
+              // window.location.href= ;
             });
 
         node.call(force.drag);
@@ -259,5 +334,4 @@ function show_cluster(){
               .attr("cy", function(d) { return d.y; });
         });
   }
-
 }

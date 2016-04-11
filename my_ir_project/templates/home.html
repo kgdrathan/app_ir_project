@@ -7,18 +7,34 @@
         <title>ACL Timeline Retrieval</title>
 
         <!-- CSS  -->
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <!-- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> -->
         <link href="{% static 'css/materialize.min.css' %}" type="text/css" rel="stylesheet" media="screen,projection"/>
-        <link href="http://materializecss.com/extras/noUiSlider/nouislider.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+        <link href="{% static 'css/nouislider.css' %}" type="text/css" rel="stylesheet" media="screen,projection"/>
+        <link href="{% static 'css/material-icon.css' %}" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+
+        <!-- <link href="http://materializecss.com/extras/noUiSlider/nouislider.css" type="text/css" rel="stylesheet" media="screen,projection"/> -->
         <link href="{% static 'css/cluster.css' %}" type="text/css" rel="stylesheet" media="screen,projection"/>
+        <link href="{% static 'css/jquery-ui.css' %}" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+        <!-- <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css"> -->
+
 
 
         <!--  Scripts-->
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-        
+        <script src="{% static 'js/jquery-2.1.1.min.js' %}"></script>
+        <script src="{% static 'js/jquery-ui.js' %}"></script>
+
+
+
         <script src="{% static 'js/materialize.min.js' %}"></script>
-        <script src="http://materializecss.com/extras/noUiSlider/nouislider.js"></script>
-        <script src="http://d3js.org/d3.v2.js"></script>
+        <script src="{% static 'js/nouislider.js' %}"></script>
+        <script src="{% static 'js/v2.js' %}"></script>
+
+        <script src="{% static 'js/script.js' %}"></script>
+
+
+        
     </head>
     <body>
         <div id="progress_bar" class="progress no-margin purple lighten-4">
@@ -26,29 +42,35 @@
         </div>
         <nav class="purple lighten-2" role="navigation">
             <div class="nav-wrapper container">
-                <a id="back" href="" >Back<i class="material-icons left">skip_previous</i></a>
+                <!-- <a id="back" href="" >Back<i class="material-icons left">skip_previous</i></a> -->
                 <span id="logo-container" class="brand-logo center">ACL Timeline Retrieval</span>
             
             </div>
         </nav>
 
         <div id="first" class="container row">
-            <div class="col s12 left-align">
-                <div class="file-field input-field center " style="padding:20px">
-                    <div class="btn purple lighten-2">
-                        <span>File</span>
-                        <input id="f_upload" type="file">
+                <br>
+                <br>
+                <nav>
+                    <div class="nav-wrapper white black-text">
+                      <form>
+                        <div id="search_bar" class="input-field ">
+                          <input placeholder="Enter the Query" id="txtSearch" type="search" required>
+                          <label for="txtSearch">
+                            <i class="material-icons">search</i>
+                          </label>
+                          <i id="close_bar" class="material-icons">close</i>
+                        </div>
+                      </form>
                     </div>
-                    <div class="file-path-wrapper">
-                        <input class="file-path validate" type="text">
-                    </div>
-                </div><br>
-
+                </nav>
+                <br>
+                <br>
                 <!-- <p class="flow-text">Select the Year Range:</p> -->
                 <div id="year_range" class="slider col s12 "></div><br><br>
 
                 <div class="row">
-                    <div class="input-field col s4 offset-s2">
+                    <div class="input-field col s4 ">
                         <i class="material-icons purple-text text-lighten-2 prefix">today</i>
                         <input placeholder="2004" id="start_year" type="text" class="validate" value="2004">
                         <label for="start_year">Start Year</label>
@@ -58,96 +80,44 @@
                         <input placeholder="2010" id="end_year" type="text" class="validate"  value="2010">
                         <label for="end_year">End Year</label>
                     </div>
-                </div>
-
-                <div class="row">
                     <div class="input-field col s4 ">
-                        <select id="type_first">
-                            <option value="basic">Basic</option>
-                            <option value="cluster">Cluster</option>
-                        </select>
-                        <label>Result Type</label>
-                    </div>
-                    <div class="input-field col s4">
-                        <select id="algo_first">
-                            <option value="random">Random Walk</option>
-                            <option value="div">Div Rank</option>
-                        </select>
-                        <label>Search Algo</label>
-                    </div>
-                    <div class="input-field col s4">
-                        <select id="sort_first">
-                            <option value="year" >Year</option>
-                            <option value="rank">Rank</option>
-                        </select>
-                        <label>Sort By</label>
-                    </div>
-                </div>
-            </div>
 
-            <div class="center"><button id="b_search" class="btn waves-effect waves-light center search purple lighten-2" style="margin:20px">Search
-                <i class="material-icons left">search</i>
-            </button></div>
-        </div>
+                        <select id="search_type">
+                            <option value="rank">Ranked Retrieval</option>
+                            <option value="year">Year Wise Retrieval</option>
+                            <option value="cluster">Clustered Retrieval</option>
+                            <option value="divrank">Diverse Retrieval</option>
 
-        <div id="second">
-            <br>
-            <div id="search_options" class="container">
-                <div class="row">
-                    <div class="input-field col s4">
-                        <input id="f_upload_second" type="text" class="validate">
-                        <label for="f_upload_second"></label>
-                    </div>
-                    <div class="input-field col s4">
-                        <i class="material-icons purple-text text-lighten-2 prefix">today</i>
-                        <input placeholder="2004" id="start_year_second" type="text" class="validate">
-                        <label for="start_year">Start Year</label>
-                    </div>
-                    <div class="input-field col s4">
-                        <i class="material-icons purple-text text-lighten-2 prefix">today</i>
-                        <input placeholder="2010" id="end_year_second" type="text" class="validate">
-                        <label for="end_year">End Year</label>
+                        </select>
+                        <label>Search Type</label>
                     </div>
                 </div>
 
                 <div class="row">
-                    <div class="input-field col s3 ">
-                        <select id="type_second">
-                            <option value="basic">Basic</option>
-                            <option value="cluster">Cluster</option>
-                        </select>
-                        <label>Result Type</label>
-                    </div>
-                    <div class="input-field col s3">
-                        <select id="algo_second">
-                            <option value="random">Random Walk</option>
-                            <option value="div">Div Rank</option>
-                        </select>
-                        <label>Search Algo</label>
-                    </div>
-                    <div class="input-field col s3">
-                        <select id="sort_second">
-                            <option value="year" >Year</option>
-                            <option value="rank">Rank</option>
-                        </select>
-                        <label>Sort By</label>
-                    </div>
-                    <div class="input-field col s3 ">
-                        <button id="b_search_second" class="btn waves-effect waves-light center-btn">Search
+                    <div class="center-align">
+                        <button id="b_search" class="btn waves-effect waves-light center-align purple lighten-2" style="margin:20px">Search
                             <i class="material-icons left">search</i>
                         </button>
                     </div>
+                    
                 </div>
-            </div>
-            <div class="row">
-                <p id="query" class="col s12 flow-text center-align"></p>              
-            </div>
-            <div id="result" class="container row">
+
                 
-            </div>
-            <div id="result2" class="container ">
-                
-            </div>
+                <div class="row">
+                    <p id="query" style="font-weight:500;" class="col s12 flow-text center-align"></p>              
+                </div>
+                <div id="result" class="row">
+                    
+                </div>
+                <div class="row">
+                    <p id="desc"  class="col s12 flow-text center-align">Cluster Center and its Members</p>
+                </div>
+                <div id="result_cluster" class="row">
+                    
+                </div>
+                <div id="result_collec" class="row">
+                    
+                </div>
         </div>
 
         <div id="modal" class="modal modal-fixed-footer">
@@ -158,9 +128,9 @@
                 <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
             </div>
         </div>
-        <script src="{% static 'js/script.js' %}"></script>
-
-        <script src="{% static 'js/cluster_script.js' %}" charset="utf-8"></script>
-
     </body>
+    
+    <script src="{% static 'js/cluster_script.js' %}" charset="utf-8"></script>
+
+
 </html>
