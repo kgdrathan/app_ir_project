@@ -38,5 +38,15 @@ Timeline retrieval of academic papers from ACL Anthology collection
 * [NumPy](www.numpy.org)
 * [Django](https://www.djangoproject.com)
 
-## Issues
-	W10-4238.txt   Author Index
+### Sample Screenshots
+#### 
+![showcase1](https://github.com/kgdrathan/app_ir_project/blob/master/images/s1.png)
+#### Ranked retrieval
+![showcase2](https://github.com/kgdrathan/app_ir_project/blob/master/images/s2.png)
+
+#### Year-wise Reterival
+![showcase3](https://github.com/kgdrathan/app_ir_project/blob/master/images/s3.png)
+#### Clustered Reterival
+![showcase1](https://github.com/kgdrathan/app_ir_project/blob/master/images/s4.png)
+
+
