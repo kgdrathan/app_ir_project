@@ -13,6 +13,10 @@ Timeline retrieval of academic papers from ACL Anthology collection
 * [Random Walk with restart](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1533&context=compsci)
 * [DivRank](dl.acm.org/ft_gateway.cfm?id=1835931)
 
+## Slides for Presentation
+
+* [Slides] (https://docs.google.com/presentation/d/1oJz0S1t27yeFW5U0F750fuiW3Oh97I41tP352O_HgQ0/edit?usp=sharing)
+
 
 ## Instructions to use
 
