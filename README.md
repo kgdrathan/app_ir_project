@@ -48,9 +48,13 @@ Timeline retrieval of academic papers from ACL Anthology collection
 #### Ranked retrieval
 ![showcase2](https://github.com/kgdrathan/app_ir_project/blob/master/images/s2.png)
 
-#### Year-wise Reterival
+#### Year-wise Retrieval
 ![showcase3](https://github.com/kgdrathan/app_ir_project/blob/master/images/s3.png)
-#### Clustered Reterival
+#### Clustered Retrieval
 ![showcase1](https://github.com/kgdrathan/app_ir_project/blob/master/images/s4.png)
+#### Diverse Retrieval
+![showcase1](https://github.com/kgdrathan/app_ir_project/blob/master/images/sc_div1.png)
+![showcase1](https://github.com/kgdrathan/app_ir_project/blob/master/images/sc_div1.png)
+![showcase1](https://github.com/kgdrathan/app_ir_project/blob/master/images/sc_div1.png)
 
 
